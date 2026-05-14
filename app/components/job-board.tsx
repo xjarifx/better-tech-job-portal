@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect } from 'react'
 import data from '@/data/index.json'
 import { LinkListItem } from './link-list-item'
 import { EmptyState } from './empty-state'
@@ -11,11 +11,21 @@ interface Entry {
   portal: boolean
 }
 
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr]
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]]
+  }
+  return a
+}
+
 export function JobBoard() {
   const [searchQuery, setSearchQuery] = useState('')
+  const [entries, setEntries] = useState<Entry[]>(() => data as Entry[])
 
-  const entries = useMemo(() => {
-    return data as Entry[]
+  useEffect(() => {
+    setEntries(shuffle(data as Entry[]))
   }, [])
 
   const filtered = useMemo(() => {
