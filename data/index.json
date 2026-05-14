@@ -1,10 +1,5 @@
 [
   {
-    "name": "10x Genomics",
-    "domain": "10xgenomics.com",
-    "portal": false
-  },
-  {
     "name": "1Password",
     "domain": "1password.com",
     "portal": false
@@ -15,33 +10,8 @@
     "portal": false
   },
   {
-    "name": "2U",
-    "domain": "2u.com",
-    "portal": false
-  },
-  {
-    "name": "Accenture",
-    "domain": "accenture.com",
-    "portal": false
-  },
-  {
-    "name": "Accenture Song",
-    "domain": "accenture.com",
-    "portal": false
-  },
-  {
-    "name": "Acorns",
-    "domain": "acorns.com",
-    "portal": false
-  },
-  {
     "name": "Activision",
     "domain": "activision.com",
-    "portal": false
-  },
-  {
-    "name": "Adept AI",
-    "domain": "adept.ai",
     "portal": false
   },
   {
@@ -50,18 +20,8 @@
     "portal": false
   },
   {
-    "name": "Adtran",
-    "domain": "adtran.com",
-    "portal": false
-  },
-  {
     "name": "Affirm",
     "domain": "affirm.com",
-    "portal": false
-  },
-  {
-    "name": "Age of Learning",
-    "domain": "ageoflearning.com",
     "portal": false
   },
   {
@@ -72,16 +32,6 @@
   {
     "name": "Akamai",
     "domain": "akamai.com",
-    "portal": false
-  },
-  {
-    "name": "Alchemy",
-    "domain": "alchemy.com",
-    "portal": false
-  },
-  {
-    "name": "Altice USA",
-    "domain": "alticeusa.com",
     "portal": false
   },
   {
@@ -115,11 +65,6 @@
     "portal": false
   },
   {
-    "name": "Apollo GraphQL",
-    "domain": "apollographql.com",
-    "portal": false
-  },
-  {
     "name": "Apple",
     "domain": "apple.com",
     "portal": false
@@ -127,41 +72,6 @@
   {
     "name": "Applied Materials",
     "domain": "appliedmaterials.com",
-    "portal": false
-  },
-  {
-    "name": "Applitools",
-    "domain": "applitools.com",
-    "portal": false
-  },
-  {
-    "name": "AppLovin",
-    "domain": "applovin.com",
-    "portal": false
-  },
-  {
-    "name": "Aqua Security",
-    "domain": "aquasec.com",
-    "portal": false
-  },
-  {
-    "name": "Arc.dev",
-    "domain": "arc.dev",
-    "portal": true
-  },
-  {
-    "name": "Archer Aviation",
-    "domain": "archer.com",
-    "portal": false
-  },
-  {
-    "name": "Arctic Wolf",
-    "domain": "arcticwolf.com",
-    "portal": false
-  },
-  {
-    "name": "Arista Networks",
-    "domain": "arista.com",
     "portal": false
   },
   {
@@ -175,28 +85,8 @@
     "portal": false
   },
   {
-    "name": "ASOS",
-    "domain": "asos.com",
-    "portal": false
-  },
-  {
-    "name": "Aspiration",
-    "domain": "aspiration.com",
-    "portal": false
-  },
-  {
-    "name": "AT&T",
-    "domain": "att.com",
-    "portal": false
-  },
-  {
     "name": "Atlassian",
     "domain": "atlassian.com",
-    "portal": false
-  },
-  {
-    "name": "Aurora Solar",
-    "domain": "aurorasolar.com",
     "portal": false
   },
   {
@@ -205,78 +95,8 @@
     "portal": false
   },
   {
-    "name": "Authentic Jobs",
-    "domain": "authenticjobs.com",
-    "portal": true
-  },
-  {
-    "name": "Bain & Company",
-    "domain": "bain.com",
-    "portal": false
-  },
-  {
-    "name": "Basecamp",
-    "domain": "basecamp.com",
-    "portal": false
-  },
-  {
-    "name": "BCG X",
-    "domain": "bcg.com/x",
-    "portal": false
-  },
-  {
-    "name": "Behance",
-    "domain": "behance.net",
-    "portal": true
-  },
-  {
-    "name": "Benchling",
-    "domain": "benchling.com",
-    "portal": false
-  },
-  {
-    "name": "BeReal",
-    "domain": "bereal.com",
-    "portal": false
-  },
-  {
-    "name": "Beta Technologies",
-    "domain": "beta.team",
-    "portal": false
-  },
-  {
-    "name": "Betterment",
-    "domain": "betterment.com",
-    "portal": false
-  },
-  {
-    "name": "BeyondTrust",
-    "domain": "beyondtrust.com",
-    "portal": false
-  },
-  {
-    "name": "Bharti Airtel",
-    "domain": "airtel.com",
-    "portal": false
-  },
-  {
-    "name": "BigCommerce",
-    "domain": "bigcommerce.com",
-    "portal": false
-  },
-  {
-    "name": "Bill.com",
-    "domain": "bill.com",
-    "portal": false
-  },
-  {
     "name": "Bitwarden",
     "domain": "bitwarden.com",
-    "portal": false
-  },
-  {
-    "name": "Blackboard",
-    "domain": "blackboard.com",
     "portal": false
   },
   {
@@ -300,29 +120,9 @@
     "portal": false
   },
   {
-    "name": "Booz Allen Hamilton",
-    "domain": "boozallen.com",
-    "portal": false
-  },
-  {
-    "name": "Boston Consulting Group",
-    "domain": "bcg.com",
-    "portal": false
-  },
-  {
     "name": "Box",
     "domain": "box.com",
     "portal": false
-  },
-  {
-    "name": "Brainly",
-    "domain": "brainly.com",
-    "portal": false
-  },
-  {
-    "name": "Braintrust",
-    "domain": "usebraintrust.com",
-    "portal": true
   },
   {
     "name": "Brex",
@@ -340,43 +140,13 @@
     "portal": false
   },
   {
-    "name": "BT Group",
-    "domain": "bt.com",
-    "portal": false
-  },
-  {
     "name": "Built In",
     "domain": "builtin.com",
     "portal": true
   },
   {
-    "name": "Bulb",
-    "domain": "bulb.com",
-    "portal": false
-  },
-  {
     "name": "Bungie",
     "domain": "bungie.net",
-    "portal": false
-  },
-  {
-    "name": "Byju's",
-    "domain": "byjus.com",
-    "portal": false
-  },
-  {
-    "name": "C3 AI",
-    "domain": "c3.ai",
-    "portal": false
-  },
-  {
-    "name": "Calico",
-    "domain": "calicolabs.com",
-    "portal": false
-  },
-  {
-    "name": "Calix",
-    "domain": "calix.com",
     "portal": false
   },
   {
@@ -395,11 +165,6 @@
     "portal": false
   },
   {
-    "name": "Capgemini",
-    "domain": "capgemini.com",
-    "portal": false
-  },
-  {
     "name": "CareerBuilder",
     "domain": "careerbuilder.com",
     "portal": true
@@ -410,33 +175,13 @@
     "portal": false
   },
   {
-    "name": "Cato Networks",
-    "domain": "catonetworks.com",
-    "portal": false
-  },
-  {
     "name": "CD Projekt",
     "domain": "cdprojektred.com",
     "portal": false
   },
   {
-    "name": "Chainlink",
-    "domain": "chain.link",
-    "portal": false
-  },
-  {
     "name": "ChargePoint",
     "domain": "chargepoint.com",
-    "portal": false
-  },
-  {
-    "name": "Charm Industrial",
-    "domain": "charmindustrial.com",
-    "portal": false
-  },
-  {
-    "name": "Charter Communications",
-    "domain": "charter.com",
     "portal": false
   },
   {
@@ -447,21 +192,6 @@
   {
     "name": "Chime",
     "domain": "chime.com",
-    "portal": false
-  },
-  {
-    "name": "Chronosphere",
-    "domain": "chronosphere.io",
-    "portal": false
-  },
-  {
-    "name": "Ciena",
-    "domain": "ciena.com",
-    "portal": false
-  },
-  {
-    "name": "Circle",
-    "domain": "circle.com",
     "portal": false
   },
   {
@@ -480,11 +210,6 @@
     "portal": false
   },
   {
-    "name": "Climeworks",
-    "domain": "climeworks.com",
-    "portal": false
-  },
-  {
     "name": "Cloudflare",
     "domain": "cloudflare.com",
     "portal": false
@@ -495,18 +220,8 @@
     "portal": false
   },
   {
-    "name": "Coda",
-    "domain": "coda.io",
-    "portal": false
-  },
-  {
     "name": "Codecademy",
     "domain": "codecademy.com",
-    "portal": false
-  },
-  {
-    "name": "Cognizant",
-    "domain": "cognizant.com",
     "portal": false
   },
   {
@@ -520,11 +235,6 @@
     "portal": false
   },
   {
-    "name": "Comcast",
-    "domain": "comcast.com",
-    "portal": false
-  },
-  {
     "name": "Confluent",
     "domain": "confluent.io",
     "portal": false
@@ -535,28 +245,8 @@
     "portal": false
   },
   {
-    "name": "Coroflot",
-    "domain": "coroflot.com",
-    "portal": true
-  },
-  {
-    "name": "Coupa",
-    "domain": "coupa.com",
-    "portal": false
-  },
-  {
     "name": "Coursera",
     "domain": "coursera.com",
-    "portal": false
-  },
-  {
-    "name": "Covariant",
-    "domain": "covariant.ai",
-    "portal": false
-  },
-  {
-    "name": "Crossplane",
-    "domain": "crossplane.io",
     "portal": false
   },
   {
@@ -565,33 +255,13 @@
     "portal": false
   },
   {
-    "name": "Crunchboard",
-    "domain": "crunchboard.com",
-    "portal": true
-  },
-  {
-    "name": "Current",
-    "domain": "current.com",
-    "portal": false
-  },
-  {
     "name": "CyberArk",
     "domain": "cyberark.com",
     "portal": false
   },
   {
-    "name": "Cybereason",
-    "domain": "cybereason.com",
-    "portal": false
-  },
-  {
     "name": "Cypress",
     "domain": "cypress.io",
-    "portal": false
-  },
-  {
-    "name": "Dailymotion",
-    "domain": "dailymotion.com",
     "portal": false
   },
   {
@@ -630,16 +300,6 @@
     "portal": false
   },
   {
-    "name": "DataStax",
-    "domain": "datastax.com",
-    "portal": false
-  },
-  {
-    "name": "Decentraland",
-    "domain": "decentraland.org",
-    "portal": false
-  },
-  {
     "name": "Deel",
     "domain": "deel.com",
     "portal": false
@@ -652,31 +312,6 @@
   {
     "name": "Dell",
     "domain": "dell.com",
-    "portal": false
-  },
-  {
-    "name": "Deloitte",
-    "domain": "deloitte.com",
-    "portal": false
-  },
-  {
-    "name": "Deloitte Digital",
-    "domain": "deloittedigital.com",
-    "portal": false
-  },
-  {
-    "name": "Depop",
-    "domain": "depop.com",
-    "portal": false
-  },
-  {
-    "name": "Descript",
-    "domain": "descript.com",
-    "portal": false
-  },
-  {
-    "name": "Deutsche Telekom",
-    "domain": "telekom.com",
     "portal": false
   },
   {
@@ -697,11 +332,6 @@
   {
     "name": "Disney",
     "domain": "disney.com",
-    "portal": false
-  },
-  {
-    "name": "Divvy",
-    "domain": "divvy.com",
     "portal": false
   },
   {
@@ -740,23 +370,8 @@
     "portal": false
   },
   {
-    "name": "Earthly",
-    "domain": "earthly.dev",
-    "portal": false
-  },
-  {
     "name": "eBay",
     "domain": "ebay.com",
-    "portal": false
-  },
-  {
-    "name": "Egnyte",
-    "domain": "egnyte.com",
-    "portal": false
-  },
-  {
-    "name": "Egress",
-    "domain": "egress.com",
     "portal": false
   },
   {
@@ -775,11 +390,6 @@
     "portal": false
   },
   {
-    "name": "EPAM Systems",
-    "domain": "epam.com",
-    "portal": false
-  },
-  {
     "name": "Epic Games",
     "domain": "epicgames.com",
     "portal": false
@@ -790,43 +400,13 @@
     "portal": false
   },
   {
-    "name": "Ericsson",
-    "domain": "ericsson.com",
-    "portal": false
-  },
-  {
     "name": "Etsy",
     "domain": "etsy.com",
     "portal": false
   },
   {
-    "name": "EVgo",
-    "domain": "evgo.com",
-    "portal": false
-  },
-  {
-    "name": "Exact Sciences",
-    "domain": "exactsciences.com",
-    "portal": false
-  },
-  {
-    "name": "EY",
-    "domain": "ey.com",
-    "portal": false
-  },
-  {
-    "name": "Farfetch",
-    "domain": "farfetch.com",
-    "portal": false
-  },
-  {
     "name": "Fastly",
     "domain": "fastly.com",
-    "portal": false
-  },
-  {
-    "name": "Fireworks AI",
-    "domain": "fireworks.ai",
     "portal": false
   },
   {
@@ -850,11 +430,6 @@
     "portal": false
   },
   {
-    "name": "ForgeRock",
-    "domain": "forgerock.com",
-    "portal": false
-  },
-  {
     "name": "Fortinet",
     "domain": "fortinet.com",
     "portal": false
@@ -862,21 +437,6 @@
   {
     "name": "Framer",
     "domain": "framer.com",
-    "portal": false
-  },
-  {
-    "name": "Freelancer",
-    "domain": "freelancer.com",
-    "portal": true
-  },
-  {
-    "name": "Freshworks",
-    "domain": "freshworks.com",
-    "portal": false
-  },
-  {
-    "name": "Ghost",
-    "domain": "ghost.org",
     "portal": false
   },
   {
@@ -895,21 +455,6 @@
     "portal": true
   },
   {
-    "name": "Glean",
-    "domain": "glean.com",
-    "portal": false
-  },
-  {
-    "name": "Globant",
-    "domain": "globant.com",
-    "portal": false
-  },
-  {
-    "name": "GOAT",
-    "domain": "goat.com",
-    "portal": false
-  },
-  {
     "name": "Google",
     "domain": "google.com",
     "portal": false
@@ -925,18 +470,8 @@
     "portal": true
   },
   {
-    "name": "GoStudent",
-    "domain": "gostudent.org",
-    "portal": false
-  },
-  {
     "name": "Grafana",
     "domain": "grafana.com",
-    "portal": false
-  },
-  {
-    "name": "GRAIL",
-    "domain": "grail.com",
     "portal": false
   },
   {
@@ -945,23 +480,8 @@
     "portal": false
   },
   {
-    "name": "Greenlight",
-    "domain": "greenlight.com",
-    "portal": false
-  },
-  {
     "name": "Guardant Health",
     "domain": "guardanthealth.com",
-    "portal": false
-  },
-  {
-    "name": "Gun.io",
-    "domain": "gun.io",
-    "portal": true
-  },
-  {
-    "name": "H2O.ai",
-    "domain": "h2o.ai",
     "portal": false
   },
   {
@@ -970,38 +490,13 @@
     "portal": true
   },
   {
-    "name": "Harvey AI",
-    "domain": "harvey.ai",
-    "portal": false
-  },
-  {
     "name": "HashiCorp",
     "domain": "hashicorp.com",
     "portal": false
   },
   {
-    "name": "Hasura",
-    "domain": "hasura.io",
-    "portal": false
-  },
-  {
-    "name": "HCLTech",
-    "domain": "hcltech.com",
-    "portal": false
-  },
-  {
     "name": "Headspace",
     "domain": "headspace.com",
-    "portal": false
-  },
-  {
-    "name": "Heart Aerospace",
-    "domain": "heartaerospace.com",
-    "portal": false
-  },
-  {
-    "name": "Height",
-    "domain": "height.app",
     "portal": false
   },
   {
@@ -1015,33 +510,13 @@
     "portal": false
   },
   {
-    "name": "Hinge Health",
-    "domain": "hingehealth.com",
-    "portal": false
-  },
-  {
     "name": "Hired",
     "domain": "hired.com",
     "portal": true
   },
   {
-    "name": "Homer Learning",
-    "domain": "homer.com",
-    "portal": false
-  },
-  {
-    "name": "Honeycomb",
-    "domain": "honeycomb.io",
-    "portal": false
-  },
-  {
     "name": "HP",
     "domain": "hp.com",
-    "portal": false
-  },
-  {
-    "name": "Huawei",
-    "domain": "huawei.com",
     "portal": false
   },
   {
@@ -1055,11 +530,6 @@
     "portal": false
   },
   {
-    "name": "Hume AI",
-    "domain": "hume.ai",
-    "portal": false
-  },
-  {
     "name": "IBM",
     "domain": "ibm.com",
     "portal": false
@@ -1070,44 +540,9 @@
     "portal": false
   },
   {
-    "name": "Illumio",
-    "domain": "illumio.com",
-    "portal": false
-  },
-  {
-    "name": "Immutable",
-    "domain": "immutable.com",
-    "portal": false
-  },
-  {
     "name": "Indeed",
     "domain": "indeed.com",
     "portal": true
-  },
-  {
-    "name": "Inflection AI",
-    "domain": "inflection.ai",
-    "portal": false
-  },
-  {
-    "name": "InfluxData",
-    "domain": "influxdata.com",
-    "portal": false
-  },
-  {
-    "name": "Infosys",
-    "domain": "infosys.com",
-    "portal": false
-  },
-  {
-    "name": "Insitro",
-    "domain": "insitro.com",
-    "portal": false
-  },
-  {
-    "name": "Insomniac Games",
-    "domain": "insomniac.games",
-    "portal": false
   },
   {
     "name": "Intel",
@@ -1115,43 +550,8 @@
     "portal": false
   },
   {
-    "name": "Jasper AI",
-    "domain": "jasper.ai",
-    "portal": false
-  },
-  {
-    "name": "JFrog",
-    "domain": "jfrog.com",
-    "portal": false
-  },
-  {
-    "name": "Jobspresso",
-    "domain": "jobspresso.co",
-    "portal": true
-  },
-  {
     "name": "Joby Aviation",
     "domain": "jobyaviation.com",
-    "portal": false
-  },
-  {
-    "name": "Jopwell",
-    "domain": "jopwell.com",
-    "portal": true
-  },
-  {
-    "name": "Juniper Networks",
-    "domain": "juniper.net",
-    "portal": false
-  },
-  {
-    "name": "K Health",
-    "domain": "khealth.com",
-    "portal": false
-  },
-  {
-    "name": "KDDI",
-    "domain": "kddi.com",
     "portal": false
   },
   {
@@ -1170,49 +570,14 @@
     "portal": false
   },
   {
-    "name": "KPMG",
-    "domain": "kpmg.com",
-    "portal": false
-  },
-  {
-    "name": "Kraken",
-    "domain": "kraken.ci",
-    "portal": false
-  },
-  {
     "name": "Kubernetes (CNCF)",
     "domain": "cncf.io",
-    "portal": false
-  },
-  {
-    "name": "Labelbox",
-    "domain": "labelbox.com",
-    "portal": false
-  },
-  {
-    "name": "Lacework",
-    "domain": "lacework.com",
-    "portal": false
-  },
-  {
-    "name": "Lambda",
-    "domain": "lambdalabs.com",
-    "portal": false
-  },
-  {
-    "name": "LanzaTech",
-    "domain": "lanzatech.com",
     "portal": false
   },
   {
     "name": "Levels.fyi",
     "domain": "levels.fyi",
     "portal": true
-  },
-  {
-    "name": "Lightstep",
-    "domain": "lightstep.com",
-    "portal": false
   },
   {
     "name": "Linear",
@@ -1225,38 +590,8 @@
     "portal": true
   },
   {
-    "name": "Linode",
-    "domain": "linode.com",
-    "portal": false
-  },
-  {
-    "name": "Lucid Motors",
-    "domain": "lucidmotors.com",
-    "portal": false
-  },
-  {
     "name": "Lyft",
     "domain": "lyft.com",
-    "portal": false
-  },
-  {
-    "name": "Lyra Health",
-    "domain": "lyrahealth.com",
-    "portal": false
-  },
-  {
-    "name": "Malt",
-    "domain": "malt.com",
-    "portal": true
-  },
-  {
-    "name": "Mammoth Biosciences",
-    "domain": "mammoth.bio",
-    "portal": false
-  },
-  {
-    "name": "Marqeta",
-    "domain": "marqeta.com",
     "portal": false
   },
   {
@@ -1265,33 +600,8 @@
     "portal": false
   },
   {
-    "name": "Mastodon",
-    "domain": "joinmastodon.org",
-    "portal": false
-  },
-  {
-    "name": "McKinsey & Company",
-    "domain": "mckinsey.com",
-    "portal": false
-  },
-  {
-    "name": "McKinsey Digital",
-    "domain": "mckinsey.com",
-    "portal": false
-  },
-  {
-    "name": "MediaTek",
-    "domain": "mediatek.com",
-    "portal": false
-  },
-  {
     "name": "Medium",
     "domain": "medium.com",
-    "portal": false
-  },
-  {
-    "name": "Meetup",
-    "domain": "meetup.com",
     "portal": false
   },
   {
@@ -1340,11 +650,6 @@
     "portal": false
   },
   {
-    "name": "Modern Health",
-    "domain": "modernhealth.com",
-    "portal": false
-  },
-  {
     "name": "Monday.com",
     "domain": "monday.com",
     "portal": false
@@ -1365,53 +670,8 @@
     "portal": false
   },
   {
-    "name": "Moon Active",
-    "domain": "moonactive.com",
-    "portal": false
-  },
-  {
-    "name": "Mulesoft",
-    "domain": "mulesoft.com",
-    "portal": false
-  },
-  {
-    "name": "MyFitnessPal",
-    "domain": "myfitnesspal.com",
-    "portal": false
-  },
-  {
-    "name": "Mythical Games",
-    "domain": "mythicalgames.com",
-    "portal": false
-  },
-  {
-    "name": "Naughty Dog",
-    "domain": "naughtydog.com",
-    "portal": false
-  },
-  {
-    "name": "NBCUniversal",
-    "domain": "nbcunicareers.com",
-    "portal": false
-  },
-  {
-    "name": "Nearpod",
-    "domain": "nearpod.com",
-    "portal": false
-  },
-  {
-    "name": "Neo4j",
-    "domain": "neo4j.com",
-    "portal": false
-  },
-  {
     "name": "Neon",
     "domain": "neon.tech",
-    "portal": false
-  },
-  {
-    "name": "NetApp",
-    "domain": "netapp.com",
     "portal": false
   },
   {
@@ -1425,18 +685,8 @@
     "portal": false
   },
   {
-    "name": "Netskope",
-    "domain": "netskope.com",
-    "portal": false
-  },
-  {
     "name": "New Relic",
     "domain": "newrelic.com",
-    "portal": false
-  },
-  {
-    "name": "Nextdoor",
-    "domain": "nextdoor.com",
     "portal": false
   },
   {
@@ -1455,11 +705,6 @@
     "portal": false
   },
   {
-    "name": "Nokia",
-    "domain": "nokia.com",
-    "portal": false
-  },
-  {
     "name": "Noom",
     "domain": "noom.com",
     "portal": false
@@ -1467,16 +712,6 @@
   {
     "name": "Nord Security",
     "domain": "nordsecurity.com",
-    "portal": false
-  },
-  {
-    "name": "Normal Computing",
-    "domain": "normalcomputing.ai",
-    "portal": false
-  },
-  {
-    "name": "Northvolt",
-    "domain": "northvolt.com",
     "portal": false
   },
   {
@@ -1490,18 +725,8 @@
     "portal": false
   },
   {
-    "name": "NTT Data",
-    "domain": "nttdata.com",
-    "portal": false
-  },
-  {
     "name": "Nubank",
     "domain": "nubank.com.br",
-    "portal": false
-  },
-  {
-    "name": "Nutanix",
-    "domain": "nutanix.com",
     "portal": false
   },
   {
@@ -1510,28 +735,8 @@
     "portal": false
   },
   {
-    "name": "Nx",
-    "domain": "nx.dev",
-    "portal": false
-  },
-  {
-    "name": "Oak Street Health",
-    "domain": "oakstreethealth.com",
-    "portal": false
-  },
-  {
-    "name": "Octopus Energy",
-    "domain": "octopusenergy.com",
-    "portal": false
-  },
-  {
     "name": "Okta",
     "domain": "okta.com",
-    "portal": false
-  },
-  {
-    "name": "Omada Health",
-    "domain": "omadahealth.com",
     "portal": false
   },
   {
@@ -1545,64 +750,14 @@
     "portal": false
   },
   {
-    "name": "OpenSea",
-    "domain": "opensea.io",
-    "portal": false
-  },
-  {
     "name": "Oracle",
     "domain": "oracle.com",
-    "portal": false
-  },
-  {
-    "name": "Orange",
-    "domain": "orange.com",
-    "portal": false
-  },
-  {
-    "name": "Orca Security",
-    "domain": "orca.security",
     "portal": false
   },
   {
     "name": "Otta",
     "domain": "otta.com",
     "portal": true
-  },
-  {
-    "name": "Otter AI",
-    "domain": "otter.ai",
-    "portal": false
-  },
-  {
-    "name": "Oura",
-    "domain": "ouraring.com",
-    "portal": false
-  },
-  {
-    "name": "Out in Tech",
-    "domain": "outintech.com",
-    "portal": true
-  },
-  {
-    "name": "Outschool",
-    "domain": "outschool.com",
-    "portal": false
-  },
-  {
-    "name": "OVHcloud",
-    "domain": "ovhcloud.com",
-    "portal": false
-  },
-  {
-    "name": "Pachama",
-    "domain": "pachama.com",
-    "portal": false
-  },
-  {
-    "name": "Pacific Biosciences",
-    "domain": "pacb.com",
-    "portal": false
   },
   {
     "name": "Palantir",
@@ -1612,16 +767,6 @@
   {
     "name": "Palo Alto Networks",
     "domain": "paloaltonetworks.com",
-    "portal": false
-  },
-  {
-    "name": "Papaya Global",
-    "domain": "papayaglobal.com",
-    "portal": false
-  },
-  {
-    "name": "Paramount",
-    "domain": "paramount.com",
     "portal": false
   },
   {
@@ -1640,43 +785,13 @@
     "portal": false
   },
   {
-    "name": "PeoplePerHour",
-    "domain": "peopleperhour.com",
-    "portal": true
-  },
-  {
-    "name": "Perficient",
-    "domain": "perficient.com",
-    "portal": false
-  },
-  {
     "name": "Perplexity AI",
     "domain": "perplexity.ai",
     "portal": false
   },
   {
-    "name": "Petal",
-    "domain": "petal.com",
-    "portal": false
-  },
-  {
-    "name": "Photomath",
-    "domain": "photomath.com",
-    "portal": false
-  },
-  {
-    "name": "Ping Identity",
-    "domain": "pingidentity.com",
-    "portal": false
-  },
-  {
     "name": "Pinterest",
     "domain": "pinterest.com",
-    "portal": false
-  },
-  {
-    "name": "Pipity",
-    "domain": "pipity.com",
     "portal": false
   },
   {
@@ -1690,28 +805,8 @@
     "portal": false
   },
   {
-    "name": "Planview",
-    "domain": "planview.com",
-    "portal": false
-  },
-  {
-    "name": "Playrix",
-    "domain": "playrix.com",
-    "portal": false
-  },
-  {
     "name": "Playwright",
     "domain": "playwright.dev",
-    "portal": false
-  },
-  {
-    "name": "Pluralsight",
-    "domain": "pluralsight.com",
-    "portal": false
-  },
-  {
-    "name": "Poshmark",
-    "domain": "poshmark.com",
     "portal": false
   },
   {
@@ -1720,48 +815,8 @@
     "portal": false
   },
   {
-    "name": "Powertofly",
-    "domain": "powertofly.com",
-    "portal": true
-  },
-  {
     "name": "Prisma",
     "domain": "prisma.io",
-    "portal": false
-  },
-  {
-    "name": "Prodigy Education",
-    "domain": "prodigygame.com",
-    "portal": false
-  },
-  {
-    "name": "Proterra",
-    "domain": "proterra.com",
-    "portal": false
-  },
-  {
-    "name": "Public.com",
-    "domain": "public.com",
-    "portal": false
-  },
-  {
-    "name": "Publicis Sapient",
-    "domain": "publicissapient.com",
-    "portal": false
-  },
-  {
-    "name": "Pulumi",
-    "domain": "pulumi.com",
-    "portal": false
-  },
-  {
-    "name": "Pure Storage",
-    "domain": "purestorage.com",
-    "portal": false
-  },
-  {
-    "name": "PwC",
-    "domain": "pwc.com",
     "portal": false
   },
   {
@@ -1785,23 +840,8 @@
     "portal": false
   },
   {
-    "name": "Rakuten",
-    "domain": "rakuten.com",
-    "portal": false
-  },
-  {
     "name": "Ramp",
     "domain": "ramp.com",
-    "portal": false
-  },
-  {
-    "name": "Rapid7",
-    "domain": "rapid7.com",
-    "portal": false
-  },
-  {
-    "name": "Raycast",
-    "domain": "raycast.com",
     "portal": false
   },
   {
@@ -1830,28 +870,8 @@
     "portal": false
   },
   {
-    "name": "Reliance Jio",
-    "domain": "jio.com",
-    "portal": false
-  },
-  {
-    "name": "Remote",
-    "domain": "remote.com",
-    "portal": false
-  },
-  {
     "name": "Remote OK",
     "domain": "remoteok.com",
-    "portal": true
-  },
-  {
-    "name": "Remote.co",
-    "domain": "remote.co",
-    "portal": true
-  },
-  {
-    "name": "Remotive",
-    "domain": "remotive.com",
     "portal": true
   },
   {
@@ -1862,11 +882,6 @@
   {
     "name": "Replicate",
     "domain": "replicate.com",
-    "portal": false
-  },
-  {
-    "name": "Respawn Entertainment",
-    "domain": "respawn.com",
     "portal": false
   },
   {
@@ -1890,11 +905,6 @@
     "portal": false
   },
   {
-    "name": "Ro",
-    "domain": "ro.co",
-    "portal": false
-  },
-  {
     "name": "Robinhood",
     "domain": "robinhood.com",
     "portal": false
@@ -1915,11 +925,6 @@
     "portal": false
   },
   {
-    "name": "Samsung Networks",
-    "domain": "samsung.com",
-    "portal": false
-  },
-  {
     "name": "SAP",
     "domain": "sap.com",
     "portal": false
@@ -1927,11 +932,6 @@
   {
     "name": "Scale AI",
     "domain": "scale.com",
-    "portal": false
-  },
-  {
-    "name": "Schoology",
-    "domain": "schoology.com",
     "portal": false
   },
   {
@@ -1950,11 +950,6 @@
     "portal": false
   },
   {
-    "name": "Shield AI",
-    "domain": "shield.ai",
-    "portal": false
-  },
-  {
     "name": "Shopify",
     "domain": "shopify.com",
     "portal": false
@@ -1970,53 +965,13 @@
     "portal": true
   },
   {
-    "name": "Singtel",
-    "domain": "singtel.com",
-    "portal": false
-  },
-  {
-    "name": "Skillshare",
-    "domain": "skillshare.com",
-    "portal": false
-  },
-  {
-    "name": "Sky Mavis",
-    "domain": "skymavis.com",
-    "portal": false
-  },
-  {
-    "name": "Skydio",
-    "domain": "skydio.com",
-    "portal": false
-  },
-  {
     "name": "Slack",
     "domain": "slack.com",
     "portal": false
   },
   {
-    "name": "Slalom",
-    "domain": "slalom.com",
-    "portal": false
-  },
-  {
-    "name": "Smartsheet",
-    "domain": "smartsheet.com",
-    "portal": false
-  },
-  {
-    "name": "Smashing Jobs",
-    "domain": "smashingmagazine.com",
-    "portal": true
-  },
-  {
     "name": "Snap",
     "domain": "snap.com",
-    "portal": false
-  },
-  {
-    "name": "Snorkel AI",
-    "domain": "snorkel.ai",
     "portal": false
   },
   {
@@ -2035,23 +990,8 @@
     "portal": false
   },
   {
-    "name": "Solid Power",
-    "domain": "solidpowerbattery.com",
-    "portal": false
-  },
-  {
-    "name": "Sonatype",
-    "domain": "sonatype.com",
-    "portal": false
-  },
-  {
     "name": "Sony Interactive",
     "domain": "sony.com",
-    "portal": false
-  },
-  {
-    "name": "Sony Music",
-    "domain": "sonymusic.com",
     "portal": false
   },
   {
@@ -2070,11 +1010,6 @@
     "portal": false
   },
   {
-    "name": "Spring Health",
-    "domain": "springhealth.com",
-    "portal": false
-  },
-  {
     "name": "Square",
     "domain": "squareup.com",
     "portal": false
@@ -2090,16 +1025,6 @@
     "portal": false
   },
   {
-    "name": "Step",
-    "domain": "step.com",
-    "portal": false
-  },
-  {
-    "name": "StockX",
-    "domain": "stockx.com",
-    "portal": false
-  },
-  {
     "name": "Strava",
     "domain": "strava.com",
     "portal": false
@@ -2110,23 +1035,8 @@
     "portal": false
   },
   {
-    "name": "Study.com",
-    "domain": "study.com",
-    "portal": false
-  },
-  {
     "name": "Substack",
     "domain": "substack.com",
-    "portal": false
-  },
-  {
-    "name": "SunPower",
-    "domain": "sunpower.com",
-    "portal": false
-  },
-  {
-    "name": "Sunrun",
-    "domain": "sunrun.com",
     "portal": false
   },
   {
@@ -2140,73 +1050,13 @@
     "portal": false
   },
   {
-    "name": "SUSE",
-    "domain": "suse.com",
-    "portal": false
-  },
-  {
-    "name": "Sustainably",
-    "domain": "sustainably.com",
-    "portal": false
-  },
-  {
-    "name": "Sword Health",
-    "domain": "swordhealth.com",
-    "portal": false
-  },
-  {
-    "name": "Synthesia",
-    "domain": "synthesia.io",
-    "portal": false
-  },
-  {
-    "name": "Sysdig",
-    "domain": "sysdig.com",
-    "portal": false
-  },
-  {
-    "name": "T-Mobile",
-    "domain": "t-mobile.com",
-    "portal": false
-  },
-  {
     "name": "Take-Two Interactive",
     "domain": "take2games.com",
     "portal": false
   },
   {
-    "name": "Tally",
-    "domain": "tally.com",
-    "portal": false
-  },
-  {
-    "name": "Tanium",
-    "domain": "tanium.com",
-    "portal": false
-  },
-  {
-    "name": "Tata Consultancy Services",
-    "domain": "tcs.com",
-    "portal": false
-  },
-  {
-    "name": "Tech Ladies",
-    "domain": "techladies.com",
-    "portal": true
-  },
-  {
-    "name": "TechCareers",
-    "domain": "techcareers.com",
-    "portal": true
-  },
-  {
     "name": "TED",
     "domain": "ted.com",
-    "portal": false
-  },
-  {
-    "name": "Telefonica",
-    "domain": "telefonica.com",
     "portal": false
   },
   {
@@ -2215,23 +1065,8 @@
     "portal": false
   },
   {
-    "name": "Telstra",
-    "domain": "telstra.com",
-    "portal": false
-  },
-  {
     "name": "Tempus AI",
     "domain": "tempus.com",
-    "portal": false
-  },
-  {
-    "name": "Tenable",
-    "domain": "tenable.com",
-    "portal": false
-  },
-  {
-    "name": "Terraform",
-    "domain": "hashicorp.com",
     "portal": false
   },
   {
@@ -2240,28 +1075,8 @@
     "portal": false
   },
   {
-    "name": "Testim",
-    "domain": "testim.io",
-    "portal": false
-  },
-  {
     "name": "Texas Instruments",
     "domain": "ti.com",
-    "portal": false
-  },
-  {
-    "name": "The RealReal",
-    "domain": "therealreal.com",
-    "portal": false
-  },
-  {
-    "name": "Thoughtworks",
-    "domain": "thoughtworks.com",
-    "portal": false
-  },
-  {
-    "name": "ThredUp",
-    "domain": "thredup.com",
     "portal": false
   },
   {
@@ -2270,38 +1085,8 @@
     "portal": false
   },
   {
-    "name": "Timescale",
-    "domain": "timescale.com",
-    "portal": false
-  },
-  {
-    "name": "Together AI",
-    "domain": "together.ai",
-    "portal": false
-  },
-  {
     "name": "Toptal",
     "domain": "toptal.com",
-    "portal": true
-  },
-  {
-    "name": "Trellix",
-    "domain": "trellix.com",
-    "portal": false
-  },
-  {
-    "name": "Tripledot",
-    "domain": "tripledotstudios.com",
-    "portal": false
-  },
-  {
-    "name": "Turborepo",
-    "domain": "turborepo.org",
-    "portal": false
-  },
-  {
-    "name": "Turing",
-    "domain": "turing.com",
     "portal": true
   },
   {
@@ -2310,28 +1095,13 @@
     "portal": false
   },
   {
-    "name": "Twist Bioscience",
-    "domain": "twistbioscience.com",
-    "portal": false
-  },
-  {
     "name": "Twitch",
     "domain": "twitch.tv",
     "portal": false
   },
   {
-    "name": "Typeface",
-    "domain": "typeface.ai",
-    "portal": false
-  },
-  {
     "name": "Uber",
     "domain": "uber.com",
-    "portal": false
-  },
-  {
-    "name": "Ubiquiti",
-    "domain": "ui.com",
     "portal": false
   },
   {
@@ -2345,11 +1115,6 @@
     "portal": false
   },
   {
-    "name": "Underdog.io",
-    "domain": "underdog.io",
-    "portal": true
-  },
-  {
     "name": "Unity",
     "domain": "unity.com",
     "portal": false
@@ -2357,11 +1122,6 @@
   {
     "name": "Unity Technologies",
     "domain": "unity.com",
-    "portal": false
-  },
-  {
-    "name": "Unreal Engine",
-    "domain": "unrealengine.com",
     "portal": false
   },
   {
@@ -2375,11 +1135,6 @@
     "portal": false
   },
   {
-    "name": "Veem",
-    "domain": "veem.com",
-    "portal": false
-  },
-  {
     "name": "Vercel",
     "domain": "vercel.com",
     "portal": false
@@ -2390,43 +1145,13 @@
     "portal": false
   },
   {
-    "name": "Verizon",
-    "domain": "verizon.com",
-    "portal": false
-  },
-  {
-    "name": "Verkada",
-    "domain": "verkada.com",
-    "portal": false
-  },
-  {
-    "name": "Vettery",
-    "domain": "vettery.com",
-    "portal": true
-  },
-  {
     "name": "Vimeo",
     "domain": "vimeo.com",
     "portal": false
   },
   {
-    "name": "VIPKid",
-    "domain": "vipkid.com",
-    "portal": false
-  },
-  {
-    "name": "Virta Health",
-    "domain": "virtahealth.com",
-    "portal": false
-  },
-  {
     "name": "VMware",
     "domain": "vmware.com",
-    "portal": false
-  },
-  {
-    "name": "Vodafone",
-    "domain": "vodafone.com",
     "portal": false
   },
   {
@@ -2440,29 +1165,9 @@
     "portal": false
   },
   {
-    "name": "Warner Music",
-    "domain": "wmg.com",
-    "portal": false
-  },
-  {
-    "name": "Warp",
-    "domain": "warp.dev",
-    "portal": false
-  },
-  {
-    "name": "Watershed",
-    "domain": "watershed.com",
-    "portal": false
-  },
-  {
     "name": "We Work Remotely",
     "domain": "weworkremotely.com",
     "portal": true
-  },
-  {
-    "name": "Wealthfront",
-    "domain": "wealthfront.com",
-    "portal": false
   },
   {
     "name": "Webflow",
@@ -2480,16 +1185,6 @@
     "portal": true
   },
   {
-    "name": "Whoop",
-    "domain": "whoop.com",
-    "portal": false
-  },
-  {
-    "name": "Wipro",
-    "domain": "wipro.com",
-    "portal": false
-  },
-  {
     "name": "Wise",
     "domain": "wise.com",
     "portal": false
@@ -2505,38 +1200,8 @@
     "portal": false
   },
   {
-    "name": "Women Who Tech",
-    "domain": "womenwhotech.com",
-    "portal": true
-  },
-  {
-    "name": "WooCommerce",
-    "domain": "woocommerce.com",
-    "portal": false
-  },
-  {
-    "name": "Work at a Startup",
-    "domain": "workatastartup.com",
-    "portal": true
-  },
-  {
-    "name": "Workato",
-    "domain": "workato.com",
-    "portal": false
-  },
-  {
     "name": "Workday",
     "domain": "workday.com",
-    "portal": false
-  },
-  {
-    "name": "Working Nomads",
-    "domain": "workingnomads.com",
-    "portal": true
-  },
-  {
-    "name": "Writer",
-    "domain": "writer.com",
     "portal": false
   },
   {
@@ -2555,18 +1220,8 @@
     "portal": false
   },
   {
-    "name": "Zalando",
-    "domain": "zalando.com",
-    "portal": false
-  },
-  {
     "name": "Zendesk",
     "domain": "zendesk.com",
-    "portal": false
-  },
-  {
-    "name": "ZeroAvia",
-    "domain": "zeroavia.com",
     "portal": false
   },
   {

@@ -9,6 +9,7 @@ interface Entry {
   name: string
   domain: string
   portal: boolean
+  industry: string
 }
 
 function shuffle<T>(arr: T[]): T[] {
@@ -20,8 +21,12 @@ function shuffle<T>(arr: T[]): T[] {
   return a
 }
 
+const ALL_INDUSTRIES = [...new Set((data as Entry[]).map((e) => e.industry))].sort()
+
 export function JobBoard() {
   const [searchQuery, setSearchQuery] = useState('')
+  const [selectedIndustry, setSelectedIndustry] = useState<string | null>(null)
+  const [portalsOnly, setPortalsOnly] = useState(false)
   const [entries, setEntries] = useState<Entry[]>(() => data as Entry[])
 
   useEffect(() => {
@@ -29,10 +34,19 @@ export function JobBoard() {
   }, [])
 
   const filtered = useMemo(() => {
-    if (!searchQuery) return entries
-    const q = searchQuery.toLowerCase()
-    return entries.filter((entry) => entry.name.toLowerCase().includes(q))
-  }, [entries, searchQuery])
+    let result = entries
+    if (portalsOnly) {
+      result = result.filter((entry) => entry.portal)
+    }
+    if (selectedIndustry) {
+      result = result.filter((entry) => entry.industry === selectedIndustry)
+    }
+    if (searchQuery) {
+      const q = searchQuery.toLowerCase()
+      result = result.filter((entry) => entry.name.toLowerCase().includes(q))
+    }
+    return result
+  }, [entries, searchQuery, selectedIndustry, portalsOnly])
 
   const getEntryUrl = (entry: Entry): string => {
     if (entry.portal) {
@@ -59,6 +73,7 @@ export function JobBoard() {
           viewBox="0 0 24 24"
           stroke="currentColor"
           strokeWidth={2}
+          suppressHydrationWarning
         >
           <path
             strokeLinecap="round"
@@ -75,18 +90,55 @@ export function JobBoard() {
         />
       </div>
 
+      <div className="flex flex-wrap items-center gap-2 mb-6">
+        <button
+          onClick={() => setPortalsOnly(!portalsOnly)}
+          className={`px-3 py-1.5 rounded-lg text-xs font-medium transition-colors ${
+            portalsOnly
+              ? 'bg-indigo-100 text-indigo-700 ring-1 ring-indigo-300'
+              : 'bg-zinc-100 text-zinc-600 hover:bg-zinc-200'
+          }`}
+        >
+          Portals only
+        </button>
+        <span className="text-zinc-300 mx-1">|</span>
+        <button
+          onClick={() => setSelectedIndustry(null)}
+          className={`px-3 py-1.5 rounded-lg text-xs font-medium transition-colors ${
+            !selectedIndustry
+              ? 'bg-zinc-900 text-white'
+              : 'bg-zinc-100 text-zinc-600 hover:bg-zinc-200'
+          }`}
+        >
+          All
+        </button>
+        {ALL_INDUSTRIES.map((industry) => (
+          <button
+            key={industry}
+            onClick={() => setSelectedIndustry(selectedIndustry === industry ? null : industry)}
+            className={`px-3 py-1.5 rounded-lg text-xs font-medium transition-colors ${
+              selectedIndustry === industry
+                ? 'bg-indigo-100 text-indigo-700 ring-1 ring-indigo-300'
+                : 'bg-zinc-100 text-zinc-600 hover:bg-zinc-200'
+            }`}
+          >
+            {industry}
+          </button>
+        ))}
+      </div>
+
       <div className="flex items-center justify-between mb-6">
         <p className="text-sm text-zinc-500">
           Showing{' '}
           <span className="font-medium text-zinc-700">{filtered.length}</span>{' '}
           {filtered.length === 1 ? 'entry' : 'entries'}
         </p>
-        {searchQuery && (
+        {(searchQuery || selectedIndustry || portalsOnly) && (
           <button
-            onClick={() => setSearchQuery('')}
+            onClick={() => { setSearchQuery(''); setSelectedIndustry(null); setPortalsOnly(false); }}
             className="text-xs font-medium text-indigo-600 hover:text-indigo-700 transition-colors"
           >
-            Clear search
+            Clear filters
           </button>
         )}
       </div>
