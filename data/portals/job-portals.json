@@ -1,0 +1,408 @@
+[
+  {
+    "name": "Indeed",
+    "domain": "indeed.com",
+    "tags": [
+      "Portal",
+      "General",
+      "Global"
+    ]
+  },
+  {
+    "name": "Glassdoor",
+    "domain": "glassdoor.com",
+    "tags": [
+      "Portal",
+      "General",
+      "Global"
+    ]
+  },
+  {
+    "name": "LinkedIn Jobs",
+    "domain": "linkedin.com",
+    "tags": [
+      "Portal",
+      "General",
+      "Global"
+    ]
+  },
+  {
+    "name": "Google Jobs",
+    "domain": "google.com",
+    "tags": [
+      "Portal",
+      "General",
+      "Global"
+    ]
+  },
+  {
+    "name": "SimplyHired",
+    "domain": "simplyhired.com",
+    "tags": [
+      "Portal",
+      "General",
+      "Global"
+    ]
+  },
+  {
+    "name": "Monster",
+    "domain": "monster.com",
+    "tags": [
+      "Portal",
+      "General",
+      "Global"
+    ]
+  },
+  {
+    "name": "CareerBuilder",
+    "domain": "careerbuilder.com",
+    "tags": [
+      "Portal",
+      "General",
+      "Global"
+    ]
+  },
+  {
+    "name": "ZipRecruiter",
+    "domain": "ziprecruiter.com",
+    "tags": [
+      "Portal",
+      "General",
+      "Global"
+    ]
+  },
+  {
+    "name": "Dice",
+    "domain": "dice.com",
+    "tags": [
+      "Portal",
+      "Developer"
+    ]
+  },
+  {
+    "name": "TechCareers",
+    "domain": "techcareers.com",
+    "tags": [
+      "Portal"
+    ]
+  },
+  {
+    "name": "Crunchboard",
+    "domain": "crunchboard.com",
+    "tags": [
+      "Portal"
+    ]
+  },
+  {
+    "name": "Wellfound",
+    "domain": "wellfound.com",
+    "tags": [
+      "Portal",
+      "Global"
+    ]
+  },
+  {
+    "name": "We Work Remotely",
+    "domain": "weworkremotely.com",
+    "tags": [
+      "Portal",
+      "Global"
+    ]
+  },
+  {
+    "name": "Remote OK",
+    "domain": "remoteok.com",
+    "tags": [
+      "Portal",
+      "Developer"
+    ]
+  },
+  {
+    "name": "Remote.co",
+    "domain": "remote.co",
+    "tags": [
+      "Portal",
+      "General"
+    ]
+  },
+  {
+    "name": "FlexJobs",
+    "domain": "flexjobs.com",
+    "tags": [
+      "Portal",
+      "General"
+    ]
+  },
+  {
+    "name": "Working Nomads",
+    "domain": "workingnomads.com",
+    "tags": [
+      "Portal",
+      "Developer"
+    ]
+  },
+  {
+    "name": "Jobspresso",
+    "domain": "jobspresso.co",
+    "tags": [
+      "Portal"
+    ]
+  },
+  {
+    "name": "Remotive",
+    "domain": "remotive.com",
+    "tags": [
+      "Portal",
+      "Developer"
+    ]
+  },
+  {
+    "name": "Hacker News Jobs",
+    "domain": "ycombinator.com",
+    "tags": [
+      "Portal",
+      "Developer"
+    ]
+  },
+  {
+    "name": "Otta",
+    "domain": "otta.com",
+    "tags": [
+      "Portal"
+    ]
+  },
+  {
+    "name": "Levels.fyi",
+    "domain": "levels.fyi",
+    "tags": [
+      "Portal"
+    ]
+  },
+  {
+    "name": "Blind",
+    "domain": "teamblind.com",
+    "tags": [
+      "Portal",
+      "Social"
+    ]
+  },
+  {
+    "name": "Built In",
+    "domain": "builtin.com",
+    "tags": [
+      "Portal"
+    ]
+  },
+  {
+    "name": "Work at a Startup",
+    "domain": "workatastartup.com",
+    "tags": [
+      "Portal",
+      "Developer"
+    ]
+  },
+  {
+    "name": "Y Combinator Jobs",
+    "domain": "ycombinator.com",
+    "tags": [
+      "Portal"
+    ]
+  },
+  {
+    "name": "Arc.dev",
+    "domain": "arc.dev",
+    "tags": [
+      "Portal",
+      "Developer"
+    ]
+  },
+  {
+    "name": "Toptal",
+    "domain": "toptal.com",
+    "tags": [
+      "Portal",
+      "Developer",
+      "Freelance"
+    ]
+  },
+  {
+    "name": "Hired",
+    "domain": "hired.com",
+    "tags": [
+      "Portal",
+      "Developer"
+    ]
+  },
+  {
+    "name": "Vettery",
+    "domain": "vettery.com",
+    "tags": [
+      "Portal",
+      "Developer"
+    ]
+  },
+  {
+    "name": "Underdog.io",
+    "domain": "underdog.io",
+    "tags": [
+      "Portal"
+    ]
+  },
+  {
+    "name": "Braintrust",
+    "domain": "usebraintrust.com",
+    "tags": [
+      "Portal",
+      "Developer",
+      "Freelance"
+    ]
+  },
+  {
+    "name": "Turing",
+    "domain": "turing.com",
+    "tags": [
+      "Portal",
+      "Developer"
+    ]
+  },
+  {
+    "name": "Gun.io",
+    "domain": "gun.io",
+    "tags": [
+      "Portal",
+      "Developer",
+      "Freelance"
+    ]
+  },
+  {
+    "name": "Authentic Jobs",
+    "domain": "authenticjobs.com",
+    "tags": [
+      "Portal",
+      "Design",
+      "Developer"
+    ]
+  },
+  {
+    "name": "Smashing Jobs",
+    "domain": "smashingmagazine.com",
+    "tags": [
+      "Portal",
+      "Design",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "Dribbble",
+    "domain": "dribbble.com",
+    "tags": [
+      "Portal",
+      "Design",
+      "Creative"
+    ]
+  },
+  {
+    "name": "Behance",
+    "domain": "behance.net",
+    "tags": [
+      "Portal",
+      "Design",
+      "Creative"
+    ]
+  },
+  {
+    "name": "Coroflot",
+    "domain": "coroflot.com",
+    "tags": [
+      "Portal",
+      "Design",
+      "Creative"
+    ]
+  },
+  {
+    "name": "Upwork",
+    "domain": "upwork.com",
+    "tags": [
+      "Portal",
+      "Freelance",
+      "General"
+    ]
+  },
+  {
+    "name": "Fiverr",
+    "domain": "fiverr.com",
+    "tags": [
+      "Portal",
+      "Freelance",
+      "General"
+    ]
+  },
+  {
+    "name": "Freelancer",
+    "domain": "freelancer.com",
+    "tags": [
+      "Portal",
+      "Freelance",
+      "General"
+    ]
+  },
+  {
+    "name": "PeoplePerHour",
+    "domain": "peopleperhour.com",
+    "tags": [
+      "Portal",
+      "Freelance",
+      "Design"
+    ]
+  },
+  {
+    "name": "Malt",
+    "domain": "malt.com",
+    "tags": [
+      "Portal",
+      "Freelance",
+      "Developer"
+    ]
+  },
+  {
+    "name": "Powertofly",
+    "domain": "powertofly.com",
+    "tags": [
+      "Portal",
+      "Diversity"
+    ]
+  },
+  {
+    "name": "Tech Ladies",
+    "domain": "techladies.com",
+    "tags": [
+      "Portal",
+      "Diversity"
+    ]
+  },
+  {
+    "name": "Women Who Tech",
+    "domain": "womenwhotech.com",
+    "tags": [
+      "Portal",
+      "Diversity"
+    ]
+  },
+  {
+    "name": "Out in Tech",
+    "domain": "outintech.com",
+    "tags": [
+      "Portal",
+      "Diversity"
+    ]
+  },
+  {
+    "name": "Jopwell",
+    "domain": "jopwell.com",
+    "tags": [
+      "Portal",
+      "Diversity",
+      "General"
+    ]
+  }
+]

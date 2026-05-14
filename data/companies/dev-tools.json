@@ -1,0 +1,441 @@
+[
+  {
+    "name": "Vercel",
+    "domain": "vercel.com",
+    "tags": [
+      "Frontend",
+      "DevOps",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Netlify",
+    "domain": "netlify.com",
+    "tags": [
+      "Frontend",
+      "DevOps",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Railway",
+    "domain": "railway.app",
+    "tags": [
+      "Full Stack",
+      "DevOps",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Render",
+    "domain": "render.com",
+    "tags": [
+      "DevOps",
+      "Backend",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Fly.io",
+    "domain": "fly.io",
+    "tags": [
+      "DevOps",
+      "Infrastructure",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Neon",
+    "domain": "neon.tech",
+    "tags": [
+      "Data",
+      "Backend",
+      "Remote"
+    ]
+  },
+  {
+    "name": "PlanetScale",
+    "domain": "planetscale.com",
+    "tags": [
+      "Data",
+      "Backend",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Supabase",
+    "domain": "supabase.com",
+    "tags": [
+      "Backend",
+      "Infrastructure",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Elastic",
+    "domain": "elastic.co",
+    "tags": [
+      "Data",
+      "DevOps",
+      "Remote",
+      "Public"
+    ]
+  },
+  {
+    "name": "Redis",
+    "domain": "redis.com",
+    "tags": [
+      "Data",
+      "Infrastructure",
+      "Remote",
+      "Hybrid"
+    ]
+  },
+  {
+    "name": "Cockroach Labs",
+    "domain": "cockroachlabs.com",
+    "tags": [
+      "Data",
+      "Backend",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Timescale",
+    "domain": "timescale.com",
+    "tags": [
+      "Data",
+      "Infrastructure",
+      "Remote"
+    ]
+  },
+  {
+    "name": "InfluxData",
+    "domain": "influxdata.com",
+    "tags": [
+      "Data",
+      "DevOps",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Confluent",
+    "domain": "confluent.io",
+    "tags": [
+      "Data",
+      "Infrastructure",
+      "Remote",
+      "Hybrid",
+      "Public"
+    ]
+  },
+  {
+    "name": "DataStax",
+    "domain": "datastax.com",
+    "tags": [
+      "Data",
+      "Infrastructure",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Neo4j",
+    "domain": "neo4j.com",
+    "tags": [
+      "Data",
+      "Backend",
+      "Remote",
+      "Hybrid"
+    ]
+  },
+  {
+    "name": "Docker",
+    "domain": "docker.com",
+    "tags": [
+      "DevOps",
+      "Infrastructure",
+      "Remote",
+      "Public"
+    ]
+  },
+  {
+    "name": "HashiCorp",
+    "domain": "hashicorp.com",
+    "tags": [
+      "DevOps",
+      "Infrastructure",
+      "Security",
+      "Remote",
+      "Public"
+    ]
+  },
+  {
+    "name": "Pulumi",
+    "domain": "pulumi.com",
+    "tags": [
+      "DevOps",
+      "Infrastructure",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Crossplane",
+    "domain": "crossplane.io",
+    "tags": [
+      "DevOps",
+      "Infrastructure",
+      "Remote"
+    ]
+  },
+  {
+    "name": "GitLab",
+    "domain": "gitlab.com",
+    "tags": [
+      "DevOps",
+      "Full Stack",
+      "Security",
+      "Remote",
+      "Public"
+    ]
+  },
+  {
+    "name": "CircleCI",
+    "domain": "circleci.com",
+    "tags": [
+      "DevOps",
+      "Infrastructure",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Sentry",
+    "domain": "sentry.io",
+    "tags": [
+      "DevOps",
+      "Full Stack",
+      "Remote"
+    ]
+  },
+  {
+    "name": "New Relic",
+    "domain": "newrelic.com",
+    "tags": [
+      "DevOps",
+      "Data",
+      "Remote",
+      "Public"
+    ]
+  },
+  {
+    "name": "Grafana",
+    "domain": "grafana.com",
+    "tags": [
+      "DevOps",
+      "Data",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Honeycomb",
+    "domain": "honeycomb.io",
+    "tags": [
+      "DevOps",
+      "Data",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Lightstep",
+    "domain": "lightstep.com",
+    "tags": [
+      "DevOps",
+      "Data",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Chronosphere",
+    "domain": "chronosphere.io",
+    "tags": [
+      "DevOps",
+      "Data",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Snyk",
+    "domain": "snyk.io",
+    "tags": [
+      "Security",
+      "DevOps",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Sonatype",
+    "domain": "sonatype.com",
+    "tags": [
+      "Security",
+      "DevOps",
+      "Remote"
+    ]
+  },
+  {
+    "name": "JFrog",
+    "domain": "jfrog.com",
+    "tags": [
+      "DevOps",
+      "Infrastructure",
+      "Remote",
+      "Public"
+    ]
+  },
+  {
+    "name": "Postman",
+    "domain": "postman.com",
+    "tags": [
+      "Backend",
+      "Frontend",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Apollo GraphQL",
+    "domain": "apollographql.com",
+    "tags": [
+      "Backend",
+      "Frontend",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Hasura",
+    "domain": "hasura.io",
+    "tags": [
+      "Backend",
+      "Infrastructure",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Prisma",
+    "domain": "prisma.io",
+    "tags": [
+      "Backend",
+      "Data",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Turborepo",
+    "domain": "turborepo.org",
+    "tags": [
+      "DevOps",
+      "Frontend",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Nx",
+    "domain": "nx.dev",
+    "tags": [
+      "DevOps",
+      "Frontend",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Earthly",
+    "domain": "earthly.dev",
+    "tags": [
+      "DevOps",
+      "Infrastructure",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Linear",
+    "domain": "linear.app",
+    "tags": [
+      "Frontend",
+      "Product",
+      "SaaS",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Height",
+    "domain": "height.app",
+    "tags": [
+      "Frontend",
+      "Product",
+      "SaaS",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Raycast",
+    "domain": "raycast.com",
+    "tags": [
+      "Frontend",
+      "Developer",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Warp",
+    "domain": "warp.dev",
+    "tags": [
+      "Frontend",
+      "Developer",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Kraken",
+    "domain": "kraken.ci",
+    "tags": [
+      "DevOps",
+      "QA",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Cypress",
+    "domain": "cypress.io",
+    "tags": [
+      "Frontend",
+      "QA",
+      "DevOps",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Playwright",
+    "domain": "playwright.dev",
+    "tags": [
+      "Frontend",
+      "QA",
+      "DevOps",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Applitools",
+    "domain": "applitools.com",
+    "tags": [
+      "QA",
+      "AI/ML",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Testim",
+    "domain": "testim.io",
+    "tags": [
+      "QA",
+      "AI/ML",
+      "Remote"
+    ]
+  }
+]

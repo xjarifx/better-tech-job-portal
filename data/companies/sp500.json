@@ -1,0 +1,3740 @@
+[
+  {
+    "name": "Apple Inc",
+    "domain": "apple.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Microsoft Corp",
+    "domain": "microsoft.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Amazon Com Inc",
+    "domain": "amazoncom.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Nvidia Corp",
+    "domain": "nvidia.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Alphabet Inc Class A",
+    "domain": "abc.xyz",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Alphabet Inc Class C",
+    "domain": "abc.xyz",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Meta Platforms Inc Class A",
+    "domain": "meta.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Berkshire Hathaway Inc Class B",
+    "domain": "berkshirehathaway.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Tesla Inc",
+    "domain": "tesla.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Unitedhealth Group Inc",
+    "domain": "unitedhealthgroup.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Eli Lilly",
+    "domain": "lilly.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "JPMorgan Chase & Co",
+    "domain": "jpmorganchase.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Exxon Mobil Corp",
+    "domain": "exxonmobil.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Johnson & Johnson",
+    "domain": "jnj.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Visa Inc Class A",
+    "domain": "visa.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Procter & Gamble",
+    "domain": "pg.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Broadcom Inc",
+    "domain": "broadcom.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Mastercard Inc Class A",
+    "domain": "mastercard.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Home Depot Inc",
+    "domain": "homedepot.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Chevron Corp",
+    "domain": "chevron.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Merck & Co Inc",
+    "domain": "merck.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Abbvie Inc",
+    "domain": "abbvie.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Pepsico Inc",
+    "domain": "pepsico.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Costco Wholesale Corp",
+    "domain": "costco.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Adobe Inc",
+    "domain": "adobe.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Coca-Cola",
+    "domain": "coca-cola.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Cisco Systems Inc",
+    "domain": "ciscosystems.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Walmart Inc",
+    "domain": "walmart.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Thermo Fisher Scientific Inc",
+    "domain": "thermofisher.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Mcdonalds Corp",
+    "domain": "mcdonalds.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Pfizer Inc",
+    "domain": "pfizer.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Salesforce Inc",
+    "domain": "salesforce.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Bank Of America Corp",
+    "domain": "bankofamerica.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Accenture Plc Class A",
+    "domain": "accentureplc.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Comcast Corp Class A",
+    "domain": "comcast.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Linde Plc",
+    "domain": "linde.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Netflix Inc",
+    "domain": "netflix.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Abbott Laboratories",
+    "domain": "abbottlaboratories.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Oracle Corp",
+    "domain": "oracle.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Danaher Corp",
+    "domain": "danaher.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Advanced Micro Devices Inc",
+    "domain": "advancedmicrodevices.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Wells Fargo",
+    "domain": "wellsfargo.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Walt Disney",
+    "domain": "disney.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Texas Instrument Inc",
+    "domain": "texasinstrument.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Philip Morris International Inc",
+    "domain": "pmi.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Verizon Communications Inc",
+    "domain": "verizoncommunications.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Intuit Inc",
+    "domain": "intuit.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Conocophillips",
+    "domain": "conocophillips.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Caterpillar Inc",
+    "domain": "caterpillar.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Amgen Inc",
+    "domain": "amgen.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Nextera Energy Inc",
+    "domain": "nexteraenergy.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Intel Corporation Corp",
+    "domain": "intelcorporation.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Union Pacific Corp",
+    "domain": "up.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Lowes Companies Inc",
+    "domain": "lowes.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "International Business Machines Co",
+    "domain": "ibm.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Bristol Myers Squibb",
+    "domain": "bms.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "S&P Global Inc",
+    "domain": "spglobal.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Rtx Corp",
+    "domain": "rtx.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Honeywell International Inc",
+    "domain": "honeywell.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Boeing",
+    "domain": "boeing.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "United Parcel Service Inc Class B",
+    "domain": "ups.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "General Electric",
+    "domain": "ge.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Qualcomm Inc",
+    "domain": "qualcomm.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Applied Material Inc",
+    "domain": "appliedmaterial.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Nike Inc Class B",
+    "domain": "nike.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Prologis Reit Inc",
+    "domain": "prologis.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Servicenow Inc",
+    "domain": "servicenow.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Booking Holdings Inc",
+    "domain": "bookingholdings.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Starbucks Corp",
+    "domain": "starbucks.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Morgan Stanley",
+    "domain": "morganstanley.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Elevance Health Inc",
+    "domain": "elevancehealth.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Medtronic Plc",
+    "domain": "medtronic.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Goldman Sachs Group Inc",
+    "domain": "goldmansachs.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Deere",
+    "domain": "deere.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Automatic Data Processing Inc",
+    "domain": "automaticdataprocessing.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Lockheed Martin Corp",
+    "domain": "lockheedmartin.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Tjx Inc",
+    "domain": "tjx.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "At&T Inc",
+    "domain": "att.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Blackrock Inc",
+    "domain": "blackrock.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Intuitive Surgical Inc",
+    "domain": "intuitivesurgical.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Mondelez International Inc Class A",
+    "domain": "mondelezinternational.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Gilead Sciences Inc",
+    "domain": "gilead.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Marsh & Mclennan Inc",
+    "domain": "mmc.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "American Express",
+    "domain": "americanexpress.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Stryker Corp",
+    "domain": "stryker.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Regeneron Pharmaceuticals Inc",
+    "domain": "regeneronpharmaceuticals.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Vertex Pharmaceuticals Inc",
+    "domain": "vertexpharmaceuticals.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Eaton Plc",
+    "domain": "eaton.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Lam Research Corp",
+    "domain": "lamresearch.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Analog Devices Inc",
+    "domain": "analogdevices.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Charles Schwab Corp",
+    "domain": "schwab.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Cvs Health Corp",
+    "domain": "cvshealth.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Zoetis Inc Class A",
+    "domain": "zoetisinc.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Cigna",
+    "domain": "cigna.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Chubb Ltd",
+    "domain": "chubb.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "American Tower Reit Corp",
+    "domain": "americantower.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Schlumberger Nv",
+    "domain": "slb.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Citigroup Inc",
+    "domain": "citigroup.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Becton Dickinson",
+    "domain": "bd.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Altria Group Inc",
+    "domain": "altria.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Progressive Corp",
+    "domain": "progressive.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "T Mobile Us Inc",
+    "domain": "t-mobile.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Fiserv Inc",
+    "domain": "fiserv.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Southern",
+    "domain": "southerncompany.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Eog Resources Inc",
+    "domain": "eogresources.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Boston Scientific Corp",
+    "domain": "bostonscientific.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Cme Group Inc Class A",
+    "domain": "cmegroup.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Equinix Reit Inc",
+    "domain": "equinix.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Micron Technology Inc",
+    "domain": "microntechnology.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Duke Energy Corp",
+    "domain": "duke-energy.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Palo Alto Networks Inc",
+    "domain": "paloaltonetworks.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Paypal Holdings Inc",
+    "domain": "paypal.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Aon Plc Class A",
+    "domain": "aon.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Synopsys Inc",
+    "domain": "synopsys.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Illinois Tool Inc",
+    "domain": "illinoistool.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Kla Corp",
+    "domain": "kla.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Hubbell Incorporated",
+    "domain": "hubbell.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Intercontinental Exchange Inc",
+    "domain": "ice.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Air Products And Chemicals Inc",
+    "domain": "airproducts.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Sherwin Williams",
+    "domain": "sherwin-williams.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Cadence Design Systems Inc",
+    "domain": "cadencedesignsystems.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "CSX Corp",
+    "domain": "csx.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Northrop Grumman Corp",
+    "domain": "northropgrumman.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Colgate-Palmolive",
+    "domain": "colgatepalmolive.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Marathon Petroleum Corp",
+    "domain": "marathonpetroleum.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Humana Inc",
+    "domain": "humana.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Fedex Corp",
+    "domain": "fedex.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Waste Management Inc",
+    "domain": "wm.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Mckesson Corp",
+    "domain": "mckesson.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Target Corp",
+    "domain": "target.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Oreilly Automotive Inc",
+    "domain": "oreillyauto.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Hca Healthcare Inc",
+    "domain": "hcahealthcare.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Freeport Mcmoran Inc",
+    "domain": "fcx.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Emerson Electric",
+    "domain": "emerson.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Pioneer Natural Resource",
+    "domain": "pion.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "3M",
+    "domain": "3m.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Moodys Corp",
+    "domain": "moodys.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Roper Technologies Inc",
+    "domain": "ropertechnologies.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Chipotle Mexican Grill Inc",
+    "domain": "chipotle.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Phillips",
+    "domain": "phillips66.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Marriott International Inc Class A",
+    "domain": "marriott.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Parker-Hannifin Corp",
+    "domain": "parker.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Amphenol Corp Class A",
+    "domain": "amphenolcorp.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "General Dynamics Corp",
+    "domain": "gd.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Us Bancorp",
+    "domain": "usbank.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Nxp Semiconductors Nv",
+    "domain": "nxpsemiconductors.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Arthur J Gallagher",
+    "domain": "ajg.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Norfolk Southern Corp",
+    "domain": "nscorp.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Pnc Financial Services Group Inc",
+    "domain": "pnc.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Valero Energy Corp",
+    "domain": "valero.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Ford Motor Co",
+    "domain": "ford.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Motorola Solutions Inc",
+    "domain": "motorolasolutions.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "General Motors",
+    "domain": "gm.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Trane Technologies Plc",
+    "domain": "tranetechnologies.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Edwards Lifesciences Corp",
+    "domain": "edwardslifesciences.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Carrier Global Corp",
+    "domain": "carrier.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Autozone Inc",
+    "domain": "autozone.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Autodesk Inc",
+    "domain": "autodesk.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Transdigm Group Inc",
+    "domain": "transdigm.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Arista Networks Inc",
+    "domain": "aristanetworks.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Sempra",
+    "domain": "sempra.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Ecolab Inc",
+    "domain": "ecolab.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Occidental Petroleum Corp",
+    "domain": "oxy.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Paccar Inc",
+    "domain": "paccar.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Archer Daniels Midland",
+    "domain": "adm.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Monster Beverage Corp",
+    "domain": "monsterbevcorp.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Kimberly Clark Corp",
+    "domain": "kimberly-clark.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Public Storage Reit",
+    "domain": "publicstorage.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Crown Castle Inc",
+    "domain": "crowncastle.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Charter Communications Inc Class A",
+    "domain": "charter.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Microchip Technology Inc",
+    "domain": "microchiptechnology.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Msci Inc",
+    "domain": "msci.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Cintas Corp",
+    "domain": "cintas.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Williams Inc",
+    "domain": "williams.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "American International Group Inc",
+    "domain": "aig.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Constellation Brands Inc Class A",
+    "domain": "cbrands.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Block",
+    "domain": "block.xyz",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Nucor Corp",
+    "domain": "nucor.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Ross Stores Inc",
+    "domain": "rossstores.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Aflac Inc",
+    "domain": "aflac.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Kenvue Inc",
+    "domain": "kenvue.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "American Electric Power Inc",
+    "domain": "aep.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Idexx Laboratories Inc",
+    "domain": "idexxlaboratories.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Dominion Energy Inc",
+    "domain": "dominionenergy.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Te Connectivity Ltd",
+    "domain": "teconnectivity.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Johnson Controls International Plc",
+    "domain": "johnsoncontrols.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Metlife Inc",
+    "domain": "metlife.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "General Mills Inc",
+    "domain": "generalmills.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Iqvia Holdings Inc",
+    "domain": "iqviaholdings.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Exelon Corp",
+    "domain": "exeloncorp.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Welltower Inc",
+    "domain": "welltower.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Dexcom Inc",
+    "domain": "dexcom.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Hilton Worldwide Holdings Inc",
+    "domain": "hilton.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "On Semiconductor Corp",
+    "domain": "onsemiconductor.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Capital One Financial Corp",
+    "domain": "capitalone.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "EchoStar",
+    "domain": "echostar.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Truist Financial Corp",
+    "domain": "truist.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Biogen Inc",
+    "domain": "biogen.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Realty Income Reit Corp",
+    "domain": "realtyincome.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Fortinet Inc",
+    "domain": "fortinet.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Dow Inc",
+    "domain": "dow.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Travelers Companies Inc",
+    "domain": "travelers.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Digital Realty Trust Reit Inc",
+    "domain": "digitalrealty.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Moderna Inc",
+    "domain": "moderna.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Copart Inc",
+    "domain": "copart.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Old Dominion Freight Line Inc",
+    "domain": "odfl.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "D R Horton Inc",
+    "domain": "drhorton.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Yum Brands Inc",
+    "domain": "yum.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Simon Property Group Reit Inc",
+    "domain": "simon.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Cognizant Technology Solutions Cor",
+    "domain": "cognizant.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Ametek Inc",
+    "domain": "ametek.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Baker Hughes Class A",
+    "domain": "bakerhughes.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Sysco Corp",
+    "domain": "sysco.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Agilent Technologies Inc",
+    "domain": "agilenttechnologies.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Corteva Inc",
+    "domain": "corteva.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Centene Corp",
+    "domain": "centene.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Estee Lauder Inc Class A",
+    "domain": "esteelauder.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Ameriprise Finance Inc",
+    "domain": "ameriprise.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Constellation Energy Corp",
+    "domain": "constellationenergy.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Halliburton",
+    "domain": "halliburton.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Otis Worldwide Corp",
+    "domain": "otis.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Rockwell Automation Inc",
+    "domain": "rockwellautomation.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Prudential Financial Inc",
+    "domain": "prudential.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Dupont De Nemours Inc",
+    "domain": "dupont.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Kinder Morgan Inc",
+    "domain": "kindermorgan.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Verisk Analytics Inc",
+    "domain": "verisk.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "L3Harris Technologies Inc",
+    "domain": "l3harris.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Dollar General Corp",
+    "domain": "dollargeneral.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Fidelity National Information Serv",
+    "domain": "fisglobal.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Cummins Inc",
+    "domain": "cummins.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Costar Group Inc",
+    "domain": "costar.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Fastenal",
+    "domain": "fastenal.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Ppg Industries Inc",
+    "domain": "ppg.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Global Payments Inc",
+    "domain": "globalpayments.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Ww Grainger Inc",
+    "domain": "grainger.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Hershey Foods",
+    "domain": "thehersheycompany.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Bank Of New York Mellon Corp",
+    "domain": "bnymellon.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Xcel Energy Inc",
+    "domain": "xcelenergy.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Devon Energy Corp",
+    "domain": "devonenergy.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Electronic Arts Inc",
+    "domain": "ea.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Newmont",
+    "domain": "newmont.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Consolidated Edison Inc",
+    "domain": "coned.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "United Rentals Inc",
+    "domain": "unitedrentals.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Vici Pptys Inc",
+    "domain": "viciproperties.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Public Service Enterprise Group In",
+    "domain": "pseg.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Kroger",
+    "domain": "thekrogerco.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Republic Services Inc",
+    "domain": "republicservices.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Lennar A Corp",
+    "domain": "lennar.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Quanta Services Inc",
+    "domain": "quantaservices.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "West Pharmaceutical Services Inc",
+    "domain": "westpharmaceuticalservices.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Cencora Inc",
+    "domain": "cencora.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Oneok Inc",
+    "domain": "oneok.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Vulcan Materials",
+    "domain": "vmc.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Keurig Dr Pepper Inc",
+    "domain": "keurigdrpepper.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Warner Bros. Discovery Inc Series",
+    "domain": "wbd.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Arch Capital Group Ltd",
+    "domain": "archcapital.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Allstate Corp",
+    "domain": "allstate.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Ingersoll Rand Inc",
+    "domain": "ingersollrand.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Cdw Corp",
+    "domain": "cdw.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Diamondback Energy Inc",
+    "domain": "diamondbackenergy.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Martin Marietta Materials Inc",
+    "domain": "martinmarietta.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Pg&E Corp",
+    "domain": "pge.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Delta Air Lines Inc",
+    "domain": "deltaairlines.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Extra Space Storage Reit Inc",
+    "domain": "extraspace.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Fortive Corp",
+    "domain": "fortive.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "American Water Works Inc",
+    "domain": "americanwaterworks.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Gartner Inc",
+    "domain": "gartner.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Kraft Heinz",
+    "domain": "kraftheinzcompany.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Ge Healthcare Technologies Inc",
+    "domain": "gehealthcaretechnologies.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Wec Energy Group Inc",
+    "domain": "wecenergygroup.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Hp Inc",
+    "domain": "hp.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Edison International",
+    "domain": "edison.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Cbre Group Inc Class A",
+    "domain": "cbregroupinc.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Aptiv Plc",
+    "domain": "aptiv.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "The Trade Desk",
+    "domain": "thetradedesk.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Mettler Toledo Inc",
+    "domain": "mettlertoledo.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Dollar Tree Inc",
+    "domain": "dollartree.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Avalonbay Communities Reit Inc",
+    "domain": "avalonbay.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "GoDaddy Inc",
+    "domain": "godaddy.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Align Technology Inc",
+    "domain": "aligntechnology.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Lyondellbasell Industries Nv Class",
+    "domain": "lyondellbasell.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "T Rowe Price Group Inc",
+    "domain": "troweprice.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Corning Inc",
+    "domain": "corning.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Equifax Inc",
+    "domain": "equifax.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Weyerhaeuser Reit",
+    "domain": "weyerhaeuser.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Zimmer Biomet Holdings Inc",
+    "domain": "zimmerbiometholdings.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Xylem Inc",
+    "domain": "xylem.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Sba Communications Reit Corp Class",
+    "domain": "sbaservices.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Resmed Inc",
+    "domain": "resmed.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Tractor Supply",
+    "domain": "tractorsupply.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Ebay Inc",
+    "domain": "ebay.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Keysight Technologies Inc",
+    "domain": "keysighttechnologies.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Church And Dwight Inc",
+    "domain": "churchdwight.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "State Street Corp",
+    "domain": "statestreet.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Coinbase Global Inc",
+    "domain": "coinbase.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Hartford Financial Services Group",
+    "domain": "thehartford.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Albemarle Corp",
+    "domain": "albemarle.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Steris",
+    "domain": "steris.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Eversource Energy",
+    "domain": "eversource.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Take Two Interactive Software Inc",
+    "domain": "take2games.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Monolithic Power Systems Inc",
+    "domain": "monolithicpowersystems.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Cardinal Health Inc",
+    "domain": "cardinalhealth.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Equity Residential Reit",
+    "domain": "equityapartments.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Royal Caribbean Group Ltd",
+    "domain": "royalcaribbean.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Willis Towers Watson Plc",
+    "domain": "wtwco.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Hewlett Packard Enterprise",
+    "domain": "hewlettpackardenterprise.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Dte Energy",
+    "domain": "dteenergy.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Genuine Parts",
+    "domain": "genpt.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Broadridge Financial Solutions Inc",
+    "domain": "broadridge.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Ulta Beauty Inc",
+    "domain": "ulta.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Fair Isaac Corp",
+    "domain": "fairisaac.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Coterra Energy Inc",
+    "domain": "coterra.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Baxter International Inc",
+    "domain": "baxterinternational.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Ameren Corp",
+    "domain": "ameren.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "M&T Bank Corp",
+    "domain": "mtb.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Mccormick & Co Non-Voting Inc",
+    "domain": "mccormickconon-voting.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Entergy Corp",
+    "domain": "entergy.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Westinghouse Air Brake Technologie",
+    "domain": "wabtecorp.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Dover Corp",
+    "domain": "dovercorporation.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Firstenergy Corp",
+    "domain": "firstenergycorp.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Raymond James Inc",
+    "domain": "raymondjames.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Invitation Homes Inc",
+    "domain": "invitationhomes.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Fleetcor Technologies Inc",
+    "domain": "fleetcor.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Clorox",
+    "domain": "thecloroxcompany.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Teledyne Technologies Inc",
+    "domain": "teledynetechnologies.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Targa Resources Corp",
+    "domain": "targaresources.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Darden Restaurants Inc",
+    "domain": "darden.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Laboratory Corporation Of America",
+    "domain": "laboratorycorporationofamerica.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Hologic Inc",
+    "domain": "hologic.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Verisign Inc",
+    "domain": "verisign.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Lumentum Holdings",
+    "domain": "lumentumholdings.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Southwest Airlines",
+    "domain": "southwestairlines.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Ppl Corp",
+    "domain": "pplweb.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Alexandria Real Estate Equities Re",
+    "domain": "are.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Nvr Inc",
+    "domain": "nvrinc.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Cooper Inc",
+    "domain": "cooper.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Interactive Brokers Group",
+    "domain": "interactivebrokers.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Pultegroup Inc",
+    "domain": "pultegroup.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Nasdaq Inc",
+    "domain": "nasdaq.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Howmet Aerospace Inc",
+    "domain": "howmet.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Regions Financial Corp",
+    "domain": "regions.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Centerpoint Energy Inc",
+    "domain": "centerpointenergy.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Iron Mountain Inc",
+    "domain": "ironmountain.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Las Vegas Sands Corp",
+    "domain": "sands.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Fifth Third Bancorp",
+    "domain": "53.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Expeditors International Of Washin",
+    "domain": "expeditors.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Ventas Reit Inc",
+    "domain": "ventasreit.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "First Solar Inc",
+    "domain": "firstsolar.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Principal Financial Group Inc",
+    "domain": "principal.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Brown & Brown Inc",
+    "domain": "bbinsurance.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Workday Inc",
+    "domain": "workday.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Idex Corp",
+    "domain": "idexcorp.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Bunge Ltd",
+    "domain": "bunge.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Atmos Energy Corp",
+    "domain": "atmosenergy.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Factset Research Systems Inc",
+    "domain": "factset.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Emcor Group",
+    "domain": "emcorgroup.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Mid America Apartment Communities",
+    "domain": "maac.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Cms Energy Corp",
+    "domain": "cmsenergy.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "International Flavors & Fragrances",
+    "domain": "iff.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Ball Corp",
+    "domain": "ball.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Skyworks Solutions Inc",
+    "domain": "skyworkssolutions.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Cincinnati Financial Corp",
+    "domain": "cinfin.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Netapp Inc",
+    "domain": "netapp.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Steel Dynamics Inc",
+    "domain": "steeldynamics.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "United Airlines Holdings Inc",
+    "domain": "unitedairlinesholdings.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Waters Corp",
+    "domain": "waters.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Omnicom Group Inc",
+    "domain": "omnicomgroup.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Teradyne Inc",
+    "domain": "teradyne.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Carnival Corp",
+    "domain": "carnival.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Jb Hunt Transport Services Inc",
+    "domain": "jbhunt.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Texas Pacific Land",
+    "domain": "texaspacificland.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Tyler Technologies Inc",
+    "domain": "tylertechnologies.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Huntington Bancshares Inc",
+    "domain": "huntington.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Kellogg",
+    "domain": "kelloggs.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Garmin Ltd",
+    "domain": "garmin.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Cboe Global Markets Inc",
+    "domain": "cboe.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Northern Trust Corp",
+    "domain": "northerntrust.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Tyson Foods Inc Class A",
+    "domain": "tysonfoods.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Akamai Technologies Inc",
+    "domain": "akamaitechnologies.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Everest Group Ltd",
+    "domain": "everestglobal.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Essex Property Trust Reit Inc",
+    "domain": "essexpropertytrust.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Eqt Corp",
+    "domain": "eqt.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Textron Inc",
+    "domain": "textron.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Expedia Group Inc",
+    "domain": "expediagroup.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Jm Smucker",
+    "domain": "jmsmucker.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Ptc Inc",
+    "domain": "ptc.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Quest Diagnostics Inc",
+    "domain": "questdiagnostics.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Avery Dennison Corp",
+    "domain": "averydennison.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Revvity Inc",
+    "domain": "revvity.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Best Buy Co Inc",
+    "domain": "bestbuy.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Cf Industries Holdings Inc",
+    "domain": "cfindustriesholdings.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Conagra Brands Inc",
+    "domain": "conagrabrands.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Epam Systems Inc",
+    "domain": "epamsystems.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Amcor Plc",
+    "domain": "amcor.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Coherent",
+    "domain": "coherent.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Paycom Software Inc",
+    "domain": "paycomsoftware.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Snap On Inc",
+    "domain": "snapon.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Axon Enterprise Inc",
+    "domain": "axonenterprise.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Pool Corp",
+    "domain": "poolcorp.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Synchrony Financial",
+    "domain": "synchrony.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Stanley Black & Decker Inc",
+    "domain": "stanleyblackanddecker.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Zebra Technologies Corp Class A",
+    "domain": "zebratechnologiescorp.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Dominos Pizza Inc",
+    "domain": "dominos.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Packaging Corp Of America",
+    "domain": "packagingcorp.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Citizens Financial Group Inc",
+    "domain": "citizensbank.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Leidos Holdings Inc",
+    "domain": "leidos.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Viatris Inc",
+    "domain": "viatris.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Insulet Corp",
+    "domain": "insulet.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "CRH",
+    "domain": "crh.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Mosaic",
+    "domain": "mosaicco.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Apa Corp",
+    "domain": "apa.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Evergy Inc",
+    "domain": "evergy.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Trimble Inc",
+    "domain": "trimble.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Mgm Resorts International",
+    "domain": "mgmresorts.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Nordson Corp",
+    "domain": "nordson.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Western Digital Corp",
+    "domain": "westerndigital.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Masco Corp",
+    "domain": "masco.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Alliant Energy Corp",
+    "domain": "alliantenergy.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "SanDisk Corp",
+    "domain": "sandisk.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Vertiv Holdings",
+    "domain": "vertivholdings.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Seagate Technology Holdings Plc",
+    "domain": "seagatetechnologyholdings.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Carvana",
+    "domain": "carvana.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Bio Techne Corp",
+    "domain": "biotechne.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Wr Berkley Corp",
+    "domain": "berkley.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Brown Forman Corp Class B",
+    "domain": "brown-forman.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Live Nation Entertainment Inc",
+    "domain": "livenationentertainment.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "International Paper",
+    "domain": "internationalpaper.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Udr Reit Inc",
+    "domain": "udr.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Aes Corp",
+    "domain": "aes.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Williams-Sonoma",
+    "domain": "williams-sonoma.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Incyte Corp",
+    "domain": "incyte.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Loews Corp",
+    "domain": "loews.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Molson Coors Brewing Class B",
+    "domain": "molsoncoors.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Gen Digital Inc",
+    "domain": "gendigital.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Camden Property Trust Reit",
+    "domain": "camdenliving.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Kimco Realty Reit Corp",
+    "domain": "kimcorealty.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Jack Henry And Associates Inc",
+    "domain": "jackhenry.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Hormel Foods Corp",
+    "domain": "hormelfoods.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Host Hotels & Resorts Reit Inc",
+    "domain": "hosthotels.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "FMC Corp",
+    "domain": "fmc.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Robinhood Markets",
+    "domain": "robinhood.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Healthpeak Properties Inc",
+    "domain": "healthpeak.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Ciena",
+    "domain": "ciena.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Pentair",
+    "domain": "pentair.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Nisource Inc",
+    "domain": "nisource.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "CH Robinson Worldwide Inc",
+    "domain": "chrobinson.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Henry Schein Inc",
+    "domain": "henryschein.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Charles River Laboratories International",
+    "domain": "charlesriverlaboratoriesinternational.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Regency Centers Reit Corp",
+    "domain": "regencycenters.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Apollo Global Management Inc",
+    "domain": "apollo.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "TKO Group Holdings",
+    "domain": "tkogrp.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Keycorp",
+    "domain": "key.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Globe Life Inc",
+    "domain": "globelife.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Eastman Chemical",
+    "domain": "eastman.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Wynn Resorts Ltd",
+    "domain": "wynnresorts.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Allegion Plc",
+    "domain": "allegion.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Palantir Technologies Inc",
+    "domain": "palantirtechnologies.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "F5 Inc",
+    "domain": "f5.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "DoorDash",
+    "domain": "doordash.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Boston Properties Reit Inc",
+    "domain": "bostonproperties.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "AppLovin",
+    "domain": "applovin.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Rollins Inc",
+    "domain": "rollins.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Datadog",
+    "domain": "datadog.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Pinnacle West Corp",
+    "domain": "pinnaclewest.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Dell Technologies Inc",
+    "domain": "delltechnologies.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Builders FirstSource Inc",
+    "domain": "bldr.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Fox Corp Class A",
+    "domain": "foxcorp.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "A O Smith Corp",
+    "domain": "aosmith.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Hasbro Inc",
+    "domain": "hasbro.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Huntington Ingalls Industries Inc",
+    "domain": "huntingtoningalls.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Nrg Energy Inc",
+    "domain": "nrg.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Campbell Soup",
+    "domain": "campbellsoupcompany.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Universal Health Services Inc Clas",
+    "domain": "universalhealthservicesincclas.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Erie Indemnity Co",
+    "domain": "erieinsurance.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Westrock",
+    "domain": "westrock.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "KKR & Co Inc",
+    "domain": "kkr.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Lennox International Inc",
+    "domain": "lennoxinternational.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "GE Vernova Inc",
+    "domain": "gevernova.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  },
+  {
+    "name": "Bath And Body Works Inc",
+    "domain": "bathandbodyworks.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "News Corp Class A",
+    "domain": "newscorp.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Tapestry Inc",
+    "domain": "tapestry.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Paramount Global Class B",
+    "domain": "paramount.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Super Micro Computer Inc",
+    "domain": "supermicrocomputer.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Franklin Resources Inc",
+    "domain": "franklintempleton.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Assurant Inc",
+    "domain": "assurant.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Norwegian Cruise Line Holdings Ltd",
+    "domain": "ncl.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Generac Holdings Inc",
+    "domain": "generacholdings.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Federal Realty Investment Trust Re",
+    "domain": "federalrealty.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Invesco Ltd",
+    "domain": "invesco.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Solventum Corp",
+    "domain": "solventum.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "CrowdStrike Holdings Inc",
+    "domain": "crowdstrikeholdings.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Davita Inc",
+    "domain": "davita.com",
+    "tags": [
+      "Health",
+      "Public"
+    ]
+  },
+  {
+    "name": "Jabil Inc",
+    "domain": "jabil.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Lululemon Athletica Inc",
+    "domain": "lululemon.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Deckers Outdoor Corp",
+    "domain": "deckers.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Uber Technologies Inc",
+    "domain": "uber.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Comfort Systems USA",
+    "domain": "comfortsystemsusa.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Ralph Lauren Corp Class A",
+    "domain": "ralphlauren.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Veralto",
+    "domain": "veralto.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Fox Corp Class B",
+    "domain": "foxcorp.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Blackstone Inc",
+    "domain": "blackstone.com",
+    "tags": [
+      "Fintech",
+      "Public"
+    ]
+  },
+  {
+    "name": "Airbnb Inc",
+    "domain": "airbnb.com",
+    "tags": [
+      "Public"
+    ]
+  },
+  {
+    "name": "News Corp Class B",
+    "domain": "newscorp.com",
+    "tags": [
+      "Media",
+      "Public"
+    ]
+  },
+  {
+    "name": "Expand Energy Corp",
+    "domain": "expandenergy.com",
+    "tags": [
+      "Energy",
+      "Public"
+    ]
+  }
+]

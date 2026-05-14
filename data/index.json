@@ -1,0 +1,5097 @@
+[
+  {
+    "name": "10x Genomics",
+    "domain": "10xgenomics.com",
+    "portal": false
+  },
+  {
+    "name": "1Password",
+    "domain": "1password.com",
+    "portal": false
+  },
+  {
+    "name": "23andMe",
+    "domain": "23andme.com",
+    "portal": false
+  },
+  {
+    "name": "2U",
+    "domain": "2u.com",
+    "portal": false
+  },
+  {
+    "name": "3M",
+    "domain": "3m.com",
+    "portal": false
+  },
+  {
+    "name": "A O Smith Corp",
+    "domain": "aosmith.com",
+    "portal": false
+  },
+  {
+    "name": "Abbott Laboratories",
+    "domain": "abbottlaboratories.com",
+    "portal": false
+  },
+  {
+    "name": "Abbvie Inc",
+    "domain": "abbvie.com",
+    "portal": false
+  },
+  {
+    "name": "Accenture",
+    "domain": "accenture.com",
+    "portal": false
+  },
+  {
+    "name": "Accenture Plc Class A",
+    "domain": "accentureplc.com",
+    "portal": false
+  },
+  {
+    "name": "Accenture Song",
+    "domain": "accenture.com",
+    "portal": false
+  },
+  {
+    "name": "Acorns",
+    "domain": "acorns.com",
+    "portal": false
+  },
+  {
+    "name": "Activision",
+    "domain": "activision.com",
+    "portal": false
+  },
+  {
+    "name": "Adept AI",
+    "domain": "adept.ai",
+    "portal": false
+  },
+  {
+    "name": "Adobe",
+    "domain": "adobe.com",
+    "portal": false
+  },
+  {
+    "name": "Adobe Inc",
+    "domain": "adobe.com",
+    "portal": false
+  },
+  {
+    "name": "Adtran",
+    "domain": "adtran.com",
+    "portal": false
+  },
+  {
+    "name": "Advanced Micro Devices Inc",
+    "domain": "advancedmicrodevices.com",
+    "portal": false
+  },
+  {
+    "name": "Aes Corp",
+    "domain": "aes.com",
+    "portal": false
+  },
+  {
+    "name": "Affirm",
+    "domain": "affirm.com",
+    "portal": false
+  },
+  {
+    "name": "Aflac Inc",
+    "domain": "aflac.com",
+    "portal": false
+  },
+  {
+    "name": "Age of Learning",
+    "domain": "ageoflearning.com",
+    "portal": false
+  },
+  {
+    "name": "Agilent Technologies Inc",
+    "domain": "agilenttechnologies.com",
+    "portal": false
+  },
+  {
+    "name": "Air Products And Chemicals Inc",
+    "domain": "airproducts.com",
+    "portal": false
+  },
+  {
+    "name": "Airbnb Inc",
+    "domain": "airbnb.com",
+    "portal": false
+  },
+  {
+    "name": "Airtable",
+    "domain": "airtable.com",
+    "portal": false
+  },
+  {
+    "name": "Akamai",
+    "domain": "akamai.com",
+    "portal": false
+  },
+  {
+    "name": "Akamai Technologies Inc",
+    "domain": "akamaitechnologies.com",
+    "portal": false
+  },
+  {
+    "name": "Albemarle Corp",
+    "domain": "albemarle.com",
+    "portal": false
+  },
+  {
+    "name": "Alchemy",
+    "domain": "alchemy.com",
+    "portal": false
+  },
+  {
+    "name": "Alexandria Real Estate Equities Re",
+    "domain": "are.com",
+    "portal": false
+  },
+  {
+    "name": "Align Technology Inc",
+    "domain": "aligntechnology.com",
+    "portal": false
+  },
+  {
+    "name": "Allegion Plc",
+    "domain": "allegion.com",
+    "portal": false
+  },
+  {
+    "name": "Alliant Energy Corp",
+    "domain": "alliantenergy.com",
+    "portal": false
+  },
+  {
+    "name": "Allstate Corp",
+    "domain": "allstate.com",
+    "portal": false
+  },
+  {
+    "name": "Alphabet Inc Class A",
+    "domain": "abc.xyz",
+    "portal": false
+  },
+  {
+    "name": "Alphabet Inc Class C",
+    "domain": "abc.xyz",
+    "portal": false
+  },
+  {
+    "name": "Altice USA",
+    "domain": "alticeusa.com",
+    "portal": false
+  },
+  {
+    "name": "Altria Group Inc",
+    "domain": "altria.com",
+    "portal": false
+  },
+  {
+    "name": "Amazon",
+    "domain": "amazon.com",
+    "portal": false
+  },
+  {
+    "name": "Amazon Com Inc",
+    "domain": "amazoncom.com",
+    "portal": false
+  },
+  {
+    "name": "Amazon Web Services",
+    "domain": "aws.amazon.com",
+    "portal": false
+  },
+  {
+    "name": "Amcor Plc",
+    "domain": "amcor.com",
+    "portal": false
+  },
+  {
+    "name": "AMD",
+    "domain": "amd.com",
+    "portal": false
+  },
+  {
+    "name": "Ameren Corp",
+    "domain": "ameren.com",
+    "portal": false
+  },
+  {
+    "name": "American Electric Power Inc",
+    "domain": "aep.com",
+    "portal": false
+  },
+  {
+    "name": "American Express",
+    "domain": "americanexpress.com",
+    "portal": false
+  },
+  {
+    "name": "American International Group Inc",
+    "domain": "aig.com",
+    "portal": false
+  },
+  {
+    "name": "American Tower Reit Corp",
+    "domain": "americantower.com",
+    "portal": false
+  },
+  {
+    "name": "American Water Works Inc",
+    "domain": "americanwaterworks.com",
+    "portal": false
+  },
+  {
+    "name": "Ameriprise Finance Inc",
+    "domain": "ameriprise.com",
+    "portal": false
+  },
+  {
+    "name": "Ametek Inc",
+    "domain": "ametek.com",
+    "portal": false
+  },
+  {
+    "name": "Amgen Inc",
+    "domain": "amgen.com",
+    "portal": false
+  },
+  {
+    "name": "Amphenol Corp Class A",
+    "domain": "amphenolcorp.com",
+    "portal": false
+  },
+  {
+    "name": "Analog Devices Inc",
+    "domain": "analogdevices.com",
+    "portal": false
+  },
+  {
+    "name": "Ancestry",
+    "domain": "ancestry.com",
+    "portal": false
+  },
+  {
+    "name": "Anduril",
+    "domain": "anduril.com",
+    "portal": false
+  },
+  {
+    "name": "Anthropic",
+    "domain": "anthropic.com",
+    "portal": false
+  },
+  {
+    "name": "Aon Plc Class A",
+    "domain": "aon.com",
+    "portal": false
+  },
+  {
+    "name": "Apa Corp",
+    "domain": "apa.com",
+    "portal": false
+  },
+  {
+    "name": "Apollo Global Management Inc",
+    "domain": "apollo.com",
+    "portal": false
+  },
+  {
+    "name": "Apollo GraphQL",
+    "domain": "apollographql.com",
+    "portal": false
+  },
+  {
+    "name": "Apple",
+    "domain": "apple.com",
+    "portal": false
+  },
+  {
+    "name": "Apple Inc",
+    "domain": "apple.com",
+    "portal": false
+  },
+  {
+    "name": "Applied Material Inc",
+    "domain": "appliedmaterial.com",
+    "portal": false
+  },
+  {
+    "name": "Applied Materials",
+    "domain": "appliedmaterials.com",
+    "portal": false
+  },
+  {
+    "name": "Applitools",
+    "domain": "applitools.com",
+    "portal": false
+  },
+  {
+    "name": "AppLovin",
+    "domain": "applovin.com",
+    "portal": false
+  },
+  {
+    "name": "Aptiv Plc",
+    "domain": "aptiv.com",
+    "portal": false
+  },
+  {
+    "name": "Aqua Security",
+    "domain": "aquasec.com",
+    "portal": false
+  },
+  {
+    "name": "Arc.dev",
+    "domain": "arc.dev",
+    "portal": true
+  },
+  {
+    "name": "Arch Capital Group Ltd",
+    "domain": "archcapital.com",
+    "portal": false
+  },
+  {
+    "name": "Archer Aviation",
+    "domain": "archer.com",
+    "portal": false
+  },
+  {
+    "name": "Archer Daniels Midland",
+    "domain": "adm.com",
+    "portal": false
+  },
+  {
+    "name": "Arctic Wolf",
+    "domain": "arcticwolf.com",
+    "portal": false
+  },
+  {
+    "name": "Arista Networks",
+    "domain": "arista.com",
+    "portal": false
+  },
+  {
+    "name": "Arista Networks Inc",
+    "domain": "aristanetworks.com",
+    "portal": false
+  },
+  {
+    "name": "Arthur J Gallagher",
+    "domain": "ajg.com",
+    "portal": false
+  },
+  {
+    "name": "Asana",
+    "domain": "asana.com",
+    "portal": false
+  },
+  {
+    "name": "ASML",
+    "domain": "asml.com",
+    "portal": false
+  },
+  {
+    "name": "ASOS",
+    "domain": "asos.com",
+    "portal": false
+  },
+  {
+    "name": "Aspiration",
+    "domain": "aspiration.com",
+    "portal": false
+  },
+  {
+    "name": "Assurant Inc",
+    "domain": "assurant.com",
+    "portal": false
+  },
+  {
+    "name": "AT&T",
+    "domain": "att.com",
+    "portal": false
+  },
+  {
+    "name": "At&T Inc",
+    "domain": "att.com",
+    "portal": false
+  },
+  {
+    "name": "Atlassian",
+    "domain": "atlassian.com",
+    "portal": false
+  },
+  {
+    "name": "Atmos Energy Corp",
+    "domain": "atmosenergy.com",
+    "portal": false
+  },
+  {
+    "name": "Aurora Solar",
+    "domain": "aurorasolar.com",
+    "portal": false
+  },
+  {
+    "name": "Auth0",
+    "domain": "auth0.com",
+    "portal": false
+  },
+  {
+    "name": "Authentic Jobs",
+    "domain": "authenticjobs.com",
+    "portal": true
+  },
+  {
+    "name": "Autodesk Inc",
+    "domain": "autodesk.com",
+    "portal": false
+  },
+  {
+    "name": "Automatic Data Processing Inc",
+    "domain": "automaticdataprocessing.com",
+    "portal": false
+  },
+  {
+    "name": "Autozone Inc",
+    "domain": "autozone.com",
+    "portal": false
+  },
+  {
+    "name": "Avalonbay Communities Reit Inc",
+    "domain": "avalonbay.com",
+    "portal": false
+  },
+  {
+    "name": "Avery Dennison Corp",
+    "domain": "averydennison.com",
+    "portal": false
+  },
+  {
+    "name": "Axon Enterprise Inc",
+    "domain": "axonenterprise.com",
+    "portal": false
+  },
+  {
+    "name": "Bain & Company",
+    "domain": "bain.com",
+    "portal": false
+  },
+  {
+    "name": "Baker Hughes Class A",
+    "domain": "bakerhughes.com",
+    "portal": false
+  },
+  {
+    "name": "Ball Corp",
+    "domain": "ball.com",
+    "portal": false
+  },
+  {
+    "name": "Bank Of America Corp",
+    "domain": "bankofamerica.com",
+    "portal": false
+  },
+  {
+    "name": "Bank Of New York Mellon Corp",
+    "domain": "bnymellon.com",
+    "portal": false
+  },
+  {
+    "name": "Basecamp",
+    "domain": "basecamp.com",
+    "portal": false
+  },
+  {
+    "name": "Bath And Body Works Inc",
+    "domain": "bathandbodyworks.com",
+    "portal": false
+  },
+  {
+    "name": "Baxter International Inc",
+    "domain": "baxterinternational.com",
+    "portal": false
+  },
+  {
+    "name": "BCG X",
+    "domain": "bcg.com/x",
+    "portal": false
+  },
+  {
+    "name": "Becton Dickinson",
+    "domain": "bd.com",
+    "portal": false
+  },
+  {
+    "name": "Behance",
+    "domain": "behance.net",
+    "portal": true
+  },
+  {
+    "name": "Benchling",
+    "domain": "benchling.com",
+    "portal": false
+  },
+  {
+    "name": "BeReal",
+    "domain": "bereal.com",
+    "portal": false
+  },
+  {
+    "name": "Berkshire Hathaway Inc Class B",
+    "domain": "berkshirehathaway.com",
+    "portal": false
+  },
+  {
+    "name": "Best Buy Co Inc",
+    "domain": "bestbuy.com",
+    "portal": false
+  },
+  {
+    "name": "Beta Technologies",
+    "domain": "beta.team",
+    "portal": false
+  },
+  {
+    "name": "Betterment",
+    "domain": "betterment.com",
+    "portal": false
+  },
+  {
+    "name": "BeyondTrust",
+    "domain": "beyondtrust.com",
+    "portal": false
+  },
+  {
+    "name": "Bharti Airtel",
+    "domain": "airtel.com",
+    "portal": false
+  },
+  {
+    "name": "BigCommerce",
+    "domain": "bigcommerce.com",
+    "portal": false
+  },
+  {
+    "name": "Bill.com",
+    "domain": "bill.com",
+    "portal": false
+  },
+  {
+    "name": "Bio Techne Corp",
+    "domain": "biotechne.com",
+    "portal": false
+  },
+  {
+    "name": "Biogen Inc",
+    "domain": "biogen.com",
+    "portal": false
+  },
+  {
+    "name": "Bitwarden",
+    "domain": "bitwarden.com",
+    "portal": false
+  },
+  {
+    "name": "Blackboard",
+    "domain": "blackboard.com",
+    "portal": false
+  },
+  {
+    "name": "Blackrock Inc",
+    "domain": "blackrock.com",
+    "portal": false
+  },
+  {
+    "name": "Blackstone Inc",
+    "domain": "blackstone.com",
+    "portal": false
+  },
+  {
+    "name": "Blind",
+    "domain": "teamblind.com",
+    "portal": true
+  },
+  {
+    "name": "Blizzard Entertainment",
+    "domain": "blizzard.com",
+    "portal": false
+  },
+  {
+    "name": "Block",
+    "domain": "block.xyz",
+    "portal": false
+  },
+  {
+    "name": "Bluesky",
+    "domain": "bsky.app",
+    "portal": false
+  },
+  {
+    "name": "Boeing",
+    "domain": "boeing.com",
+    "portal": false
+  },
+  {
+    "name": "Booking Holdings Inc",
+    "domain": "bookingholdings.com",
+    "portal": false
+  },
+  {
+    "name": "Booz Allen Hamilton",
+    "domain": "boozallen.com",
+    "portal": false
+  },
+  {
+    "name": "Boston Consulting Group",
+    "domain": "bcg.com",
+    "portal": false
+  },
+  {
+    "name": "Boston Properties Reit Inc",
+    "domain": "bostonproperties.com",
+    "portal": false
+  },
+  {
+    "name": "Boston Scientific Corp",
+    "domain": "bostonscientific.com",
+    "portal": false
+  },
+  {
+    "name": "Box",
+    "domain": "box.com",
+    "portal": false
+  },
+  {
+    "name": "Brainly",
+    "domain": "brainly.com",
+    "portal": false
+  },
+  {
+    "name": "Braintrust",
+    "domain": "usebraintrust.com",
+    "portal": true
+  },
+  {
+    "name": "Brex",
+    "domain": "brex.com",
+    "portal": false
+  },
+  {
+    "name": "Brilliant",
+    "domain": "brilliant.org",
+    "portal": false
+  },
+  {
+    "name": "Bristol Myers Squibb",
+    "domain": "bms.com",
+    "portal": false
+  },
+  {
+    "name": "Broadcom",
+    "domain": "broadcom.com",
+    "portal": false
+  },
+  {
+    "name": "Broadcom Inc",
+    "domain": "broadcom.com",
+    "portal": false
+  },
+  {
+    "name": "Broadridge Financial Solutions Inc",
+    "domain": "broadridge.com",
+    "portal": false
+  },
+  {
+    "name": "Brown & Brown Inc",
+    "domain": "bbinsurance.com",
+    "portal": false
+  },
+  {
+    "name": "Brown Forman Corp Class B",
+    "domain": "brown-forman.com",
+    "portal": false
+  },
+  {
+    "name": "BT Group",
+    "domain": "bt.com",
+    "portal": false
+  },
+  {
+    "name": "Builders FirstSource Inc",
+    "domain": "bldr.com",
+    "portal": false
+  },
+  {
+    "name": "Built In",
+    "domain": "builtin.com",
+    "portal": true
+  },
+  {
+    "name": "Bulb",
+    "domain": "bulb.com",
+    "portal": false
+  },
+  {
+    "name": "Bunge Ltd",
+    "domain": "bunge.com",
+    "portal": false
+  },
+  {
+    "name": "Bungie",
+    "domain": "bungie.net",
+    "portal": false
+  },
+  {
+    "name": "Byju's",
+    "domain": "byjus.com",
+    "portal": false
+  },
+  {
+    "name": "C3 AI",
+    "domain": "c3.ai",
+    "portal": false
+  },
+  {
+    "name": "Cadence Design Systems Inc",
+    "domain": "cadencedesignsystems.com",
+    "portal": false
+  },
+  {
+    "name": "Calico",
+    "domain": "calicolabs.com",
+    "portal": false
+  },
+  {
+    "name": "Calix",
+    "domain": "calix.com",
+    "portal": false
+  },
+  {
+    "name": "Calm",
+    "domain": "calm.com",
+    "portal": false
+  },
+  {
+    "name": "Camden Property Trust Reit",
+    "domain": "camdenliving.com",
+    "portal": false
+  },
+  {
+    "name": "Campbell Soup",
+    "domain": "campbellsoupcompany.com",
+    "portal": false
+  },
+  {
+    "name": "Canonical",
+    "domain": "canonical.com",
+    "portal": false
+  },
+  {
+    "name": "Canvas (Instructure)",
+    "domain": "instructure.com",
+    "portal": false
+  },
+  {
+    "name": "Capgemini",
+    "domain": "capgemini.com",
+    "portal": false
+  },
+  {
+    "name": "Capital One Financial Corp",
+    "domain": "capitalone.com",
+    "portal": false
+  },
+  {
+    "name": "Cardinal Health Inc",
+    "domain": "cardinalhealth.com",
+    "portal": false
+  },
+  {
+    "name": "CareerBuilder",
+    "domain": "careerbuilder.com",
+    "portal": true
+  },
+  {
+    "name": "Carnival Corp",
+    "domain": "carnival.com",
+    "portal": false
+  },
+  {
+    "name": "Carrier Global Corp",
+    "domain": "carrier.com",
+    "portal": false
+  },
+  {
+    "name": "Carta",
+    "domain": "carta.com",
+    "portal": false
+  },
+  {
+    "name": "Carvana",
+    "domain": "carvana.com",
+    "portal": false
+  },
+  {
+    "name": "Caterpillar Inc",
+    "domain": "caterpillar.com",
+    "portal": false
+  },
+  {
+    "name": "Cato Networks",
+    "domain": "catonetworks.com",
+    "portal": false
+  },
+  {
+    "name": "Cboe Global Markets Inc",
+    "domain": "cboe.com",
+    "portal": false
+  },
+  {
+    "name": "Cbre Group Inc Class A",
+    "domain": "cbregroupinc.com",
+    "portal": false
+  },
+  {
+    "name": "CD Projekt",
+    "domain": "cdprojektred.com",
+    "portal": false
+  },
+  {
+    "name": "Cdw Corp",
+    "domain": "cdw.com",
+    "portal": false
+  },
+  {
+    "name": "Cencora Inc",
+    "domain": "cencora.com",
+    "portal": false
+  },
+  {
+    "name": "Centene Corp",
+    "domain": "centene.com",
+    "portal": false
+  },
+  {
+    "name": "Centerpoint Energy Inc",
+    "domain": "centerpointenergy.com",
+    "portal": false
+  },
+  {
+    "name": "Cf Industries Holdings Inc",
+    "domain": "cfindustriesholdings.com",
+    "portal": false
+  },
+  {
+    "name": "CH Robinson Worldwide Inc",
+    "domain": "chrobinson.com",
+    "portal": false
+  },
+  {
+    "name": "Chainlink",
+    "domain": "chain.link",
+    "portal": false
+  },
+  {
+    "name": "ChargePoint",
+    "domain": "chargepoint.com",
+    "portal": false
+  },
+  {
+    "name": "Charles River Laboratories International",
+    "domain": "charlesriverlaboratoriesinternational.com",
+    "portal": false
+  },
+  {
+    "name": "Charles Schwab Corp",
+    "domain": "schwab.com",
+    "portal": false
+  },
+  {
+    "name": "Charm Industrial",
+    "domain": "charmindustrial.com",
+    "portal": false
+  },
+  {
+    "name": "Charter Communications",
+    "domain": "charter.com",
+    "portal": false
+  },
+  {
+    "name": "Charter Communications Inc Class A",
+    "domain": "charter.com",
+    "portal": false
+  },
+  {
+    "name": "Chegg",
+    "domain": "chegg.com",
+    "portal": false
+  },
+  {
+    "name": "Chevron Corp",
+    "domain": "chevron.com",
+    "portal": false
+  },
+  {
+    "name": "Chime",
+    "domain": "chime.com",
+    "portal": false
+  },
+  {
+    "name": "Chipotle Mexican Grill Inc",
+    "domain": "chipotle.com",
+    "portal": false
+  },
+  {
+    "name": "Chronosphere",
+    "domain": "chronosphere.io",
+    "portal": false
+  },
+  {
+    "name": "Chubb Ltd",
+    "domain": "chubb.com",
+    "portal": false
+  },
+  {
+    "name": "Church And Dwight Inc",
+    "domain": "churchdwight.com",
+    "portal": false
+  },
+  {
+    "name": "Ciena",
+    "domain": "ciena.com",
+    "portal": false
+  },
+  {
+    "name": "Cigna",
+    "domain": "cigna.com",
+    "portal": false
+  },
+  {
+    "name": "Cincinnati Financial Corp",
+    "domain": "cinfin.com",
+    "portal": false
+  },
+  {
+    "name": "Cintas Corp",
+    "domain": "cintas.com",
+    "portal": false
+  },
+  {
+    "name": "Circle",
+    "domain": "circle.com",
+    "portal": false
+  },
+  {
+    "name": "CircleCI",
+    "domain": "circleci.com",
+    "portal": false
+  },
+  {
+    "name": "Cisco",
+    "domain": "cisco.com",
+    "portal": false
+  },
+  {
+    "name": "Cisco Systems Inc",
+    "domain": "ciscosystems.com",
+    "portal": false
+  },
+  {
+    "name": "Citigroup Inc",
+    "domain": "citigroup.com",
+    "portal": false
+  },
+  {
+    "name": "Citizens Financial Group Inc",
+    "domain": "citizensbank.com",
+    "portal": false
+  },
+  {
+    "name": "ClickUp",
+    "domain": "clickup.com",
+    "portal": false
+  },
+  {
+    "name": "Climeworks",
+    "domain": "climeworks.com",
+    "portal": false
+  },
+  {
+    "name": "Clorox",
+    "domain": "thecloroxcompany.com",
+    "portal": false
+  },
+  {
+    "name": "Cloudflare",
+    "domain": "cloudflare.com",
+    "portal": false
+  },
+  {
+    "name": "Cme Group Inc Class A",
+    "domain": "cmegroup.com",
+    "portal": false
+  },
+  {
+    "name": "Cms Energy Corp",
+    "domain": "cmsenergy.com",
+    "portal": false
+  },
+  {
+    "name": "Coca-Cola",
+    "domain": "coca-cola.com",
+    "portal": false
+  },
+  {
+    "name": "Cockroach Labs",
+    "domain": "cockroachlabs.com",
+    "portal": false
+  },
+  {
+    "name": "Coda",
+    "domain": "coda.io",
+    "portal": false
+  },
+  {
+    "name": "Codecademy",
+    "domain": "codecademy.com",
+    "portal": false
+  },
+  {
+    "name": "Cognizant",
+    "domain": "cognizant.com",
+    "portal": false
+  },
+  {
+    "name": "Cognizant Technology Solutions Cor",
+    "domain": "cognizant.com",
+    "portal": false
+  },
+  {
+    "name": "Cohere",
+    "domain": "cohere.com",
+    "portal": false
+  },
+  {
+    "name": "Coherent",
+    "domain": "coherent.com",
+    "portal": false
+  },
+  {
+    "name": "Coinbase",
+    "domain": "coinbase.com",
+    "portal": false
+  },
+  {
+    "name": "Coinbase Global Inc",
+    "domain": "coinbase.com",
+    "portal": false
+  },
+  {
+    "name": "Colgate-Palmolive",
+    "domain": "colgatepalmolive.com",
+    "portal": false
+  },
+  {
+    "name": "Comcast",
+    "domain": "comcast.com",
+    "portal": false
+  },
+  {
+    "name": "Comcast Corp Class A",
+    "domain": "comcast.com",
+    "portal": false
+  },
+  {
+    "name": "Comfort Systems USA",
+    "domain": "comfortsystemsusa.com",
+    "portal": false
+  },
+  {
+    "name": "Conagra Brands Inc",
+    "domain": "conagrabrands.com",
+    "portal": false
+  },
+  {
+    "name": "Confluent",
+    "domain": "confluent.io",
+    "portal": false
+  },
+  {
+    "name": "Conocophillips",
+    "domain": "conocophillips.com",
+    "portal": false
+  },
+  {
+    "name": "Consolidated Edison Inc",
+    "domain": "coned.com",
+    "portal": false
+  },
+  {
+    "name": "Constellation Brands Inc Class A",
+    "domain": "cbrands.com",
+    "portal": false
+  },
+  {
+    "name": "Constellation Energy Corp",
+    "domain": "constellationenergy.com",
+    "portal": false
+  },
+  {
+    "name": "Cooper Inc",
+    "domain": "cooper.com",
+    "portal": false
+  },
+  {
+    "name": "Copart Inc",
+    "domain": "copart.com",
+    "portal": false
+  },
+  {
+    "name": "CoreWeave",
+    "domain": "coreweave.com",
+    "portal": false
+  },
+  {
+    "name": "Corning Inc",
+    "domain": "corning.com",
+    "portal": false
+  },
+  {
+    "name": "Coroflot",
+    "domain": "coroflot.com",
+    "portal": true
+  },
+  {
+    "name": "Corteva Inc",
+    "domain": "corteva.com",
+    "portal": false
+  },
+  {
+    "name": "Costar Group Inc",
+    "domain": "costar.com",
+    "portal": false
+  },
+  {
+    "name": "Costco Wholesale Corp",
+    "domain": "costco.com",
+    "portal": false
+  },
+  {
+    "name": "Coterra Energy Inc",
+    "domain": "coterra.com",
+    "portal": false
+  },
+  {
+    "name": "Coupa",
+    "domain": "coupa.com",
+    "portal": false
+  },
+  {
+    "name": "Coursera",
+    "domain": "coursera.com",
+    "portal": false
+  },
+  {
+    "name": "Covariant",
+    "domain": "covariant.ai",
+    "portal": false
+  },
+  {
+    "name": "CRH",
+    "domain": "crh.com",
+    "portal": false
+  },
+  {
+    "name": "Crossplane",
+    "domain": "crossplane.io",
+    "portal": false
+  },
+  {
+    "name": "CrowdStrike",
+    "domain": "crowdstrike.com",
+    "portal": false
+  },
+  {
+    "name": "CrowdStrike Holdings Inc",
+    "domain": "crowdstrikeholdings.com",
+    "portal": false
+  },
+  {
+    "name": "Crown Castle Inc",
+    "domain": "crowncastle.com",
+    "portal": false
+  },
+  {
+    "name": "Crunchboard",
+    "domain": "crunchboard.com",
+    "portal": true
+  },
+  {
+    "name": "CSX Corp",
+    "domain": "csx.com",
+    "portal": false
+  },
+  {
+    "name": "Cummins Inc",
+    "domain": "cummins.com",
+    "portal": false
+  },
+  {
+    "name": "Current",
+    "domain": "current.com",
+    "portal": false
+  },
+  {
+    "name": "Cvs Health Corp",
+    "domain": "cvshealth.com",
+    "portal": false
+  },
+  {
+    "name": "CyberArk",
+    "domain": "cyberark.com",
+    "portal": false
+  },
+  {
+    "name": "Cybereason",
+    "domain": "cybereason.com",
+    "portal": false
+  },
+  {
+    "name": "Cypress",
+    "domain": "cypress.io",
+    "portal": false
+  },
+  {
+    "name": "D R Horton Inc",
+    "domain": "drhorton.com",
+    "portal": false
+  },
+  {
+    "name": "Dailymotion",
+    "domain": "dailymotion.com",
+    "portal": false
+  },
+  {
+    "name": "Danaher Corp",
+    "domain": "danaher.com",
+    "portal": false
+  },
+  {
+    "name": "Darden Restaurants Inc",
+    "domain": "darden.com",
+    "portal": false
+  },
+  {
+    "name": "Darktrace",
+    "domain": "darktrace.com",
+    "portal": false
+  },
+  {
+    "name": "Dashlane",
+    "domain": "dashlane.com",
+    "portal": false
+  },
+  {
+    "name": "Databricks",
+    "domain": "databricks.com",
+    "portal": false
+  },
+  {
+    "name": "DataCamp",
+    "domain": "datacamp.com",
+    "portal": false
+  },
+  {
+    "name": "Datadog",
+    "domain": "datadoghq.com",
+    "portal": false
+  },
+  {
+    "name": "Dataiku",
+    "domain": "dataiku.com",
+    "portal": false
+  },
+  {
+    "name": "DataRobot",
+    "domain": "datarobot.com",
+    "portal": false
+  },
+  {
+    "name": "DataStax",
+    "domain": "datastax.com",
+    "portal": false
+  },
+  {
+    "name": "Davita Inc",
+    "domain": "davita.com",
+    "portal": false
+  },
+  {
+    "name": "Decentraland",
+    "domain": "decentraland.org",
+    "portal": false
+  },
+  {
+    "name": "Deckers Outdoor Corp",
+    "domain": "deckers.com",
+    "portal": false
+  },
+  {
+    "name": "Deel",
+    "domain": "deel.com",
+    "portal": false
+  },
+  {
+    "name": "DeepL",
+    "domain": "deepl.com",
+    "portal": false
+  },
+  {
+    "name": "Deere",
+    "domain": "deere.com",
+    "portal": false
+  },
+  {
+    "name": "Dell",
+    "domain": "dell.com",
+    "portal": false
+  },
+  {
+    "name": "Dell Technologies Inc",
+    "domain": "delltechnologies.com",
+    "portal": false
+  },
+  {
+    "name": "Deloitte",
+    "domain": "deloitte.com",
+    "portal": false
+  },
+  {
+    "name": "Deloitte Digital",
+    "domain": "deloittedigital.com",
+    "portal": false
+  },
+  {
+    "name": "Delta Air Lines Inc",
+    "domain": "deltaairlines.com",
+    "portal": false
+  },
+  {
+    "name": "Depop",
+    "domain": "depop.com",
+    "portal": false
+  },
+  {
+    "name": "Descript",
+    "domain": "descript.com",
+    "portal": false
+  },
+  {
+    "name": "Deutsche Telekom",
+    "domain": "telekom.com",
+    "portal": false
+  },
+  {
+    "name": "Devon Energy Corp",
+    "domain": "devonenergy.com",
+    "portal": false
+  },
+  {
+    "name": "Dexcom Inc",
+    "domain": "dexcom.com",
+    "portal": false
+  },
+  {
+    "name": "Diamondback Energy Inc",
+    "domain": "diamondbackenergy.com",
+    "portal": false
+  },
+  {
+    "name": "Dice",
+    "domain": "dice.com",
+    "portal": true
+  },
+  {
+    "name": "Digital Realty Trust Reit Inc",
+    "domain": "digitalrealty.com",
+    "portal": false
+  },
+  {
+    "name": "DigitalOcean",
+    "domain": "digitalocean.com",
+    "portal": false
+  },
+  {
+    "name": "Discord",
+    "domain": "discord.com",
+    "portal": false
+  },
+  {
+    "name": "Disney",
+    "domain": "disney.com",
+    "portal": false
+  },
+  {
+    "name": "Divvy",
+    "domain": "divvy.com",
+    "portal": false
+  },
+  {
+    "name": "Docker",
+    "domain": "docker.com",
+    "portal": false
+  },
+  {
+    "name": "DocuSign",
+    "domain": "docusign.com",
+    "portal": false
+  },
+  {
+    "name": "Dollar General Corp",
+    "domain": "dollargeneral.com",
+    "portal": false
+  },
+  {
+    "name": "Dollar Tree Inc",
+    "domain": "dollartree.com",
+    "portal": false
+  },
+  {
+    "name": "Dominion Energy Inc",
+    "domain": "dominionenergy.com",
+    "portal": false
+  },
+  {
+    "name": "Dominos Pizza Inc",
+    "domain": "dominos.com",
+    "portal": false
+  },
+  {
+    "name": "DoorDash",
+    "domain": "doordash.com",
+    "portal": false
+  },
+  {
+    "name": "Dover Corp",
+    "domain": "dovercorporation.com",
+    "portal": false
+  },
+  {
+    "name": "Dow Inc",
+    "domain": "dow.com",
+    "portal": false
+  },
+  {
+    "name": "Doximity",
+    "domain": "doximity.com",
+    "portal": false
+  },
+  {
+    "name": "Dribbble",
+    "domain": "dribbble.com",
+    "portal": true
+  },
+  {
+    "name": "Dropbox",
+    "domain": "dropbox.com",
+    "portal": false
+  },
+  {
+    "name": "Dte Energy",
+    "domain": "dteenergy.com",
+    "portal": false
+  },
+  {
+    "name": "Duke Energy Corp",
+    "domain": "duke-energy.com",
+    "portal": false
+  },
+  {
+    "name": "Duo Security",
+    "domain": "duo.com",
+    "portal": false
+  },
+  {
+    "name": "Duolingo",
+    "domain": "duolingo.com",
+    "portal": false
+  },
+  {
+    "name": "Dupont De Nemours Inc",
+    "domain": "dupont.com",
+    "portal": false
+  },
+  {
+    "name": "Earthly",
+    "domain": "earthly.dev",
+    "portal": false
+  },
+  {
+    "name": "Eastman Chemical",
+    "domain": "eastman.com",
+    "portal": false
+  },
+  {
+    "name": "Eaton Plc",
+    "domain": "eaton.com",
+    "portal": false
+  },
+  {
+    "name": "eBay",
+    "domain": "ebay.com",
+    "portal": false
+  },
+  {
+    "name": "Ebay Inc",
+    "domain": "ebay.com",
+    "portal": false
+  },
+  {
+    "name": "EchoStar",
+    "domain": "echostar.com",
+    "portal": false
+  },
+  {
+    "name": "Ecolab Inc",
+    "domain": "ecolab.com",
+    "portal": false
+  },
+  {
+    "name": "Edison International",
+    "domain": "edison.com",
+    "portal": false
+  },
+  {
+    "name": "Edwards Lifesciences Corp",
+    "domain": "edwardslifesciences.com",
+    "portal": false
+  },
+  {
+    "name": "Egnyte",
+    "domain": "egnyte.com",
+    "portal": false
+  },
+  {
+    "name": "Egress",
+    "domain": "egress.com",
+    "portal": false
+  },
+  {
+    "name": "Elastic",
+    "domain": "elastic.co",
+    "portal": false
+  },
+  {
+    "name": "Electronic Arts",
+    "domain": "ea.com",
+    "portal": false
+  },
+  {
+    "name": "Electronic Arts Inc",
+    "domain": "ea.com",
+    "portal": false
+  },
+  {
+    "name": "Elevance Health Inc",
+    "domain": "elevancehealth.com",
+    "portal": false
+  },
+  {
+    "name": "Eli Lilly",
+    "domain": "lilly.com",
+    "portal": false
+  },
+  {
+    "name": "Emcor Group",
+    "domain": "emcorgroup.com",
+    "portal": false
+  },
+  {
+    "name": "Emerson Electric",
+    "domain": "emerson.com",
+    "portal": false
+  },
+  {
+    "name": "Enphase Energy",
+    "domain": "enphase.com",
+    "portal": false
+  },
+  {
+    "name": "Entergy Corp",
+    "domain": "entergy.com",
+    "portal": false
+  },
+  {
+    "name": "Eog Resources Inc",
+    "domain": "eogresources.com",
+    "portal": false
+  },
+  {
+    "name": "EPAM Systems",
+    "domain": "epam.com",
+    "portal": false
+  },
+  {
+    "name": "Epam Systems Inc",
+    "domain": "epamsystems.com",
+    "portal": false
+  },
+  {
+    "name": "Epic Games",
+    "domain": "epicgames.com",
+    "portal": false
+  },
+  {
+    "name": "Eqt Corp",
+    "domain": "eqt.com",
+    "portal": false
+  },
+  {
+    "name": "Equifax Inc",
+    "domain": "equifax.com",
+    "portal": false
+  },
+  {
+    "name": "Equinix",
+    "domain": "equinix.com",
+    "portal": false
+  },
+  {
+    "name": "Equinix Reit Inc",
+    "domain": "equinix.com",
+    "portal": false
+  },
+  {
+    "name": "Equity Residential Reit",
+    "domain": "equityapartments.com",
+    "portal": false
+  },
+  {
+    "name": "Ericsson",
+    "domain": "ericsson.com",
+    "portal": false
+  },
+  {
+    "name": "Erie Indemnity Co",
+    "domain": "erieinsurance.com",
+    "portal": false
+  },
+  {
+    "name": "Essex Property Trust Reit Inc",
+    "domain": "essexpropertytrust.com",
+    "portal": false
+  },
+  {
+    "name": "Estee Lauder Inc Class A",
+    "domain": "esteelauder.com",
+    "portal": false
+  },
+  {
+    "name": "Etsy",
+    "domain": "etsy.com",
+    "portal": false
+  },
+  {
+    "name": "Everest Group Ltd",
+    "domain": "everestglobal.com",
+    "portal": false
+  },
+  {
+    "name": "Evergy Inc",
+    "domain": "evergy.com",
+    "portal": false
+  },
+  {
+    "name": "Eversource Energy",
+    "domain": "eversource.com",
+    "portal": false
+  },
+  {
+    "name": "EVgo",
+    "domain": "evgo.com",
+    "portal": false
+  },
+  {
+    "name": "Exact Sciences",
+    "domain": "exactsciences.com",
+    "portal": false
+  },
+  {
+    "name": "Exelon Corp",
+    "domain": "exeloncorp.com",
+    "portal": false
+  },
+  {
+    "name": "Expand Energy Corp",
+    "domain": "expandenergy.com",
+    "portal": false
+  },
+  {
+    "name": "Expedia Group Inc",
+    "domain": "expediagroup.com",
+    "portal": false
+  },
+  {
+    "name": "Expeditors International Of Washin",
+    "domain": "expeditors.com",
+    "portal": false
+  },
+  {
+    "name": "Extra Space Storage Reit Inc",
+    "domain": "extraspace.com",
+    "portal": false
+  },
+  {
+    "name": "Exxon Mobil Corp",
+    "domain": "exxonmobil.com",
+    "portal": false
+  },
+  {
+    "name": "EY",
+    "domain": "ey.com",
+    "portal": false
+  },
+  {
+    "name": "F5 Inc",
+    "domain": "f5.com",
+    "portal": false
+  },
+  {
+    "name": "Factset Research Systems Inc",
+    "domain": "factset.com",
+    "portal": false
+  },
+  {
+    "name": "Fair Isaac Corp",
+    "domain": "fairisaac.com",
+    "portal": false
+  },
+  {
+    "name": "Farfetch",
+    "domain": "farfetch.com",
+    "portal": false
+  },
+  {
+    "name": "Fastenal",
+    "domain": "fastenal.com",
+    "portal": false
+  },
+  {
+    "name": "Fastly",
+    "domain": "fastly.com",
+    "portal": false
+  },
+  {
+    "name": "Federal Realty Investment Trust Re",
+    "domain": "federalrealty.com",
+    "portal": false
+  },
+  {
+    "name": "Fedex Corp",
+    "domain": "fedex.com",
+    "portal": false
+  },
+  {
+    "name": "Fidelity National Information Serv",
+    "domain": "fisglobal.com",
+    "portal": false
+  },
+  {
+    "name": "Fifth Third Bancorp",
+    "domain": "53.com",
+    "portal": false
+  },
+  {
+    "name": "Fireworks AI",
+    "domain": "fireworks.ai",
+    "portal": false
+  },
+  {
+    "name": "First Solar Inc",
+    "domain": "firstsolar.com",
+    "portal": false
+  },
+  {
+    "name": "Firstenergy Corp",
+    "domain": "firstenergycorp.com",
+    "portal": false
+  },
+  {
+    "name": "Fiserv Inc",
+    "domain": "fiserv.com",
+    "portal": false
+  },
+  {
+    "name": "Fiverr",
+    "domain": "fiverr.com",
+    "portal": true
+  },
+  {
+    "name": "Flatiron Health",
+    "domain": "flatiron.com",
+    "portal": false
+  },
+  {
+    "name": "Fleetcor Technologies Inc",
+    "domain": "fleetcor.com",
+    "portal": false
+  },
+  {
+    "name": "FlexJobs",
+    "domain": "flexjobs.com",
+    "portal": true
+  },
+  {
+    "name": "Fly.io",
+    "domain": "fly.io",
+    "portal": false
+  },
+  {
+    "name": "FMC Corp",
+    "domain": "fmc.com",
+    "portal": false
+  },
+  {
+    "name": "Ford Motor Co",
+    "domain": "ford.com",
+    "portal": false
+  },
+  {
+    "name": "ForgeRock",
+    "domain": "forgerock.com",
+    "portal": false
+  },
+  {
+    "name": "Fortinet",
+    "domain": "fortinet.com",
+    "portal": false
+  },
+  {
+    "name": "Fortinet Inc",
+    "domain": "fortinet.com",
+    "portal": false
+  },
+  {
+    "name": "Fortive Corp",
+    "domain": "fortive.com",
+    "portal": false
+  },
+  {
+    "name": "Fox Corp Class A",
+    "domain": "foxcorp.com",
+    "portal": false
+  },
+  {
+    "name": "Fox Corp Class B",
+    "domain": "foxcorp.com",
+    "portal": false
+  },
+  {
+    "name": "Framer",
+    "domain": "framer.com",
+    "portal": false
+  },
+  {
+    "name": "Franklin Resources Inc",
+    "domain": "franklintempleton.com",
+    "portal": false
+  },
+  {
+    "name": "Freelancer",
+    "domain": "freelancer.com",
+    "portal": true
+  },
+  {
+    "name": "Freeport Mcmoran Inc",
+    "domain": "fcx.com",
+    "portal": false
+  },
+  {
+    "name": "Freshworks",
+    "domain": "freshworks.com",
+    "portal": false
+  },
+  {
+    "name": "Garmin Ltd",
+    "domain": "garmin.com",
+    "portal": false
+  },
+  {
+    "name": "Gartner Inc",
+    "domain": "gartner.com",
+    "portal": false
+  },
+  {
+    "name": "Ge Healthcare Technologies Inc",
+    "domain": "gehealthcaretechnologies.com",
+    "portal": false
+  },
+  {
+    "name": "GE Vernova Inc",
+    "domain": "gevernova.com",
+    "portal": false
+  },
+  {
+    "name": "Gen Digital Inc",
+    "domain": "gendigital.com",
+    "portal": false
+  },
+  {
+    "name": "Generac Holdings Inc",
+    "domain": "generacholdings.com",
+    "portal": false
+  },
+  {
+    "name": "General Dynamics Corp",
+    "domain": "gd.com",
+    "portal": false
+  },
+  {
+    "name": "General Electric",
+    "domain": "ge.com",
+    "portal": false
+  },
+  {
+    "name": "General Mills Inc",
+    "domain": "generalmills.com",
+    "portal": false
+  },
+  {
+    "name": "General Motors",
+    "domain": "gm.com",
+    "portal": false
+  },
+  {
+    "name": "Genuine Parts",
+    "domain": "genpt.com",
+    "portal": false
+  },
+  {
+    "name": "Ghost",
+    "domain": "ghost.org",
+    "portal": false
+  },
+  {
+    "name": "Gilead Sciences Inc",
+    "domain": "gilead.com",
+    "portal": false
+  },
+  {
+    "name": "Ginkgo Bioworks",
+    "domain": "ginkgobioworks.com",
+    "portal": false
+  },
+  {
+    "name": "GitLab",
+    "domain": "gitlab.com",
+    "portal": false
+  },
+  {
+    "name": "Glassdoor",
+    "domain": "glassdoor.com",
+    "portal": true
+  },
+  {
+    "name": "Glean",
+    "domain": "glean.com",
+    "portal": false
+  },
+  {
+    "name": "Global Payments Inc",
+    "domain": "globalpayments.com",
+    "portal": false
+  },
+  {
+    "name": "Globant",
+    "domain": "globant.com",
+    "portal": false
+  },
+  {
+    "name": "Globe Life Inc",
+    "domain": "globelife.com",
+    "portal": false
+  },
+  {
+    "name": "GOAT",
+    "domain": "goat.com",
+    "portal": false
+  },
+  {
+    "name": "GoDaddy Inc",
+    "domain": "godaddy.com",
+    "portal": false
+  },
+  {
+    "name": "Goldman Sachs Group Inc",
+    "domain": "goldmansachs.com",
+    "portal": false
+  },
+  {
+    "name": "Google",
+    "domain": "google.com",
+    "portal": false
+  },
+  {
+    "name": "Google Cloud",
+    "domain": "cloud.google.com",
+    "portal": false
+  },
+  {
+    "name": "Google Jobs",
+    "domain": "google.com",
+    "portal": true
+  },
+  {
+    "name": "GoStudent",
+    "domain": "gostudent.org",
+    "portal": false
+  },
+  {
+    "name": "Grafana",
+    "domain": "grafana.com",
+    "portal": false
+  },
+  {
+    "name": "GRAIL",
+    "domain": "grail.com",
+    "portal": false
+  },
+  {
+    "name": "Grammarly",
+    "domain": "grammarly.com",
+    "portal": false
+  },
+  {
+    "name": "Greenlight",
+    "domain": "greenlight.com",
+    "portal": false
+  },
+  {
+    "name": "Guardant Health",
+    "domain": "guardanthealth.com",
+    "portal": false
+  },
+  {
+    "name": "Gun.io",
+    "domain": "gun.io",
+    "portal": true
+  },
+  {
+    "name": "H2O.ai",
+    "domain": "h2o.ai",
+    "portal": false
+  },
+  {
+    "name": "Hacker News Jobs",
+    "domain": "ycombinator.com",
+    "portal": true
+  },
+  {
+    "name": "Halliburton",
+    "domain": "halliburton.com",
+    "portal": false
+  },
+  {
+    "name": "Hartford Financial Services Group",
+    "domain": "thehartford.com",
+    "portal": false
+  },
+  {
+    "name": "Harvey AI",
+    "domain": "harvey.ai",
+    "portal": false
+  },
+  {
+    "name": "Hasbro Inc",
+    "domain": "hasbro.com",
+    "portal": false
+  },
+  {
+    "name": "HashiCorp",
+    "domain": "hashicorp.com",
+    "portal": false
+  },
+  {
+    "name": "Hasura",
+    "domain": "hasura.io",
+    "portal": false
+  },
+  {
+    "name": "Hca Healthcare Inc",
+    "domain": "hcahealthcare.com",
+    "portal": false
+  },
+  {
+    "name": "HCLTech",
+    "domain": "hcltech.com",
+    "portal": false
+  },
+  {
+    "name": "Headspace",
+    "domain": "headspace.com",
+    "portal": false
+  },
+  {
+    "name": "Healthpeak Properties Inc",
+    "domain": "healthpeak.com",
+    "portal": false
+  },
+  {
+    "name": "Heart Aerospace",
+    "domain": "heartaerospace.com",
+    "portal": false
+  },
+  {
+    "name": "Height",
+    "domain": "height.app",
+    "portal": false
+  },
+  {
+    "name": "Henry Schein Inc",
+    "domain": "henryschein.com",
+    "portal": false
+  },
+  {
+    "name": "Hershey Foods",
+    "domain": "thehersheycompany.com",
+    "portal": false
+  },
+  {
+    "name": "Hetzner",
+    "domain": "hetzner.com",
+    "portal": false
+  },
+  {
+    "name": "Hewlett Packard Enterprise",
+    "domain": "hewlettpackardenterprise.com",
+    "portal": false
+  },
+  {
+    "name": "Hilton Worldwide Holdings Inc",
+    "domain": "hilton.com",
+    "portal": false
+  },
+  {
+    "name": "Hims & Hers",
+    "domain": "hims.com",
+    "portal": false
+  },
+  {
+    "name": "Hinge Health",
+    "domain": "hingehealth.com",
+    "portal": false
+  },
+  {
+    "name": "Hired",
+    "domain": "hired.com",
+    "portal": true
+  },
+  {
+    "name": "Hologic Inc",
+    "domain": "hologic.com",
+    "portal": false
+  },
+  {
+    "name": "Home Depot Inc",
+    "domain": "homedepot.com",
+    "portal": false
+  },
+  {
+    "name": "Homer Learning",
+    "domain": "homer.com",
+    "portal": false
+  },
+  {
+    "name": "Honeycomb",
+    "domain": "honeycomb.io",
+    "portal": false
+  },
+  {
+    "name": "Honeywell International Inc",
+    "domain": "honeywell.com",
+    "portal": false
+  },
+  {
+    "name": "Hormel Foods Corp",
+    "domain": "hormelfoods.com",
+    "portal": false
+  },
+  {
+    "name": "Host Hotels & Resorts Reit Inc",
+    "domain": "hosthotels.com",
+    "portal": false
+  },
+  {
+    "name": "Howmet Aerospace Inc",
+    "domain": "howmet.com",
+    "portal": false
+  },
+  {
+    "name": "HP",
+    "domain": "hp.com",
+    "portal": false
+  },
+  {
+    "name": "Hp Inc",
+    "domain": "hp.com",
+    "portal": false
+  },
+  {
+    "name": "Huawei",
+    "domain": "huawei.com",
+    "portal": false
+  },
+  {
+    "name": "Hubbell Incorporated",
+    "domain": "hubbell.com",
+    "portal": false
+  },
+  {
+    "name": "HubSpot",
+    "domain": "hubspot.com",
+    "portal": false
+  },
+  {
+    "name": "Hugging Face",
+    "domain": "huggingface.co",
+    "portal": false
+  },
+  {
+    "name": "Humana Inc",
+    "domain": "humana.com",
+    "portal": false
+  },
+  {
+    "name": "Hume AI",
+    "domain": "hume.ai",
+    "portal": false
+  },
+  {
+    "name": "Huntington Bancshares Inc",
+    "domain": "huntington.com",
+    "portal": false
+  },
+  {
+    "name": "Huntington Ingalls Industries Inc",
+    "domain": "huntingtoningalls.com",
+    "portal": false
+  },
+  {
+    "name": "IBM",
+    "domain": "ibm.com",
+    "portal": false
+  },
+  {
+    "name": "Idex Corp",
+    "domain": "idexcorp.com",
+    "portal": false
+  },
+  {
+    "name": "Idexx Laboratories Inc",
+    "domain": "idexxlaboratories.com",
+    "portal": false
+  },
+  {
+    "name": "Illinois Tool Inc",
+    "domain": "illinoistool.com",
+    "portal": false
+  },
+  {
+    "name": "Illumina",
+    "domain": "illumina.com",
+    "portal": false
+  },
+  {
+    "name": "Illumio",
+    "domain": "illumio.com",
+    "portal": false
+  },
+  {
+    "name": "Immutable",
+    "domain": "immutable.com",
+    "portal": false
+  },
+  {
+    "name": "Incyte Corp",
+    "domain": "incyte.com",
+    "portal": false
+  },
+  {
+    "name": "Indeed",
+    "domain": "indeed.com",
+    "portal": true
+  },
+  {
+    "name": "Inflection AI",
+    "domain": "inflection.ai",
+    "portal": false
+  },
+  {
+    "name": "InfluxData",
+    "domain": "influxdata.com",
+    "portal": false
+  },
+  {
+    "name": "Infosys",
+    "domain": "infosys.com",
+    "portal": false
+  },
+  {
+    "name": "Ingersoll Rand Inc",
+    "domain": "ingersollrand.com",
+    "portal": false
+  },
+  {
+    "name": "Insitro",
+    "domain": "insitro.com",
+    "portal": false
+  },
+  {
+    "name": "Insomniac Games",
+    "domain": "insomniac.games",
+    "portal": false
+  },
+  {
+    "name": "Insulet Corp",
+    "domain": "insulet.com",
+    "portal": false
+  },
+  {
+    "name": "Intel",
+    "domain": "intel.com",
+    "portal": false
+  },
+  {
+    "name": "Intel Corporation Corp",
+    "domain": "intelcorporation.com",
+    "portal": false
+  },
+  {
+    "name": "Interactive Brokers Group",
+    "domain": "interactivebrokers.com",
+    "portal": false
+  },
+  {
+    "name": "Intercontinental Exchange Inc",
+    "domain": "ice.com",
+    "portal": false
+  },
+  {
+    "name": "International Business Machines Co",
+    "domain": "ibm.com",
+    "portal": false
+  },
+  {
+    "name": "International Flavors & Fragrances",
+    "domain": "iff.com",
+    "portal": false
+  },
+  {
+    "name": "International Paper",
+    "domain": "internationalpaper.com",
+    "portal": false
+  },
+  {
+    "name": "Intuit Inc",
+    "domain": "intuit.com",
+    "portal": false
+  },
+  {
+    "name": "Intuitive Surgical Inc",
+    "domain": "intuitivesurgical.com",
+    "portal": false
+  },
+  {
+    "name": "Invesco Ltd",
+    "domain": "invesco.com",
+    "portal": false
+  },
+  {
+    "name": "Invitation Homes Inc",
+    "domain": "invitationhomes.com",
+    "portal": false
+  },
+  {
+    "name": "Iqvia Holdings Inc",
+    "domain": "iqviaholdings.com",
+    "portal": false
+  },
+  {
+    "name": "Iron Mountain Inc",
+    "domain": "ironmountain.com",
+    "portal": false
+  },
+  {
+    "name": "Jabil Inc",
+    "domain": "jabil.com",
+    "portal": false
+  },
+  {
+    "name": "Jack Henry And Associates Inc",
+    "domain": "jackhenry.com",
+    "portal": false
+  },
+  {
+    "name": "Jasper AI",
+    "domain": "jasper.ai",
+    "portal": false
+  },
+  {
+    "name": "Jb Hunt Transport Services Inc",
+    "domain": "jbhunt.com",
+    "portal": false
+  },
+  {
+    "name": "JFrog",
+    "domain": "jfrog.com",
+    "portal": false
+  },
+  {
+    "name": "Jm Smucker",
+    "domain": "jmsmucker.com",
+    "portal": false
+  },
+  {
+    "name": "Jobspresso",
+    "domain": "jobspresso.co",
+    "portal": true
+  },
+  {
+    "name": "Joby Aviation",
+    "domain": "jobyaviation.com",
+    "portal": false
+  },
+  {
+    "name": "Johnson & Johnson",
+    "domain": "jnj.com",
+    "portal": false
+  },
+  {
+    "name": "Johnson Controls International Plc",
+    "domain": "johnsoncontrols.com",
+    "portal": false
+  },
+  {
+    "name": "Jopwell",
+    "domain": "jopwell.com",
+    "portal": true
+  },
+  {
+    "name": "JPMorgan Chase & Co",
+    "domain": "jpmorganchase.com",
+    "portal": false
+  },
+  {
+    "name": "Juniper Networks",
+    "domain": "juniper.net",
+    "portal": false
+  },
+  {
+    "name": "K Health",
+    "domain": "khealth.com",
+    "portal": false
+  },
+  {
+    "name": "KDDI",
+    "domain": "kddi.com",
+    "portal": false
+  },
+  {
+    "name": "Kellogg",
+    "domain": "kelloggs.com",
+    "portal": false
+  },
+  {
+    "name": "Kenvue Inc",
+    "domain": "kenvue.com",
+    "portal": false
+  },
+  {
+    "name": "Keurig Dr Pepper Inc",
+    "domain": "keurigdrpepper.com",
+    "portal": false
+  },
+  {
+    "name": "Keycorp",
+    "domain": "key.com",
+    "portal": false
+  },
+  {
+    "name": "Keysight Technologies Inc",
+    "domain": "keysighttechnologies.com",
+    "portal": false
+  },
+  {
+    "name": "Khan Academy",
+    "domain": "khanacademy.org",
+    "portal": false
+  },
+  {
+    "name": "Kimberly Clark Corp",
+    "domain": "kimberly-clark.com",
+    "portal": false
+  },
+  {
+    "name": "Kimco Realty Reit Corp",
+    "domain": "kimcorealty.com",
+    "portal": false
+  },
+  {
+    "name": "Kinder Morgan Inc",
+    "domain": "kindermorgan.com",
+    "portal": false
+  },
+  {
+    "name": "King",
+    "domain": "king.com",
+    "portal": false
+  },
+  {
+    "name": "KKR & Co Inc",
+    "domain": "kkr.com",
+    "portal": false
+  },
+  {
+    "name": "Kla Corp",
+    "domain": "kla.com",
+    "portal": false
+  },
+  {
+    "name": "Klarna",
+    "domain": "klarna.com",
+    "portal": false
+  },
+  {
+    "name": "KPMG",
+    "domain": "kpmg.com",
+    "portal": false
+  },
+  {
+    "name": "Kraft Heinz",
+    "domain": "kraftheinzcompany.com",
+    "portal": false
+  },
+  {
+    "name": "Kraken",
+    "domain": "kraken.ci",
+    "portal": false
+  },
+  {
+    "name": "Kroger",
+    "domain": "thekrogerco.com",
+    "portal": false
+  },
+  {
+    "name": "Kubernetes (CNCF)",
+    "domain": "cncf.io",
+    "portal": false
+  },
+  {
+    "name": "L3Harris Technologies Inc",
+    "domain": "l3harris.com",
+    "portal": false
+  },
+  {
+    "name": "Labelbox",
+    "domain": "labelbox.com",
+    "portal": false
+  },
+  {
+    "name": "Laboratory Corporation Of America",
+    "domain": "laboratorycorporationofamerica.com",
+    "portal": false
+  },
+  {
+    "name": "Lacework",
+    "domain": "lacework.com",
+    "portal": false
+  },
+  {
+    "name": "Lam Research Corp",
+    "domain": "lamresearch.com",
+    "portal": false
+  },
+  {
+    "name": "Lambda",
+    "domain": "lambdalabs.com",
+    "portal": false
+  },
+  {
+    "name": "LanzaTech",
+    "domain": "lanzatech.com",
+    "portal": false
+  },
+  {
+    "name": "Las Vegas Sands Corp",
+    "domain": "sands.com",
+    "portal": false
+  },
+  {
+    "name": "Leidos Holdings Inc",
+    "domain": "leidos.com",
+    "portal": false
+  },
+  {
+    "name": "Lennar A Corp",
+    "domain": "lennar.com",
+    "portal": false
+  },
+  {
+    "name": "Lennox International Inc",
+    "domain": "lennoxinternational.com",
+    "portal": false
+  },
+  {
+    "name": "Levels.fyi",
+    "domain": "levels.fyi",
+    "portal": true
+  },
+  {
+    "name": "Lightstep",
+    "domain": "lightstep.com",
+    "portal": false
+  },
+  {
+    "name": "Linde Plc",
+    "domain": "linde.com",
+    "portal": false
+  },
+  {
+    "name": "Linear",
+    "domain": "linear.app",
+    "portal": false
+  },
+  {
+    "name": "LinkedIn Jobs",
+    "domain": "linkedin.com",
+    "portal": true
+  },
+  {
+    "name": "Linode",
+    "domain": "linode.com",
+    "portal": false
+  },
+  {
+    "name": "Live Nation Entertainment Inc",
+    "domain": "livenationentertainment.com",
+    "portal": false
+  },
+  {
+    "name": "Lockheed Martin Corp",
+    "domain": "lockheedmartin.com",
+    "portal": false
+  },
+  {
+    "name": "Loews Corp",
+    "domain": "loews.com",
+    "portal": false
+  },
+  {
+    "name": "Lowes Companies Inc",
+    "domain": "lowes.com",
+    "portal": false
+  },
+  {
+    "name": "Lucid Motors",
+    "domain": "lucidmotors.com",
+    "portal": false
+  },
+  {
+    "name": "Lululemon Athletica Inc",
+    "domain": "lululemon.com",
+    "portal": false
+  },
+  {
+    "name": "Lumentum Holdings",
+    "domain": "lumentumholdings.com",
+    "portal": false
+  },
+  {
+    "name": "Lyft",
+    "domain": "lyft.com",
+    "portal": false
+  },
+  {
+    "name": "Lyondellbasell Industries Nv Class",
+    "domain": "lyondellbasell.com",
+    "portal": false
+  },
+  {
+    "name": "Lyra Health",
+    "domain": "lyrahealth.com",
+    "portal": false
+  },
+  {
+    "name": "M&T Bank Corp",
+    "domain": "mtb.com",
+    "portal": false
+  },
+  {
+    "name": "Malt",
+    "domain": "malt.com",
+    "portal": true
+  },
+  {
+    "name": "Mammoth Biosciences",
+    "domain": "mammoth.bio",
+    "portal": false
+  },
+  {
+    "name": "Marathon Petroleum Corp",
+    "domain": "marathonpetroleum.com",
+    "portal": false
+  },
+  {
+    "name": "Marqeta",
+    "domain": "marqeta.com",
+    "portal": false
+  },
+  {
+    "name": "Marriott International Inc Class A",
+    "domain": "marriott.com",
+    "portal": false
+  },
+  {
+    "name": "Marsh & Mclennan Inc",
+    "domain": "mmc.com",
+    "portal": false
+  },
+  {
+    "name": "Martin Marietta Materials Inc",
+    "domain": "martinmarietta.com",
+    "portal": false
+  },
+  {
+    "name": "Masco Corp",
+    "domain": "masco.com",
+    "portal": false
+  },
+  {
+    "name": "Mastercard Inc Class A",
+    "domain": "mastercard.com",
+    "portal": false
+  },
+  {
+    "name": "MasterClass",
+    "domain": "masterclass.com",
+    "portal": false
+  },
+  {
+    "name": "Mastodon",
+    "domain": "joinmastodon.org",
+    "portal": false
+  },
+  {
+    "name": "Mccormick & Co Non-Voting Inc",
+    "domain": "mccormickconon-voting.com",
+    "portal": false
+  },
+  {
+    "name": "Mcdonalds Corp",
+    "domain": "mcdonalds.com",
+    "portal": false
+  },
+  {
+    "name": "Mckesson Corp",
+    "domain": "mckesson.com",
+    "portal": false
+  },
+  {
+    "name": "McKinsey & Company",
+    "domain": "mckinsey.com",
+    "portal": false
+  },
+  {
+    "name": "McKinsey Digital",
+    "domain": "mckinsey.com",
+    "portal": false
+  },
+  {
+    "name": "MediaTek",
+    "domain": "mediatek.com",
+    "portal": false
+  },
+  {
+    "name": "Medium",
+    "domain": "medium.com",
+    "portal": false
+  },
+  {
+    "name": "Medtronic Plc",
+    "domain": "medtronic.com",
+    "portal": false
+  },
+  {
+    "name": "Meetup",
+    "domain": "meetup.com",
+    "portal": false
+  },
+  {
+    "name": "Mercado Libre",
+    "domain": "mercadolibre.com",
+    "portal": false
+  },
+  {
+    "name": "Merck & Co Inc",
+    "domain": "merck.com",
+    "portal": false
+  },
+  {
+    "name": "Mercury",
+    "domain": "mercury.com",
+    "portal": false
+  },
+  {
+    "name": "Meta",
+    "domain": "meta.com",
+    "portal": false
+  },
+  {
+    "name": "Meta Platforms Inc Class A",
+    "domain": "meta.com",
+    "portal": false
+  },
+  {
+    "name": "Metlife Inc",
+    "domain": "metlife.com",
+    "portal": false
+  },
+  {
+    "name": "Mettler Toledo Inc",
+    "domain": "mettlertoledo.com",
+    "portal": false
+  },
+  {
+    "name": "Mgm Resorts International",
+    "domain": "mgmresorts.com",
+    "portal": false
+  },
+  {
+    "name": "Microchip Technology Inc",
+    "domain": "microchiptechnology.com",
+    "portal": false
+  },
+  {
+    "name": "Micron",
+    "domain": "micron.com",
+    "portal": false
+  },
+  {
+    "name": "Micron Technology Inc",
+    "domain": "microntechnology.com",
+    "portal": false
+  },
+  {
+    "name": "Microsoft",
+    "domain": "microsoft.com",
+    "portal": false
+  },
+  {
+    "name": "Microsoft Azure",
+    "domain": "azure.microsoft.com",
+    "portal": false
+  },
+  {
+    "name": "Microsoft Corp",
+    "domain": "microsoft.com",
+    "portal": false
+  },
+  {
+    "name": "Mid America Apartment Communities",
+    "domain": "maac.com",
+    "portal": false
+  },
+  {
+    "name": "Midjourney",
+    "domain": "midjourney.com",
+    "portal": false
+  },
+  {
+    "name": "Miro",
+    "domain": "miro.com",
+    "portal": false
+  },
+  {
+    "name": "Mistral AI",
+    "domain": "mistral.ai",
+    "portal": false
+  },
+  {
+    "name": "Modern Health",
+    "domain": "modernhealth.com",
+    "portal": false
+  },
+  {
+    "name": "Moderna Inc",
+    "domain": "moderna.com",
+    "portal": false
+  },
+  {
+    "name": "Molson Coors Brewing Class B",
+    "domain": "molsoncoors.com",
+    "portal": false
+  },
+  {
+    "name": "Monday.com",
+    "domain": "monday.com",
+    "portal": false
+  },
+  {
+    "name": "Mondelez International Inc Class A",
+    "domain": "mondelezinternational.com",
+    "portal": false
+  },
+  {
+    "name": "MongoDB",
+    "domain": "mongodb.com",
+    "portal": false
+  },
+  {
+    "name": "Monolithic Power Systems Inc",
+    "domain": "monolithicpowersystems.com",
+    "portal": false
+  },
+  {
+    "name": "Monster",
+    "domain": "monster.com",
+    "portal": true
+  },
+  {
+    "name": "Monster Beverage Corp",
+    "domain": "monsterbevcorp.com",
+    "portal": false
+  },
+  {
+    "name": "Monzo",
+    "domain": "monzo.com",
+    "portal": false
+  },
+  {
+    "name": "Moodys Corp",
+    "domain": "moodys.com",
+    "portal": false
+  },
+  {
+    "name": "Moon Active",
+    "domain": "moonactive.com",
+    "portal": false
+  },
+  {
+    "name": "Morgan Stanley",
+    "domain": "morganstanley.com",
+    "portal": false
+  },
+  {
+    "name": "Mosaic",
+    "domain": "mosaicco.com",
+    "portal": false
+  },
+  {
+    "name": "Motorola Solutions Inc",
+    "domain": "motorolasolutions.com",
+    "portal": false
+  },
+  {
+    "name": "Msci Inc",
+    "domain": "msci.com",
+    "portal": false
+  },
+  {
+    "name": "Mulesoft",
+    "domain": "mulesoft.com",
+    "portal": false
+  },
+  {
+    "name": "MyFitnessPal",
+    "domain": "myfitnesspal.com",
+    "portal": false
+  },
+  {
+    "name": "Mythical Games",
+    "domain": "mythicalgames.com",
+    "portal": false
+  },
+  {
+    "name": "Nasdaq Inc",
+    "domain": "nasdaq.com",
+    "portal": false
+  },
+  {
+    "name": "Naughty Dog",
+    "domain": "naughtydog.com",
+    "portal": false
+  },
+  {
+    "name": "NBCUniversal",
+    "domain": "nbcunicareers.com",
+    "portal": false
+  },
+  {
+    "name": "Nearpod",
+    "domain": "nearpod.com",
+    "portal": false
+  },
+  {
+    "name": "Neo4j",
+    "domain": "neo4j.com",
+    "portal": false
+  },
+  {
+    "name": "Neon",
+    "domain": "neon.tech",
+    "portal": false
+  },
+  {
+    "name": "NetApp",
+    "domain": "netapp.com",
+    "portal": false
+  },
+  {
+    "name": "Netapp Inc",
+    "domain": "netapp.com",
+    "portal": false
+  },
+  {
+    "name": "Netflix",
+    "domain": "netflix.com",
+    "portal": false
+  },
+  {
+    "name": "Netflix Inc",
+    "domain": "netflix.com",
+    "portal": false
+  },
+  {
+    "name": "Netlify",
+    "domain": "netlify.com",
+    "portal": false
+  },
+  {
+    "name": "Netskope",
+    "domain": "netskope.com",
+    "portal": false
+  },
+  {
+    "name": "New Relic",
+    "domain": "newrelic.com",
+    "portal": false
+  },
+  {
+    "name": "Newmont",
+    "domain": "newmont.com",
+    "portal": false
+  },
+  {
+    "name": "News Corp Class A",
+    "domain": "newscorp.com",
+    "portal": false
+  },
+  {
+    "name": "News Corp Class B",
+    "domain": "newscorp.com",
+    "portal": false
+  },
+  {
+    "name": "Nextdoor",
+    "domain": "nextdoor.com",
+    "portal": false
+  },
+  {
+    "name": "NextEra Energy",
+    "domain": "nexteraenergy.com",
+    "portal": false
+  },
+  {
+    "name": "Nextera Energy Inc",
+    "domain": "nexteraenergy.com",
+    "portal": false
+  },
+  {
+    "name": "Niantic",
+    "domain": "nianticlabs.com",
+    "portal": false
+  },
+  {
+    "name": "Nike Inc Class B",
+    "domain": "nike.com",
+    "portal": false
+  },
+  {
+    "name": "Nintendo",
+    "domain": "nintendo.com",
+    "portal": false
+  },
+  {
+    "name": "Nisource Inc",
+    "domain": "nisource.com",
+    "portal": false
+  },
+  {
+    "name": "Nokia",
+    "domain": "nokia.com",
+    "portal": false
+  },
+  {
+    "name": "Noom",
+    "domain": "noom.com",
+    "portal": false
+  },
+  {
+    "name": "Nord Security",
+    "domain": "nordsecurity.com",
+    "portal": false
+  },
+  {
+    "name": "Nordson Corp",
+    "domain": "nordson.com",
+    "portal": false
+  },
+  {
+    "name": "Norfolk Southern Corp",
+    "domain": "nscorp.com",
+    "portal": false
+  },
+  {
+    "name": "Normal Computing",
+    "domain": "normalcomputing.ai",
+    "portal": false
+  },
+  {
+    "name": "Northern Trust Corp",
+    "domain": "northerntrust.com",
+    "portal": false
+  },
+  {
+    "name": "Northrop Grumman Corp",
+    "domain": "northropgrumman.com",
+    "portal": false
+  },
+  {
+    "name": "Northvolt",
+    "domain": "northvolt.com",
+    "portal": false
+  },
+  {
+    "name": "Norwegian Cruise Line Holdings Ltd",
+    "domain": "ncl.com",
+    "portal": false
+  },
+  {
+    "name": "Notion",
+    "domain": "notion.so",
+    "portal": false
+  },
+  {
+    "name": "Notion AI",
+    "domain": "notion.so",
+    "portal": false
+  },
+  {
+    "name": "Nrg Energy Inc",
+    "domain": "nrg.com",
+    "portal": false
+  },
+  {
+    "name": "NTT Data",
+    "domain": "nttdata.com",
+    "portal": false
+  },
+  {
+    "name": "Nubank",
+    "domain": "nubank.com.br",
+    "portal": false
+  },
+  {
+    "name": "Nucor Corp",
+    "domain": "nucor.com",
+    "portal": false
+  },
+  {
+    "name": "Nutanix",
+    "domain": "nutanix.com",
+    "portal": false
+  },
+  {
+    "name": "Nvidia",
+    "domain": "nvidia.com",
+    "portal": false
+  },
+  {
+    "name": "Nvidia Corp",
+    "domain": "nvidia.com",
+    "portal": false
+  },
+  {
+    "name": "Nvr Inc",
+    "domain": "nvrinc.com",
+    "portal": false
+  },
+  {
+    "name": "Nx",
+    "domain": "nx.dev",
+    "portal": false
+  },
+  {
+    "name": "Nxp Semiconductors Nv",
+    "domain": "nxpsemiconductors.com",
+    "portal": false
+  },
+  {
+    "name": "Oak Street Health",
+    "domain": "oakstreethealth.com",
+    "portal": false
+  },
+  {
+    "name": "Occidental Petroleum Corp",
+    "domain": "oxy.com",
+    "portal": false
+  },
+  {
+    "name": "Octopus Energy",
+    "domain": "octopusenergy.com",
+    "portal": false
+  },
+  {
+    "name": "Okta",
+    "domain": "okta.com",
+    "portal": false
+  },
+  {
+    "name": "Old Dominion Freight Line Inc",
+    "domain": "odfl.com",
+    "portal": false
+  },
+  {
+    "name": "Omada Health",
+    "domain": "omadahealth.com",
+    "portal": false
+  },
+  {
+    "name": "Omnicom Group Inc",
+    "domain": "omnicomgroup.com",
+    "portal": false
+  },
+  {
+    "name": "On Semiconductor Corp",
+    "domain": "onsemiconductor.com",
+    "portal": false
+  },
+  {
+    "name": "One Medical",
+    "domain": "onemedical.com",
+    "portal": false
+  },
+  {
+    "name": "Oneok Inc",
+    "domain": "oneok.com",
+    "portal": false
+  },
+  {
+    "name": "OpenAI",
+    "domain": "openai.com",
+    "portal": false
+  },
+  {
+    "name": "OpenSea",
+    "domain": "opensea.io",
+    "portal": false
+  },
+  {
+    "name": "Oracle",
+    "domain": "oracle.com",
+    "portal": false
+  },
+  {
+    "name": "Oracle Corp",
+    "domain": "oracle.com",
+    "portal": false
+  },
+  {
+    "name": "Orange",
+    "domain": "orange.com",
+    "portal": false
+  },
+  {
+    "name": "Orca Security",
+    "domain": "orca.security",
+    "portal": false
+  },
+  {
+    "name": "Oreilly Automotive Inc",
+    "domain": "oreillyauto.com",
+    "portal": false
+  },
+  {
+    "name": "Otis Worldwide Corp",
+    "domain": "otis.com",
+    "portal": false
+  },
+  {
+    "name": "Otta",
+    "domain": "otta.com",
+    "portal": true
+  },
+  {
+    "name": "Otter AI",
+    "domain": "otter.ai",
+    "portal": false
+  },
+  {
+    "name": "Oura",
+    "domain": "ouraring.com",
+    "portal": false
+  },
+  {
+    "name": "Out in Tech",
+    "domain": "outintech.com",
+    "portal": true
+  },
+  {
+    "name": "Outschool",
+    "domain": "outschool.com",
+    "portal": false
+  },
+  {
+    "name": "OVHcloud",
+    "domain": "ovhcloud.com",
+    "portal": false
+  },
+  {
+    "name": "Paccar Inc",
+    "domain": "paccar.com",
+    "portal": false
+  },
+  {
+    "name": "Pachama",
+    "domain": "pachama.com",
+    "portal": false
+  },
+  {
+    "name": "Pacific Biosciences",
+    "domain": "pacb.com",
+    "portal": false
+  },
+  {
+    "name": "Packaging Corp Of America",
+    "domain": "packagingcorp.com",
+    "portal": false
+  },
+  {
+    "name": "Palantir",
+    "domain": "palantir.com",
+    "portal": false
+  },
+  {
+    "name": "Palantir Technologies Inc",
+    "domain": "palantirtechnologies.com",
+    "portal": false
+  },
+  {
+    "name": "Palo Alto Networks",
+    "domain": "paloaltonetworks.com",
+    "portal": false
+  },
+  {
+    "name": "Palo Alto Networks Inc",
+    "domain": "paloaltonetworks.com",
+    "portal": false
+  },
+  {
+    "name": "Papaya Global",
+    "domain": "papayaglobal.com",
+    "portal": false
+  },
+  {
+    "name": "Paramount",
+    "domain": "paramount.com",
+    "portal": false
+  },
+  {
+    "name": "Paramount Global Class B",
+    "domain": "paramount.com",
+    "portal": false
+  },
+  {
+    "name": "Parker-Hannifin Corp",
+    "domain": "parker.com",
+    "portal": false
+  },
+  {
+    "name": "Patreon",
+    "domain": "patreon.com",
+    "portal": false
+  },
+  {
+    "name": "Paycom Software Inc",
+    "domain": "paycomsoftware.com",
+    "portal": false
+  },
+  {
+    "name": "PayPal",
+    "domain": "paypal.com",
+    "portal": false
+  },
+  {
+    "name": "Paypal Holdings Inc",
+    "domain": "paypal.com",
+    "portal": false
+  },
+  {
+    "name": "Pearson",
+    "domain": "pearson.com",
+    "portal": false
+  },
+  {
+    "name": "Pentair",
+    "domain": "pentair.com",
+    "portal": false
+  },
+  {
+    "name": "PeoplePerHour",
+    "domain": "peopleperhour.com",
+    "portal": true
+  },
+  {
+    "name": "Pepsico Inc",
+    "domain": "pepsico.com",
+    "portal": false
+  },
+  {
+    "name": "Perficient",
+    "domain": "perficient.com",
+    "portal": false
+  },
+  {
+    "name": "Perplexity AI",
+    "domain": "perplexity.ai",
+    "portal": false
+  },
+  {
+    "name": "Petal",
+    "domain": "petal.com",
+    "portal": false
+  },
+  {
+    "name": "Pfizer Inc",
+    "domain": "pfizer.com",
+    "portal": false
+  },
+  {
+    "name": "Pg&E Corp",
+    "domain": "pge.com",
+    "portal": false
+  },
+  {
+    "name": "Philip Morris International Inc",
+    "domain": "pmi.com",
+    "portal": false
+  },
+  {
+    "name": "Phillips",
+    "domain": "phillips66.com",
+    "portal": false
+  },
+  {
+    "name": "Photomath",
+    "domain": "photomath.com",
+    "portal": false
+  },
+  {
+    "name": "Ping Identity",
+    "domain": "pingidentity.com",
+    "portal": false
+  },
+  {
+    "name": "Pinnacle West Corp",
+    "domain": "pinnaclewest.com",
+    "portal": false
+  },
+  {
+    "name": "Pinterest",
+    "domain": "pinterest.com",
+    "portal": false
+  },
+  {
+    "name": "Pioneer Natural Resource",
+    "domain": "pion.com",
+    "portal": false
+  },
+  {
+    "name": "Pipity",
+    "domain": "pipity.com",
+    "portal": false
+  },
+  {
+    "name": "Plaid",
+    "domain": "plaid.com",
+    "portal": false
+  },
+  {
+    "name": "PlanetScale",
+    "domain": "planetscale.com",
+    "portal": false
+  },
+  {
+    "name": "Planview",
+    "domain": "planview.com",
+    "portal": false
+  },
+  {
+    "name": "Playrix",
+    "domain": "playrix.com",
+    "portal": false
+  },
+  {
+    "name": "Playwright",
+    "domain": "playwright.dev",
+    "portal": false
+  },
+  {
+    "name": "Pluralsight",
+    "domain": "pluralsight.com",
+    "portal": false
+  },
+  {
+    "name": "Pnc Financial Services Group Inc",
+    "domain": "pnc.com",
+    "portal": false
+  },
+  {
+    "name": "Pool Corp",
+    "domain": "poolcorp.com",
+    "portal": false
+  },
+  {
+    "name": "Poshmark",
+    "domain": "poshmark.com",
+    "portal": false
+  },
+  {
+    "name": "Postman",
+    "domain": "postman.com",
+    "portal": false
+  },
+  {
+    "name": "Powertofly",
+    "domain": "powertofly.com",
+    "portal": true
+  },
+  {
+    "name": "Ppg Industries Inc",
+    "domain": "ppg.com",
+    "portal": false
+  },
+  {
+    "name": "Ppl Corp",
+    "domain": "pplweb.com",
+    "portal": false
+  },
+  {
+    "name": "Principal Financial Group Inc",
+    "domain": "principal.com",
+    "portal": false
+  },
+  {
+    "name": "Prisma",
+    "domain": "prisma.io",
+    "portal": false
+  },
+  {
+    "name": "Procter & Gamble",
+    "domain": "pg.com",
+    "portal": false
+  },
+  {
+    "name": "Prodigy Education",
+    "domain": "prodigygame.com",
+    "portal": false
+  },
+  {
+    "name": "Progressive Corp",
+    "domain": "progressive.com",
+    "portal": false
+  },
+  {
+    "name": "Prologis Reit Inc",
+    "domain": "prologis.com",
+    "portal": false
+  },
+  {
+    "name": "Proterra",
+    "domain": "proterra.com",
+    "portal": false
+  },
+  {
+    "name": "Prudential Financial Inc",
+    "domain": "prudential.com",
+    "portal": false
+  },
+  {
+    "name": "Ptc Inc",
+    "domain": "ptc.com",
+    "portal": false
+  },
+  {
+    "name": "Public Service Enterprise Group In",
+    "domain": "pseg.com",
+    "portal": false
+  },
+  {
+    "name": "Public Storage Reit",
+    "domain": "publicstorage.com",
+    "portal": false
+  },
+  {
+    "name": "Public.com",
+    "domain": "public.com",
+    "portal": false
+  },
+  {
+    "name": "Publicis Sapient",
+    "domain": "publicissapient.com",
+    "portal": false
+  },
+  {
+    "name": "Pultegroup Inc",
+    "domain": "pultegroup.com",
+    "portal": false
+  },
+  {
+    "name": "Pulumi",
+    "domain": "pulumi.com",
+    "portal": false
+  },
+  {
+    "name": "Pure Storage",
+    "domain": "purestorage.com",
+    "portal": false
+  },
+  {
+    "name": "PwC",
+    "domain": "pwc.com",
+    "portal": false
+  },
+  {
+    "name": "Qualcomm",
+    "domain": "qualcomm.com",
+    "portal": false
+  },
+  {
+    "name": "Qualcomm Inc",
+    "domain": "qualcomm.com",
+    "portal": false
+  },
+  {
+    "name": "Quanta Services Inc",
+    "domain": "quantaservices.com",
+    "portal": false
+  },
+  {
+    "name": "QuantumScape",
+    "domain": "quantumscape.com",
+    "portal": false
+  },
+  {
+    "name": "Quest Diagnostics Inc",
+    "domain": "questdiagnostics.com",
+    "portal": false
+  },
+  {
+    "name": "Quizlet",
+    "domain": "quizlet.com",
+    "portal": false
+  },
+  {
+    "name": "Railway",
+    "domain": "railway.app",
+    "portal": false
+  },
+  {
+    "name": "Rakuten",
+    "domain": "rakuten.com",
+    "portal": false
+  },
+  {
+    "name": "Ralph Lauren Corp Class A",
+    "domain": "ralphlauren.com",
+    "portal": false
+  },
+  {
+    "name": "Ramp",
+    "domain": "ramp.com",
+    "portal": false
+  },
+  {
+    "name": "Rapid7",
+    "domain": "rapid7.com",
+    "portal": false
+  },
+  {
+    "name": "Raycast",
+    "domain": "raycast.com",
+    "portal": false
+  },
+  {
+    "name": "Raymond James Inc",
+    "domain": "raymondjames.com",
+    "portal": false
+  },
+  {
+    "name": "Realty Income Reit Corp",
+    "domain": "realtyincome.com",
+    "portal": false
+  },
+  {
+    "name": "Recursion",
+    "domain": "recursion.com",
+    "portal": false
+  },
+  {
+    "name": "Red Hat",
+    "domain": "redhat.com",
+    "portal": false
+  },
+  {
+    "name": "Reddit",
+    "domain": "reddit.com",
+    "portal": false
+  },
+  {
+    "name": "Redis",
+    "domain": "redis.com",
+    "portal": false
+  },
+  {
+    "name": "Redwood Materials",
+    "domain": "redwoodmaterials.com",
+    "portal": false
+  },
+  {
+    "name": "Regency Centers Reit Corp",
+    "domain": "regencycenters.com",
+    "portal": false
+  },
+  {
+    "name": "Regeneron Pharmaceuticals Inc",
+    "domain": "regeneronpharmaceuticals.com",
+    "portal": false
+  },
+  {
+    "name": "Regions Financial Corp",
+    "domain": "regions.com",
+    "portal": false
+  },
+  {
+    "name": "Reliance Jio",
+    "domain": "jio.com",
+    "portal": false
+  },
+  {
+    "name": "Remote",
+    "domain": "remote.com",
+    "portal": false
+  },
+  {
+    "name": "Remote OK",
+    "domain": "remoteok.com",
+    "portal": true
+  },
+  {
+    "name": "Remote.co",
+    "domain": "remote.co",
+    "portal": true
+  },
+  {
+    "name": "Remotive",
+    "domain": "remotive.com",
+    "portal": true
+  },
+  {
+    "name": "Render",
+    "domain": "render.com",
+    "portal": false
+  },
+  {
+    "name": "Replicate",
+    "domain": "replicate.com",
+    "portal": false
+  },
+  {
+    "name": "Republic Services Inc",
+    "domain": "republicservices.com",
+    "portal": false
+  },
+  {
+    "name": "Resmed Inc",
+    "domain": "resmed.com",
+    "portal": false
+  },
+  {
+    "name": "Respawn Entertainment",
+    "domain": "respawn.com",
+    "portal": false
+  },
+  {
+    "name": "Revolut",
+    "domain": "revolut.com",
+    "portal": false
+  },
+  {
+    "name": "Revvity Inc",
+    "domain": "revvity.com",
+    "portal": false
+  },
+  {
+    "name": "Riot Games",
+    "domain": "riotgames.com",
+    "portal": false
+  },
+  {
+    "name": "Rippling",
+    "domain": "rippling.com",
+    "portal": false
+  },
+  {
+    "name": "Rivian",
+    "domain": "rivian.com",
+    "portal": false
+  },
+  {
+    "name": "Ro",
+    "domain": "ro.co",
+    "portal": false
+  },
+  {
+    "name": "Robinhood",
+    "domain": "robinhood.com",
+    "portal": false
+  },
+  {
+    "name": "Robinhood Markets",
+    "domain": "robinhood.com",
+    "portal": false
+  },
+  {
+    "name": "Roblox",
+    "domain": "roblox.com",
+    "portal": false
+  },
+  {
+    "name": "Rockwell Automation Inc",
+    "domain": "rockwellautomation.com",
+    "portal": false
+  },
+  {
+    "name": "Rollins Inc",
+    "domain": "rollins.com",
+    "portal": false
+  },
+  {
+    "name": "Roper Technologies Inc",
+    "domain": "ropertechnologies.com",
+    "portal": false
+  },
+  {
+    "name": "Ross Stores Inc",
+    "domain": "rossstores.com",
+    "portal": false
+  },
+  {
+    "name": "Royal Caribbean Group Ltd",
+    "domain": "royalcaribbean.com",
+    "portal": false
+  },
+  {
+    "name": "Rtx Corp",
+    "domain": "rtx.com",
+    "portal": false
+  },
+  {
+    "name": "Runway",
+    "domain": "runwayml.com",
+    "portal": false
+  },
+  {
+    "name": "S&P Global Inc",
+    "domain": "spglobal.com",
+    "portal": false
+  },
+  {
+    "name": "Salesforce",
+    "domain": "salesforce.com",
+    "portal": false
+  },
+  {
+    "name": "Salesforce Inc",
+    "domain": "salesforce.com",
+    "portal": false
+  },
+  {
+    "name": "Samsung Networks",
+    "domain": "samsung.com",
+    "portal": false
+  },
+  {
+    "name": "SanDisk Corp",
+    "domain": "sandisk.com",
+    "portal": false
+  },
+  {
+    "name": "SAP",
+    "domain": "sap.com",
+    "portal": false
+  },
+  {
+    "name": "Sba Communications Reit Corp Class",
+    "domain": "sbaservices.com",
+    "portal": false
+  },
+  {
+    "name": "Scale AI",
+    "domain": "scale.com",
+    "portal": false
+  },
+  {
+    "name": "Schlumberger Nv",
+    "domain": "slb.com",
+    "portal": false
+  },
+  {
+    "name": "Schoology",
+    "domain": "schoology.com",
+    "portal": false
+  },
+  {
+    "name": "Seagate Technology Holdings Plc",
+    "domain": "seagatetechnologyholdings.com",
+    "portal": false
+  },
+  {
+    "name": "Sempra",
+    "domain": "sempra.com",
+    "portal": false
+  },
+  {
+    "name": "SentinelOne",
+    "domain": "sentinelone.com",
+    "portal": false
+  },
+  {
+    "name": "Sentry",
+    "domain": "sentry.io",
+    "portal": false
+  },
+  {
+    "name": "ServiceNow",
+    "domain": "servicenow.com",
+    "portal": false
+  },
+  {
+    "name": "Servicenow Inc",
+    "domain": "servicenow.com",
+    "portal": false
+  },
+  {
+    "name": "Sherwin Williams",
+    "domain": "sherwin-williams.com",
+    "portal": false
+  },
+  {
+    "name": "Shield AI",
+    "domain": "shield.ai",
+    "portal": false
+  },
+  {
+    "name": "Shopify",
+    "domain": "shopify.com",
+    "portal": false
+  },
+  {
+    "name": "Signal",
+    "domain": "signal.org",
+    "portal": false
+  },
+  {
+    "name": "Simon Property Group Reit Inc",
+    "domain": "simon.com",
+    "portal": false
+  },
+  {
+    "name": "SimplyHired",
+    "domain": "simplyhired.com",
+    "portal": true
+  },
+  {
+    "name": "Singtel",
+    "domain": "singtel.com",
+    "portal": false
+  },
+  {
+    "name": "Skillshare",
+    "domain": "skillshare.com",
+    "portal": false
+  },
+  {
+    "name": "Sky Mavis",
+    "domain": "skymavis.com",
+    "portal": false
+  },
+  {
+    "name": "Skydio",
+    "domain": "skydio.com",
+    "portal": false
+  },
+  {
+    "name": "Skyworks Solutions Inc",
+    "domain": "skyworkssolutions.com",
+    "portal": false
+  },
+  {
+    "name": "Slack",
+    "domain": "slack.com",
+    "portal": false
+  },
+  {
+    "name": "Slalom",
+    "domain": "slalom.com",
+    "portal": false
+  },
+  {
+    "name": "Smartsheet",
+    "domain": "smartsheet.com",
+    "portal": false
+  },
+  {
+    "name": "Smashing Jobs",
+    "domain": "smashingmagazine.com",
+    "portal": true
+  },
+  {
+    "name": "Snap",
+    "domain": "snap.com",
+    "portal": false
+  },
+  {
+    "name": "Snap On Inc",
+    "domain": "snapon.com",
+    "portal": false
+  },
+  {
+    "name": "Snorkel AI",
+    "domain": "snorkel.ai",
+    "portal": false
+  },
+  {
+    "name": "Snowflake",
+    "domain": "snowflake.com",
+    "portal": false
+  },
+  {
+    "name": "Snyk",
+    "domain": "snyk.io",
+    "portal": false
+  },
+  {
+    "name": "SoFi",
+    "domain": "sofi.com",
+    "portal": false
+  },
+  {
+    "name": "Solid Power",
+    "domain": "solidpowerbattery.com",
+    "portal": false
+  },
+  {
+    "name": "Solventum Corp",
+    "domain": "solventum.com",
+    "portal": false
+  },
+  {
+    "name": "Sonatype",
+    "domain": "sonatype.com",
+    "portal": false
+  },
+  {
+    "name": "Sony Interactive",
+    "domain": "sony.com",
+    "portal": false
+  },
+  {
+    "name": "Sony Music",
+    "domain": "sonymusic.com",
+    "portal": false
+  },
+  {
+    "name": "Southern",
+    "domain": "southerncompany.com",
+    "portal": false
+  },
+  {
+    "name": "Southwest Airlines",
+    "domain": "southwestairlines.com",
+    "portal": false
+  },
+  {
+    "name": "SpaceX",
+    "domain": "spacex.com",
+    "portal": false
+  },
+  {
+    "name": "Splunk",
+    "domain": "splunk.com",
+    "portal": false
+  },
+  {
+    "name": "Spotify",
+    "domain": "spotify.com",
+    "portal": false
+  },
+  {
+    "name": "Spring Health",
+    "domain": "springhealth.com",
+    "portal": false
+  },
+  {
+    "name": "Square",
+    "domain": "squareup.com",
+    "portal": false
+  },
+  {
+    "name": "Squarespace",
+    "domain": "squarespace.com",
+    "portal": false
+  },
+  {
+    "name": "Stability AI",
+    "domain": "stability.ai",
+    "portal": false
+  },
+  {
+    "name": "Stanley Black & Decker Inc",
+    "domain": "stanleyblackanddecker.com",
+    "portal": false
+  },
+  {
+    "name": "Starbucks Corp",
+    "domain": "starbucks.com",
+    "portal": false
+  },
+  {
+    "name": "State Street Corp",
+    "domain": "statestreet.com",
+    "portal": false
+  },
+  {
+    "name": "Steel Dynamics Inc",
+    "domain": "steeldynamics.com",
+    "portal": false
+  },
+  {
+    "name": "Step",
+    "domain": "step.com",
+    "portal": false
+  },
+  {
+    "name": "Steris",
+    "domain": "steris.com",
+    "portal": false
+  },
+  {
+    "name": "StockX",
+    "domain": "stockx.com",
+    "portal": false
+  },
+  {
+    "name": "Strava",
+    "domain": "strava.com",
+    "portal": false
+  },
+  {
+    "name": "Stripe",
+    "domain": "stripe.com",
+    "portal": false
+  },
+  {
+    "name": "Stryker Corp",
+    "domain": "stryker.com",
+    "portal": false
+  },
+  {
+    "name": "Study.com",
+    "domain": "study.com",
+    "portal": false
+  },
+  {
+    "name": "Substack",
+    "domain": "substack.com",
+    "portal": false
+  },
+  {
+    "name": "SunPower",
+    "domain": "sunpower.com",
+    "portal": false
+  },
+  {
+    "name": "Sunrun",
+    "domain": "sunrun.com",
+    "portal": false
+  },
+  {
+    "name": "Supabase",
+    "domain": "supabase.com",
+    "portal": false
+  },
+  {
+    "name": "Super Micro Computer Inc",
+    "domain": "supermicrocomputer.com",
+    "portal": false
+  },
+  {
+    "name": "Supercell",
+    "domain": "supercell.com",
+    "portal": false
+  },
+  {
+    "name": "SUSE",
+    "domain": "suse.com",
+    "portal": false
+  },
+  {
+    "name": "Sustainably",
+    "domain": "sustainably.com",
+    "portal": false
+  },
+  {
+    "name": "Sword Health",
+    "domain": "swordhealth.com",
+    "portal": false
+  },
+  {
+    "name": "Synchrony Financial",
+    "domain": "synchrony.com",
+    "portal": false
+  },
+  {
+    "name": "Synopsys Inc",
+    "domain": "synopsys.com",
+    "portal": false
+  },
+  {
+    "name": "Synthesia",
+    "domain": "synthesia.io",
+    "portal": false
+  },
+  {
+    "name": "Sysco Corp",
+    "domain": "sysco.com",
+    "portal": false
+  },
+  {
+    "name": "Sysdig",
+    "domain": "sysdig.com",
+    "portal": false
+  },
+  {
+    "name": "T Mobile Us Inc",
+    "domain": "t-mobile.com",
+    "portal": false
+  },
+  {
+    "name": "T Rowe Price Group Inc",
+    "domain": "troweprice.com",
+    "portal": false
+  },
+  {
+    "name": "T-Mobile",
+    "domain": "t-mobile.com",
+    "portal": false
+  },
+  {
+    "name": "Take Two Interactive Software Inc",
+    "domain": "take2games.com",
+    "portal": false
+  },
+  {
+    "name": "Take-Two Interactive",
+    "domain": "take2games.com",
+    "portal": false
+  },
+  {
+    "name": "Tally",
+    "domain": "tally.com",
+    "portal": false
+  },
+  {
+    "name": "Tanium",
+    "domain": "tanium.com",
+    "portal": false
+  },
+  {
+    "name": "Tapestry Inc",
+    "domain": "tapestry.com",
+    "portal": false
+  },
+  {
+    "name": "Targa Resources Corp",
+    "domain": "targaresources.com",
+    "portal": false
+  },
+  {
+    "name": "Target Corp",
+    "domain": "target.com",
+    "portal": false
+  },
+  {
+    "name": "Tata Consultancy Services",
+    "domain": "tcs.com",
+    "portal": false
+  },
+  {
+    "name": "Te Connectivity Ltd",
+    "domain": "teconnectivity.com",
+    "portal": false
+  },
+  {
+    "name": "Tech Ladies",
+    "domain": "techladies.com",
+    "portal": true
+  },
+  {
+    "name": "TechCareers",
+    "domain": "techcareers.com",
+    "portal": true
+  },
+  {
+    "name": "TED",
+    "domain": "ted.com",
+    "portal": false
+  },
+  {
+    "name": "Teledyne Technologies Inc",
+    "domain": "teledynetechnologies.com",
+    "portal": false
+  },
+  {
+    "name": "Telefonica",
+    "domain": "telefonica.com",
+    "portal": false
+  },
+  {
+    "name": "Telegram",
+    "domain": "telegram.org",
+    "portal": false
+  },
+  {
+    "name": "Telstra",
+    "domain": "telstra.com",
+    "portal": false
+  },
+  {
+    "name": "Tempus AI",
+    "domain": "tempus.com",
+    "portal": false
+  },
+  {
+    "name": "Tenable",
+    "domain": "tenable.com",
+    "portal": false
+  },
+  {
+    "name": "Teradyne Inc",
+    "domain": "teradyne.com",
+    "portal": false
+  },
+  {
+    "name": "Terraform",
+    "domain": "hashicorp.com",
+    "portal": false
+  },
+  {
+    "name": "Tesla",
+    "domain": "tesla.com",
+    "portal": false
+  },
+  {
+    "name": "Tesla Inc",
+    "domain": "tesla.com",
+    "portal": false
+  },
+  {
+    "name": "Testim",
+    "domain": "testim.io",
+    "portal": false
+  },
+  {
+    "name": "Texas Instrument Inc",
+    "domain": "texasinstrument.com",
+    "portal": false
+  },
+  {
+    "name": "Texas Instruments",
+    "domain": "ti.com",
+    "portal": false
+  },
+  {
+    "name": "Texas Pacific Land",
+    "domain": "texaspacificland.com",
+    "portal": false
+  },
+  {
+    "name": "Textron Inc",
+    "domain": "textron.com",
+    "portal": false
+  },
+  {
+    "name": "The RealReal",
+    "domain": "therealreal.com",
+    "portal": false
+  },
+  {
+    "name": "The Trade Desk",
+    "domain": "thetradedesk.com",
+    "portal": false
+  },
+  {
+    "name": "Thermo Fisher Scientific Inc",
+    "domain": "thermofisher.com",
+    "portal": false
+  },
+  {
+    "name": "Thoughtworks",
+    "domain": "thoughtworks.com",
+    "portal": false
+  },
+  {
+    "name": "ThredUp",
+    "domain": "thredup.com",
+    "portal": false
+  },
+  {
+    "name": "TikTok",
+    "domain": "tiktok.com",
+    "portal": false
+  },
+  {
+    "name": "Timescale",
+    "domain": "timescale.com",
+    "portal": false
+  },
+  {
+    "name": "Tjx Inc",
+    "domain": "tjx.com",
+    "portal": false
+  },
+  {
+    "name": "TKO Group Holdings",
+    "domain": "tkogrp.com",
+    "portal": false
+  },
+  {
+    "name": "Together AI",
+    "domain": "together.ai",
+    "portal": false
+  },
+  {
+    "name": "Toptal",
+    "domain": "toptal.com",
+    "portal": true
+  },
+  {
+    "name": "Tractor Supply",
+    "domain": "tractorsupply.com",
+    "portal": false
+  },
+  {
+    "name": "Trane Technologies Plc",
+    "domain": "tranetechnologies.com",
+    "portal": false
+  },
+  {
+    "name": "Transdigm Group Inc",
+    "domain": "transdigm.com",
+    "portal": false
+  },
+  {
+    "name": "Travelers Companies Inc",
+    "domain": "travelers.com",
+    "portal": false
+  },
+  {
+    "name": "Trellix",
+    "domain": "trellix.com",
+    "portal": false
+  },
+  {
+    "name": "Trimble Inc",
+    "domain": "trimble.com",
+    "portal": false
+  },
+  {
+    "name": "Tripledot",
+    "domain": "tripledotstudios.com",
+    "portal": false
+  },
+  {
+    "name": "Truist Financial Corp",
+    "domain": "truist.com",
+    "portal": false
+  },
+  {
+    "name": "Turborepo",
+    "domain": "turborepo.org",
+    "portal": false
+  },
+  {
+    "name": "Turing",
+    "domain": "turing.com",
+    "portal": true
+  },
+  {
+    "name": "Twilio",
+    "domain": "twilio.com",
+    "portal": false
+  },
+  {
+    "name": "Twist Bioscience",
+    "domain": "twistbioscience.com",
+    "portal": false
+  },
+  {
+    "name": "Twitch",
+    "domain": "twitch.tv",
+    "portal": false
+  },
+  {
+    "name": "Tyler Technologies Inc",
+    "domain": "tylertechnologies.com",
+    "portal": false
+  },
+  {
+    "name": "Typeface",
+    "domain": "typeface.ai",
+    "portal": false
+  },
+  {
+    "name": "Tyson Foods Inc Class A",
+    "domain": "tysonfoods.com",
+    "portal": false
+  },
+  {
+    "name": "Uber",
+    "domain": "uber.com",
+    "portal": false
+  },
+  {
+    "name": "Uber Technologies Inc",
+    "domain": "uber.com",
+    "portal": false
+  },
+  {
+    "name": "Ubiquiti",
+    "domain": "ui.com",
+    "portal": false
+  },
+  {
+    "name": "Ubisoft",
+    "domain": "ubisoft.com",
+    "portal": false
+  },
+  {
+    "name": "Udemy",
+    "domain": "udemy.com",
+    "portal": false
+  },
+  {
+    "name": "Udr Reit Inc",
+    "domain": "udr.com",
+    "portal": false
+  },
+  {
+    "name": "Ulta Beauty Inc",
+    "domain": "ulta.com",
+    "portal": false
+  },
+  {
+    "name": "Underdog.io",
+    "domain": "underdog.io",
+    "portal": true
+  },
+  {
+    "name": "Union Pacific Corp",
+    "domain": "up.com",
+    "portal": false
+  },
+  {
+    "name": "United Airlines Holdings Inc",
+    "domain": "unitedairlinesholdings.com",
+    "portal": false
+  },
+  {
+    "name": "United Parcel Service Inc Class B",
+    "domain": "ups.com",
+    "portal": false
+  },
+  {
+    "name": "United Rentals Inc",
+    "domain": "unitedrentals.com",
+    "portal": false
+  },
+  {
+    "name": "Unitedhealth Group Inc",
+    "domain": "unitedhealthgroup.com",
+    "portal": false
+  },
+  {
+    "name": "Unity",
+    "domain": "unity.com",
+    "portal": false
+  },
+  {
+    "name": "Unity Technologies",
+    "domain": "unity.com",
+    "portal": false
+  },
+  {
+    "name": "Universal Health Services Inc Clas",
+    "domain": "universalhealthservicesincclas.com",
+    "portal": false
+  },
+  {
+    "name": "Unreal Engine",
+    "domain": "unrealengine.com",
+    "portal": false
+  },
+  {
+    "name": "Upwork",
+    "domain": "upwork.com",
+    "portal": true
+  },
+  {
+    "name": "Us Bancorp",
+    "domain": "usbank.com",
+    "portal": false
+  },
+  {
+    "name": "Valero Energy Corp",
+    "domain": "valero.com",
+    "portal": false
+  },
+  {
+    "name": "Valve",
+    "domain": "valvesoftware.com",
+    "portal": false
+  },
+  {
+    "name": "Veem",
+    "domain": "veem.com",
+    "portal": false
+  },
+  {
+    "name": "Ventas Reit Inc",
+    "domain": "ventasreit.com",
+    "portal": false
+  },
+  {
+    "name": "Veralto",
+    "domain": "veralto.com",
+    "portal": false
+  },
+  {
+    "name": "Vercel",
+    "domain": "vercel.com",
+    "portal": false
+  },
+  {
+    "name": "Verily",
+    "domain": "verily.com",
+    "portal": false
+  },
+  {
+    "name": "Verisign Inc",
+    "domain": "verisign.com",
+    "portal": false
+  },
+  {
+    "name": "Verisk Analytics Inc",
+    "domain": "verisk.com",
+    "portal": false
+  },
+  {
+    "name": "Verizon",
+    "domain": "verizon.com",
+    "portal": false
+  },
+  {
+    "name": "Verizon Communications Inc",
+    "domain": "verizoncommunications.com",
+    "portal": false
+  },
+  {
+    "name": "Verkada",
+    "domain": "verkada.com",
+    "portal": false
+  },
+  {
+    "name": "Vertex Pharmaceuticals Inc",
+    "domain": "vertexpharmaceuticals.com",
+    "portal": false
+  },
+  {
+    "name": "Vertiv Holdings",
+    "domain": "vertivholdings.com",
+    "portal": false
+  },
+  {
+    "name": "Vettery",
+    "domain": "vettery.com",
+    "portal": true
+  },
+  {
+    "name": "Viatris Inc",
+    "domain": "viatris.com",
+    "portal": false
+  },
+  {
+    "name": "Vici Pptys Inc",
+    "domain": "viciproperties.com",
+    "portal": false
+  },
+  {
+    "name": "Vimeo",
+    "domain": "vimeo.com",
+    "portal": false
+  },
+  {
+    "name": "VIPKid",
+    "domain": "vipkid.com",
+    "portal": false
+  },
+  {
+    "name": "Virta Health",
+    "domain": "virtahealth.com",
+    "portal": false
+  },
+  {
+    "name": "Visa Inc Class A",
+    "domain": "visa.com",
+    "portal": false
+  },
+  {
+    "name": "VMware",
+    "domain": "vmware.com",
+    "portal": false
+  },
+  {
+    "name": "Vodafone",
+    "domain": "vodafone.com",
+    "portal": false
+  },
+  {
+    "name": "Vulcan Materials",
+    "domain": "vmc.com",
+    "portal": false
+  },
+  {
+    "name": "Vultr",
+    "domain": "vultr.com",
+    "portal": false
+  },
+  {
+    "name": "Walmart Inc",
+    "domain": "walmart.com",
+    "portal": false
+  },
+  {
+    "name": "Walt Disney",
+    "domain": "disney.com",
+    "portal": false
+  },
+  {
+    "name": "Warner Bros Discovery",
+    "domain": "wbd.com",
+    "portal": false
+  },
+  {
+    "name": "Warner Bros. Discovery Inc Series",
+    "domain": "wbd.com",
+    "portal": false
+  },
+  {
+    "name": "Warner Music",
+    "domain": "wmg.com",
+    "portal": false
+  },
+  {
+    "name": "Warp",
+    "domain": "warp.dev",
+    "portal": false
+  },
+  {
+    "name": "Waste Management Inc",
+    "domain": "wm.com",
+    "portal": false
+  },
+  {
+    "name": "Waters Corp",
+    "domain": "waters.com",
+    "portal": false
+  },
+  {
+    "name": "Watershed",
+    "domain": "watershed.com",
+    "portal": false
+  },
+  {
+    "name": "We Work Remotely",
+    "domain": "weworkremotely.com",
+    "portal": true
+  },
+  {
+    "name": "Wealthfront",
+    "domain": "wealthfront.com",
+    "portal": false
+  },
+  {
+    "name": "Webflow",
+    "domain": "webflow.com",
+    "portal": false
+  },
+  {
+    "name": "Wec Energy Group Inc",
+    "domain": "wecenergygroup.com",
+    "portal": false
+  },
+  {
+    "name": "Weights & Biases",
+    "domain": "wandb.com",
+    "portal": false
+  },
+  {
+    "name": "Wellfound",
+    "domain": "wellfound.com",
+    "portal": true
+  },
+  {
+    "name": "Wells Fargo",
+    "domain": "wellsfargo.com",
+    "portal": false
+  },
+  {
+    "name": "Welltower Inc",
+    "domain": "welltower.com",
+    "portal": false
+  },
+  {
+    "name": "West Pharmaceutical Services Inc",
+    "domain": "westpharmaceuticalservices.com",
+    "portal": false
+  },
+  {
+    "name": "Western Digital Corp",
+    "domain": "westerndigital.com",
+    "portal": false
+  },
+  {
+    "name": "Westinghouse Air Brake Technologie",
+    "domain": "wabtecorp.com",
+    "portal": false
+  },
+  {
+    "name": "Westrock",
+    "domain": "westrock.com",
+    "portal": false
+  },
+  {
+    "name": "Weyerhaeuser Reit",
+    "domain": "weyerhaeuser.com",
+    "portal": false
+  },
+  {
+    "name": "Whoop",
+    "domain": "whoop.com",
+    "portal": false
+  },
+  {
+    "name": "Williams Inc",
+    "domain": "williams.com",
+    "portal": false
+  },
+  {
+    "name": "Williams-Sonoma",
+    "domain": "williams-sonoma.com",
+    "portal": false
+  },
+  {
+    "name": "Willis Towers Watson Plc",
+    "domain": "wtwco.com",
+    "portal": false
+  },
+  {
+    "name": "Wipro",
+    "domain": "wipro.com",
+    "portal": false
+  },
+  {
+    "name": "Wise",
+    "domain": "wise.com",
+    "portal": false
+  },
+  {
+    "name": "Wix",
+    "domain": "wix.com",
+    "portal": false
+  },
+  {
+    "name": "Wiz",
+    "domain": "wiz.io",
+    "portal": false
+  },
+  {
+    "name": "Women Who Tech",
+    "domain": "womenwhotech.com",
+    "portal": true
+  },
+  {
+    "name": "WooCommerce",
+    "domain": "woocommerce.com",
+    "portal": false
+  },
+  {
+    "name": "Work at a Startup",
+    "domain": "workatastartup.com",
+    "portal": true
+  },
+  {
+    "name": "Workato",
+    "domain": "workato.com",
+    "portal": false
+  },
+  {
+    "name": "Workday",
+    "domain": "workday.com",
+    "portal": false
+  },
+  {
+    "name": "Workday Inc",
+    "domain": "workday.com",
+    "portal": false
+  },
+  {
+    "name": "Working Nomads",
+    "domain": "workingnomads.com",
+    "portal": true
+  },
+  {
+    "name": "Wr Berkley Corp",
+    "domain": "berkley.com",
+    "portal": false
+  },
+  {
+    "name": "Writer",
+    "domain": "writer.com",
+    "portal": false
+  },
+  {
+    "name": "Ww Grainger Inc",
+    "domain": "grainger.com",
+    "portal": false
+  },
+  {
+    "name": "Wynn Resorts Ltd",
+    "domain": "wynnresorts.com",
+    "portal": false
+  },
+  {
+    "name": "X",
+    "domain": "x.com",
+    "portal": false
+  },
+  {
+    "name": "Xcel Energy Inc",
+    "domain": "xcelenergy.com",
+    "portal": false
+  },
+  {
+    "name": "Xylem Inc",
+    "domain": "xylem.com",
+    "portal": false
+  },
+  {
+    "name": "Y Combinator Jobs",
+    "domain": "ycombinator.com",
+    "portal": true
+  },
+  {
+    "name": "YouTube",
+    "domain": "youtube.com",
+    "portal": false
+  },
+  {
+    "name": "Yum Brands Inc",
+    "domain": "yum.com",
+    "portal": false
+  },
+  {
+    "name": "Zalando",
+    "domain": "zalando.com",
+    "portal": false
+  },
+  {
+    "name": "Zebra Technologies Corp Class A",
+    "domain": "zebratechnologiescorp.com",
+    "portal": false
+  },
+  {
+    "name": "Zendesk",
+    "domain": "zendesk.com",
+    "portal": false
+  },
+  {
+    "name": "ZeroAvia",
+    "domain": "zeroavia.com",
+    "portal": false
+  },
+  {
+    "name": "Zimmer Biomet Holdings Inc",
+    "domain": "zimmerbiometholdings.com",
+    "portal": false
+  },
+  {
+    "name": "ZipRecruiter",
+    "domain": "ziprecruiter.com",
+    "portal": true
+  },
+  {
+    "name": "Zocdoc",
+    "domain": "zocdoc.com",
+    "portal": false
+  },
+  {
+    "name": "Zoetis Inc Class A",
+    "domain": "zoetisinc.com",
+    "portal": false
+  },
+  {
+    "name": "Zoom",
+    "domain": "zoom.us",
+    "portal": false
+  },
+  {
+    "name": "Zscaler",
+    "domain": "zscaler.com",
+    "portal": false
+  },
+  {
+    "name": "Zynga",
+    "domain": "zynga.com",
+    "portal": false
+  }
+]

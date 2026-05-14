@@ -1,0 +1,318 @@
+[
+  {
+    "name": "Riot Games",
+    "domain": "riotgames.com",
+    "tags": [
+      "Gaming",
+      "Frontend",
+      "Backend",
+      "On-site",
+      "Hybrid"
+    ]
+  },
+  {
+    "name": "Epic Games",
+    "domain": "epicgames.com",
+    "tags": [
+      "Gaming",
+      "Full Stack",
+      "Infrastructure",
+      "On-site",
+      "Hybrid"
+    ]
+  },
+  {
+    "name": "Blizzard Entertainment",
+    "domain": "blizzard.com",
+    "tags": [
+      "Gaming",
+      "Design",
+      "Frontend",
+      "On-site",
+      "Hybrid"
+    ]
+  },
+  {
+    "name": "Electronic Arts",
+    "domain": "ea.com",
+    "tags": [
+      "Gaming",
+      "Design",
+      "Full Stack",
+      "Remote",
+      "On-site"
+    ]
+  },
+  {
+    "name": "Activision",
+    "domain": "activision.com",
+    "tags": [
+      "Gaming",
+      "Mobile",
+      "Backend",
+      "On-site",
+      "Hybrid"
+    ]
+  },
+  {
+    "name": "Take-Two Interactive",
+    "domain": "take2games.com",
+    "tags": [
+      "Gaming",
+      "Design",
+      "On-site",
+      "Hybrid"
+    ]
+  },
+  {
+    "name": "Ubisoft",
+    "domain": "ubisoft.com",
+    "tags": [
+      "Gaming",
+      "Design",
+      "Frontend",
+      "On-site",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Nintendo",
+    "domain": "nintendo.com",
+    "tags": [
+      "Gaming",
+      "Hardware",
+      "Design",
+      "On-site"
+    ]
+  },
+  {
+    "name": "Sony Interactive",
+    "domain": "sony.com",
+    "tags": [
+      "Gaming",
+      "Hardware",
+      "Design",
+      "On-site"
+    ]
+  },
+  {
+    "name": "Valve",
+    "domain": "valvesoftware.com",
+    "tags": [
+      "Gaming",
+      "Full Stack",
+      "Hardware",
+      "On-site"
+    ]
+  },
+  {
+    "name": "CD Projekt",
+    "domain": "cdprojektred.com",
+    "tags": [
+      "Gaming",
+      "Design",
+      "Frontend",
+      "On-site",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Bungie",
+    "domain": "bungie.net",
+    "tags": [
+      "Gaming",
+      "Backend",
+      "Security",
+      "On-site",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Respawn Entertainment",
+    "domain": "respawn.com",
+    "tags": [
+      "Gaming",
+      "Design",
+      "Frontend",
+      "On-site"
+    ]
+  },
+  {
+    "name": "Naughty Dog",
+    "domain": "naughtydog.com",
+    "tags": [
+      "Gaming",
+      "Design",
+      "Frontend",
+      "On-site"
+    ]
+  },
+  {
+    "name": "Insomniac Games",
+    "domain": "insomniac.games",
+    "tags": [
+      "Gaming",
+      "Design",
+      "Frontend",
+      "On-site"
+    ]
+  },
+  {
+    "name": "Supercell",
+    "domain": "supercell.com",
+    "tags": [
+      "Gaming",
+      "Mobile",
+      "Design",
+      "On-site",
+      "Hybrid"
+    ]
+  },
+  {
+    "name": "King",
+    "domain": "king.com",
+    "tags": [
+      "Gaming",
+      "Mobile",
+      "Frontend",
+      "Remote",
+      "Hybrid"
+    ]
+  },
+  {
+    "name": "Zynga",
+    "domain": "zynga.com",
+    "tags": [
+      "Gaming",
+      "Mobile",
+      "Full Stack",
+      "Remote",
+      "Hybrid"
+    ]
+  },
+  {
+    "name": "Niantic",
+    "domain": "nianticlabs.com",
+    "tags": [
+      "Gaming",
+      "Mobile",
+      "AR/VR",
+      "On-site",
+      "Hybrid"
+    ]
+  },
+  {
+    "name": "Roblox",
+    "domain": "roblox.com",
+    "tags": [
+      "Gaming",
+      "Full Stack",
+      "Infrastructure",
+      "Remote",
+      "Hybrid"
+    ]
+  },
+  {
+    "name": "Unity Technologies",
+    "domain": "unity.com",
+    "tags": [
+      "Gaming",
+      "Frontend",
+      "Infrastructure",
+      "Remote",
+      "Hybrid"
+    ]
+  },
+  {
+    "name": "Unreal Engine",
+    "domain": "unrealengine.com",
+    "tags": [
+      "Gaming",
+      "Frontend",
+      "Infrastructure",
+      "Remote",
+      "Hybrid"
+    ]
+  },
+  {
+    "name": "Moon Active",
+    "domain": "moonactive.com",
+    "tags": [
+      "Gaming",
+      "Mobile",
+      "Data",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Playrix",
+    "domain": "playrix.com",
+    "tags": [
+      "Gaming",
+      "Mobile",
+      "Design",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Tripledot",
+    "domain": "tripledotstudios.com",
+    "tags": [
+      "Gaming",
+      "Mobile",
+      "Data",
+      "Remote"
+    ]
+  },
+  {
+    "name": "AppLovin",
+    "domain": "applovin.com",
+    "tags": [
+      "Gaming",
+      "Mobile",
+      "Data",
+      "Remote",
+      "Hybrid"
+    ]
+  },
+  {
+    "name": "Mythical Games",
+    "domain": "mythicalgames.com",
+    "tags": [
+      "Gaming",
+      "Web3",
+      "Backend",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Sky Mavis",
+    "domain": "skymavis.com",
+    "tags": [
+      "Gaming",
+      "Web3",
+      "Backend",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Immutable",
+    "domain": "immutable.com",
+    "tags": [
+      "Gaming",
+      "Web3",
+      "Backend",
+      "Remote"
+    ]
+  },
+  {
+    "name": "Decentraland",
+    "domain": "decentraland.org",
+    "tags": [
+      "Gaming",
+      "Web3",
+      "Frontend",
+      "Remote"
+    ]
+  }
+]
