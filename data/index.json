@@ -20,33 +20,8 @@
     "portal": false
   },
   {
-    "name": "3M",
-    "domain": "3m.com",
-    "portal": false
-  },
-  {
-    "name": "A O Smith Corp",
-    "domain": "aosmith.com",
-    "portal": false
-  },
-  {
-    "name": "Abbott Laboratories",
-    "domain": "abbottlaboratories.com",
-    "portal": false
-  },
-  {
-    "name": "Abbvie Inc",
-    "domain": "abbvie.com",
-    "portal": false
-  },
-  {
     "name": "Accenture",
     "domain": "accenture.com",
-    "portal": false
-  },
-  {
-    "name": "Accenture Plc Class A",
-    "domain": "accentureplc.com",
     "portal": false
   },
   {
@@ -75,23 +50,8 @@
     "portal": false
   },
   {
-    "name": "Adobe Inc",
-    "domain": "adobe.com",
-    "portal": false
-  },
-  {
     "name": "Adtran",
     "domain": "adtran.com",
-    "portal": false
-  },
-  {
-    "name": "Advanced Micro Devices Inc",
-    "domain": "advancedmicrodevices.com",
-    "portal": false
-  },
-  {
-    "name": "Aes Corp",
-    "domain": "aes.com",
     "portal": false
   },
   {
@@ -100,28 +60,8 @@
     "portal": false
   },
   {
-    "name": "Aflac Inc",
-    "domain": "aflac.com",
-    "portal": false
-  },
-  {
     "name": "Age of Learning",
     "domain": "ageoflearning.com",
-    "portal": false
-  },
-  {
-    "name": "Agilent Technologies Inc",
-    "domain": "agilenttechnologies.com",
-    "portal": false
-  },
-  {
-    "name": "Air Products And Chemicals Inc",
-    "domain": "airproducts.com",
-    "portal": false
-  },
-  {
-    "name": "Airbnb Inc",
-    "domain": "airbnb.com",
     "portal": false
   },
   {
@@ -135,53 +75,8 @@
     "portal": false
   },
   {
-    "name": "Akamai Technologies Inc",
-    "domain": "akamaitechnologies.com",
-    "portal": false
-  },
-  {
-    "name": "Albemarle Corp",
-    "domain": "albemarle.com",
-    "portal": false
-  },
-  {
     "name": "Alchemy",
     "domain": "alchemy.com",
-    "portal": false
-  },
-  {
-    "name": "Alexandria Real Estate Equities Re",
-    "domain": "are.com",
-    "portal": false
-  },
-  {
-    "name": "Align Technology Inc",
-    "domain": "aligntechnology.com",
-    "portal": false
-  },
-  {
-    "name": "Allegion Plc",
-    "domain": "allegion.com",
-    "portal": false
-  },
-  {
-    "name": "Alliant Energy Corp",
-    "domain": "alliantenergy.com",
-    "portal": false
-  },
-  {
-    "name": "Allstate Corp",
-    "domain": "allstate.com",
-    "portal": false
-  },
-  {
-    "name": "Alphabet Inc Class A",
-    "domain": "abc.xyz",
-    "portal": false
-  },
-  {
-    "name": "Alphabet Inc Class C",
-    "domain": "abc.xyz",
     "portal": false
   },
   {
@@ -190,18 +85,8 @@
     "portal": false
   },
   {
-    "name": "Altria Group Inc",
-    "domain": "altria.com",
-    "portal": false
-  },
-  {
     "name": "Amazon",
     "domain": "amazon.com",
-    "portal": false
-  },
-  {
-    "name": "Amazon Com Inc",
-    "domain": "amazoncom.com",
     "portal": false
   },
   {
@@ -210,68 +95,8 @@
     "portal": false
   },
   {
-    "name": "Amcor Plc",
-    "domain": "amcor.com",
-    "portal": false
-  },
-  {
     "name": "AMD",
     "domain": "amd.com",
-    "portal": false
-  },
-  {
-    "name": "Ameren Corp",
-    "domain": "ameren.com",
-    "portal": false
-  },
-  {
-    "name": "American Electric Power Inc",
-    "domain": "aep.com",
-    "portal": false
-  },
-  {
-    "name": "American Express",
-    "domain": "americanexpress.com",
-    "portal": false
-  },
-  {
-    "name": "American International Group Inc",
-    "domain": "aig.com",
-    "portal": false
-  },
-  {
-    "name": "American Tower Reit Corp",
-    "domain": "americantower.com",
-    "portal": false
-  },
-  {
-    "name": "American Water Works Inc",
-    "domain": "americanwaterworks.com",
-    "portal": false
-  },
-  {
-    "name": "Ameriprise Finance Inc",
-    "domain": "ameriprise.com",
-    "portal": false
-  },
-  {
-    "name": "Ametek Inc",
-    "domain": "ametek.com",
-    "portal": false
-  },
-  {
-    "name": "Amgen Inc",
-    "domain": "amgen.com",
-    "portal": false
-  },
-  {
-    "name": "Amphenol Corp Class A",
-    "domain": "amphenolcorp.com",
-    "portal": false
-  },
-  {
-    "name": "Analog Devices Inc",
-    "domain": "analogdevices.com",
     "portal": false
   },
   {
@@ -290,21 +115,6 @@
     "portal": false
   },
   {
-    "name": "Aon Plc Class A",
-    "domain": "aon.com",
-    "portal": false
-  },
-  {
-    "name": "Apa Corp",
-    "domain": "apa.com",
-    "portal": false
-  },
-  {
-    "name": "Apollo Global Management Inc",
-    "domain": "apollo.com",
-    "portal": false
-  },
-  {
     "name": "Apollo GraphQL",
     "domain": "apollographql.com",
     "portal": false
@@ -312,16 +122,6 @@
   {
     "name": "Apple",
     "domain": "apple.com",
-    "portal": false
-  },
-  {
-    "name": "Apple Inc",
-    "domain": "apple.com",
-    "portal": false
-  },
-  {
-    "name": "Applied Material Inc",
-    "domain": "appliedmaterial.com",
     "portal": false
   },
   {
@@ -340,11 +140,6 @@
     "portal": false
   },
   {
-    "name": "Aptiv Plc",
-    "domain": "aptiv.com",
-    "portal": false
-  },
-  {
     "name": "Aqua Security",
     "domain": "aquasec.com",
     "portal": false
@@ -355,18 +150,8 @@
     "portal": true
   },
   {
-    "name": "Arch Capital Group Ltd",
-    "domain": "archcapital.com",
-    "portal": false
-  },
-  {
     "name": "Archer Aviation",
     "domain": "archer.com",
-    "portal": false
-  },
-  {
-    "name": "Archer Daniels Midland",
-    "domain": "adm.com",
     "portal": false
   },
   {
@@ -377,16 +162,6 @@
   {
     "name": "Arista Networks",
     "domain": "arista.com",
-    "portal": false
-  },
-  {
-    "name": "Arista Networks Inc",
-    "domain": "aristanetworks.com",
-    "portal": false
-  },
-  {
-    "name": "Arthur J Gallagher",
-    "domain": "ajg.com",
     "portal": false
   },
   {
@@ -410,28 +185,13 @@
     "portal": false
   },
   {
-    "name": "Assurant Inc",
-    "domain": "assurant.com",
-    "portal": false
-  },
-  {
     "name": "AT&T",
-    "domain": "att.com",
-    "portal": false
-  },
-  {
-    "name": "At&T Inc",
     "domain": "att.com",
     "portal": false
   },
   {
     "name": "Atlassian",
     "domain": "atlassian.com",
-    "portal": false
-  },
-  {
-    "name": "Atmos Energy Corp",
-    "domain": "atmosenergy.com",
     "portal": false
   },
   {
@@ -450,58 +210,8 @@
     "portal": true
   },
   {
-    "name": "Autodesk Inc",
-    "domain": "autodesk.com",
-    "portal": false
-  },
-  {
-    "name": "Automatic Data Processing Inc",
-    "domain": "automaticdataprocessing.com",
-    "portal": false
-  },
-  {
-    "name": "Autozone Inc",
-    "domain": "autozone.com",
-    "portal": false
-  },
-  {
-    "name": "Avalonbay Communities Reit Inc",
-    "domain": "avalonbay.com",
-    "portal": false
-  },
-  {
-    "name": "Avery Dennison Corp",
-    "domain": "averydennison.com",
-    "portal": false
-  },
-  {
-    "name": "Axon Enterprise Inc",
-    "domain": "axonenterprise.com",
-    "portal": false
-  },
-  {
     "name": "Bain & Company",
     "domain": "bain.com",
-    "portal": false
-  },
-  {
-    "name": "Baker Hughes Class A",
-    "domain": "bakerhughes.com",
-    "portal": false
-  },
-  {
-    "name": "Ball Corp",
-    "domain": "ball.com",
-    "portal": false
-  },
-  {
-    "name": "Bank Of America Corp",
-    "domain": "bankofamerica.com",
-    "portal": false
-  },
-  {
-    "name": "Bank Of New York Mellon Corp",
-    "domain": "bnymellon.com",
     "portal": false
   },
   {
@@ -510,23 +220,8 @@
     "portal": false
   },
   {
-    "name": "Bath And Body Works Inc",
-    "domain": "bathandbodyworks.com",
-    "portal": false
-  },
-  {
-    "name": "Baxter International Inc",
-    "domain": "baxterinternational.com",
-    "portal": false
-  },
-  {
     "name": "BCG X",
     "domain": "bcg.com/x",
-    "portal": false
-  },
-  {
-    "name": "Becton Dickinson",
-    "domain": "bd.com",
     "portal": false
   },
   {
@@ -542,16 +237,6 @@
   {
     "name": "BeReal",
     "domain": "bereal.com",
-    "portal": false
-  },
-  {
-    "name": "Berkshire Hathaway Inc Class B",
-    "domain": "berkshirehathaway.com",
-    "portal": false
-  },
-  {
-    "name": "Best Buy Co Inc",
-    "domain": "bestbuy.com",
     "portal": false
   },
   {
@@ -585,16 +270,6 @@
     "portal": false
   },
   {
-    "name": "Bio Techne Corp",
-    "domain": "biotechne.com",
-    "portal": false
-  },
-  {
-    "name": "Biogen Inc",
-    "domain": "biogen.com",
-    "portal": false
-  },
-  {
     "name": "Bitwarden",
     "domain": "bitwarden.com",
     "portal": false
@@ -602,16 +277,6 @@
   {
     "name": "Blackboard",
     "domain": "blackboard.com",
-    "portal": false
-  },
-  {
-    "name": "Blackrock Inc",
-    "domain": "blackrock.com",
-    "portal": false
-  },
-  {
-    "name": "Blackstone Inc",
-    "domain": "blackstone.com",
     "portal": false
   },
   {
@@ -635,16 +300,6 @@
     "portal": false
   },
   {
-    "name": "Boeing",
-    "domain": "boeing.com",
-    "portal": false
-  },
-  {
-    "name": "Booking Holdings Inc",
-    "domain": "bookingholdings.com",
-    "portal": false
-  },
-  {
     "name": "Booz Allen Hamilton",
     "domain": "boozallen.com",
     "portal": false
@@ -652,16 +307,6 @@
   {
     "name": "Boston Consulting Group",
     "domain": "bcg.com",
-    "portal": false
-  },
-  {
-    "name": "Boston Properties Reit Inc",
-    "domain": "bostonproperties.com",
-    "portal": false
-  },
-  {
-    "name": "Boston Scientific Corp",
-    "domain": "bostonscientific.com",
     "portal": false
   },
   {
@@ -690,43 +335,13 @@
     "portal": false
   },
   {
-    "name": "Bristol Myers Squibb",
-    "domain": "bms.com",
-    "portal": false
-  },
-  {
     "name": "Broadcom",
     "domain": "broadcom.com",
     "portal": false
   },
   {
-    "name": "Broadcom Inc",
-    "domain": "broadcom.com",
-    "portal": false
-  },
-  {
-    "name": "Broadridge Financial Solutions Inc",
-    "domain": "broadridge.com",
-    "portal": false
-  },
-  {
-    "name": "Brown & Brown Inc",
-    "domain": "bbinsurance.com",
-    "portal": false
-  },
-  {
-    "name": "Brown Forman Corp Class B",
-    "domain": "brown-forman.com",
-    "portal": false
-  },
-  {
     "name": "BT Group",
     "domain": "bt.com",
-    "portal": false
-  },
-  {
-    "name": "Builders FirstSource Inc",
-    "domain": "bldr.com",
     "portal": false
   },
   {
@@ -737,11 +352,6 @@
   {
     "name": "Bulb",
     "domain": "bulb.com",
-    "portal": false
-  },
-  {
-    "name": "Bunge Ltd",
-    "domain": "bunge.com",
     "portal": false
   },
   {
@@ -760,11 +370,6 @@
     "portal": false
   },
   {
-    "name": "Cadence Design Systems Inc",
-    "domain": "cadencedesignsystems.com",
-    "portal": false
-  },
-  {
     "name": "Calico",
     "domain": "calicolabs.com",
     "portal": false
@@ -777,16 +382,6 @@
   {
     "name": "Calm",
     "domain": "calm.com",
-    "portal": false
-  },
-  {
-    "name": "Camden Property Trust Reit",
-    "domain": "camdenliving.com",
-    "portal": false
-  },
-  {
-    "name": "Campbell Soup",
-    "domain": "campbellsoupcompany.com",
     "portal": false
   },
   {
@@ -805,43 +400,13 @@
     "portal": false
   },
   {
-    "name": "Capital One Financial Corp",
-    "domain": "capitalone.com",
-    "portal": false
-  },
-  {
-    "name": "Cardinal Health Inc",
-    "domain": "cardinalhealth.com",
-    "portal": false
-  },
-  {
     "name": "CareerBuilder",
     "domain": "careerbuilder.com",
     "portal": true
   },
   {
-    "name": "Carnival Corp",
-    "domain": "carnival.com",
-    "portal": false
-  },
-  {
-    "name": "Carrier Global Corp",
-    "domain": "carrier.com",
-    "portal": false
-  },
-  {
     "name": "Carta",
     "domain": "carta.com",
-    "portal": false
-  },
-  {
-    "name": "Carvana",
-    "domain": "carvana.com",
-    "portal": false
-  },
-  {
-    "name": "Caterpillar Inc",
-    "domain": "caterpillar.com",
     "portal": false
   },
   {
@@ -850,48 +415,8 @@
     "portal": false
   },
   {
-    "name": "Cboe Global Markets Inc",
-    "domain": "cboe.com",
-    "portal": false
-  },
-  {
-    "name": "Cbre Group Inc Class A",
-    "domain": "cbregroupinc.com",
-    "portal": false
-  },
-  {
     "name": "CD Projekt",
     "domain": "cdprojektred.com",
-    "portal": false
-  },
-  {
-    "name": "Cdw Corp",
-    "domain": "cdw.com",
-    "portal": false
-  },
-  {
-    "name": "Cencora Inc",
-    "domain": "cencora.com",
-    "portal": false
-  },
-  {
-    "name": "Centene Corp",
-    "domain": "centene.com",
-    "portal": false
-  },
-  {
-    "name": "Centerpoint Energy Inc",
-    "domain": "centerpointenergy.com",
-    "portal": false
-  },
-  {
-    "name": "Cf Industries Holdings Inc",
-    "domain": "cfindustriesholdings.com",
-    "portal": false
-  },
-  {
-    "name": "CH Robinson Worldwide Inc",
-    "domain": "chrobinson.com",
     "portal": false
   },
   {
@@ -905,16 +430,6 @@
     "portal": false
   },
   {
-    "name": "Charles River Laboratories International",
-    "domain": "charlesriverlaboratoriesinternational.com",
-    "portal": false
-  },
-  {
-    "name": "Charles Schwab Corp",
-    "domain": "schwab.com",
-    "portal": false
-  },
-  {
     "name": "Charm Industrial",
     "domain": "charmindustrial.com",
     "portal": false
@@ -925,18 +440,8 @@
     "portal": false
   },
   {
-    "name": "Charter Communications Inc Class A",
-    "domain": "charter.com",
-    "portal": false
-  },
-  {
     "name": "Chegg",
     "domain": "chegg.com",
-    "portal": false
-  },
-  {
-    "name": "Chevron Corp",
-    "domain": "chevron.com",
     "portal": false
   },
   {
@@ -945,43 +450,13 @@
     "portal": false
   },
   {
-    "name": "Chipotle Mexican Grill Inc",
-    "domain": "chipotle.com",
-    "portal": false
-  },
-  {
     "name": "Chronosphere",
     "domain": "chronosphere.io",
     "portal": false
   },
   {
-    "name": "Chubb Ltd",
-    "domain": "chubb.com",
-    "portal": false
-  },
-  {
-    "name": "Church And Dwight Inc",
-    "domain": "churchdwight.com",
-    "portal": false
-  },
-  {
     "name": "Ciena",
     "domain": "ciena.com",
-    "portal": false
-  },
-  {
-    "name": "Cigna",
-    "domain": "cigna.com",
-    "portal": false
-  },
-  {
-    "name": "Cincinnati Financial Corp",
-    "domain": "cinfin.com",
-    "portal": false
-  },
-  {
-    "name": "Cintas Corp",
-    "domain": "cintas.com",
     "portal": false
   },
   {
@@ -1000,21 +475,6 @@
     "portal": false
   },
   {
-    "name": "Cisco Systems Inc",
-    "domain": "ciscosystems.com",
-    "portal": false
-  },
-  {
-    "name": "Citigroup Inc",
-    "domain": "citigroup.com",
-    "portal": false
-  },
-  {
-    "name": "Citizens Financial Group Inc",
-    "domain": "citizensbank.com",
-    "portal": false
-  },
-  {
     "name": "ClickUp",
     "domain": "clickup.com",
     "portal": false
@@ -1025,28 +485,8 @@
     "portal": false
   },
   {
-    "name": "Clorox",
-    "domain": "thecloroxcompany.com",
-    "portal": false
-  },
-  {
     "name": "Cloudflare",
     "domain": "cloudflare.com",
-    "portal": false
-  },
-  {
-    "name": "Cme Group Inc Class A",
-    "domain": "cmegroup.com",
-    "portal": false
-  },
-  {
-    "name": "Cms Energy Corp",
-    "domain": "cmsenergy.com",
-    "portal": false
-  },
-  {
-    "name": "Coca-Cola",
-    "domain": "coca-cola.com",
     "portal": false
   },
   {
@@ -1070,18 +510,8 @@
     "portal": false
   },
   {
-    "name": "Cognizant Technology Solutions Cor",
-    "domain": "cognizant.com",
-    "portal": false
-  },
-  {
     "name": "Cohere",
     "domain": "cohere.com",
-    "portal": false
-  },
-  {
-    "name": "Coherent",
-    "domain": "coherent.com",
     "portal": false
   },
   {
@@ -1090,33 +520,8 @@
     "portal": false
   },
   {
-    "name": "Coinbase Global Inc",
-    "domain": "coinbase.com",
-    "portal": false
-  },
-  {
-    "name": "Colgate-Palmolive",
-    "domain": "colgatepalmolive.com",
-    "portal": false
-  },
-  {
     "name": "Comcast",
     "domain": "comcast.com",
-    "portal": false
-  },
-  {
-    "name": "Comcast Corp Class A",
-    "domain": "comcast.com",
-    "portal": false
-  },
-  {
-    "name": "Comfort Systems USA",
-    "domain": "comfortsystemsusa.com",
-    "portal": false
-  },
-  {
-    "name": "Conagra Brands Inc",
-    "domain": "conagrabrands.com",
     "portal": false
   },
   {
@@ -1125,69 +530,14 @@
     "portal": false
   },
   {
-    "name": "Conocophillips",
-    "domain": "conocophillips.com",
-    "portal": false
-  },
-  {
-    "name": "Consolidated Edison Inc",
-    "domain": "coned.com",
-    "portal": false
-  },
-  {
-    "name": "Constellation Brands Inc Class A",
-    "domain": "cbrands.com",
-    "portal": false
-  },
-  {
-    "name": "Constellation Energy Corp",
-    "domain": "constellationenergy.com",
-    "portal": false
-  },
-  {
-    "name": "Cooper Inc",
-    "domain": "cooper.com",
-    "portal": false
-  },
-  {
-    "name": "Copart Inc",
-    "domain": "copart.com",
-    "portal": false
-  },
-  {
     "name": "CoreWeave",
     "domain": "coreweave.com",
-    "portal": false
-  },
-  {
-    "name": "Corning Inc",
-    "domain": "corning.com",
     "portal": false
   },
   {
     "name": "Coroflot",
     "domain": "coroflot.com",
     "portal": true
-  },
-  {
-    "name": "Corteva Inc",
-    "domain": "corteva.com",
-    "portal": false
-  },
-  {
-    "name": "Costar Group Inc",
-    "domain": "costar.com",
-    "portal": false
-  },
-  {
-    "name": "Costco Wholesale Corp",
-    "domain": "costco.com",
-    "portal": false
-  },
-  {
-    "name": "Coterra Energy Inc",
-    "domain": "coterra.com",
-    "portal": false
   },
   {
     "name": "Coupa",
@@ -1205,11 +555,6 @@
     "portal": false
   },
   {
-    "name": "CRH",
-    "domain": "crh.com",
-    "portal": false
-  },
-  {
     "name": "Crossplane",
     "domain": "crossplane.io",
     "portal": false
@@ -1220,38 +565,13 @@
     "portal": false
   },
   {
-    "name": "CrowdStrike Holdings Inc",
-    "domain": "crowdstrikeholdings.com",
-    "portal": false
-  },
-  {
-    "name": "Crown Castle Inc",
-    "domain": "crowncastle.com",
-    "portal": false
-  },
-  {
     "name": "Crunchboard",
     "domain": "crunchboard.com",
     "portal": true
   },
   {
-    "name": "CSX Corp",
-    "domain": "csx.com",
-    "portal": false
-  },
-  {
-    "name": "Cummins Inc",
-    "domain": "cummins.com",
-    "portal": false
-  },
-  {
     "name": "Current",
     "domain": "current.com",
-    "portal": false
-  },
-  {
-    "name": "Cvs Health Corp",
-    "domain": "cvshealth.com",
     "portal": false
   },
   {
@@ -1270,23 +590,8 @@
     "portal": false
   },
   {
-    "name": "D R Horton Inc",
-    "domain": "drhorton.com",
-    "portal": false
-  },
-  {
     "name": "Dailymotion",
     "domain": "dailymotion.com",
-    "portal": false
-  },
-  {
-    "name": "Danaher Corp",
-    "domain": "danaher.com",
-    "portal": false
-  },
-  {
-    "name": "Darden Restaurants Inc",
-    "domain": "darden.com",
     "portal": false
   },
   {
@@ -1330,18 +635,8 @@
     "portal": false
   },
   {
-    "name": "Davita Inc",
-    "domain": "davita.com",
-    "portal": false
-  },
-  {
     "name": "Decentraland",
     "domain": "decentraland.org",
-    "portal": false
-  },
-  {
-    "name": "Deckers Outdoor Corp",
-    "domain": "deckers.com",
     "portal": false
   },
   {
@@ -1355,18 +650,8 @@
     "portal": false
   },
   {
-    "name": "Deere",
-    "domain": "deere.com",
-    "portal": false
-  },
-  {
     "name": "Dell",
     "domain": "dell.com",
-    "portal": false
-  },
-  {
-    "name": "Dell Technologies Inc",
-    "domain": "delltechnologies.com",
     "portal": false
   },
   {
@@ -1377,11 +662,6 @@
   {
     "name": "Deloitte Digital",
     "domain": "deloittedigital.com",
-    "portal": false
-  },
-  {
-    "name": "Delta Air Lines Inc",
-    "domain": "deltaairlines.com",
     "portal": false
   },
   {
@@ -1400,29 +680,9 @@
     "portal": false
   },
   {
-    "name": "Devon Energy Corp",
-    "domain": "devonenergy.com",
-    "portal": false
-  },
-  {
-    "name": "Dexcom Inc",
-    "domain": "dexcom.com",
-    "portal": false
-  },
-  {
-    "name": "Diamondback Energy Inc",
-    "domain": "diamondbackenergy.com",
-    "portal": false
-  },
-  {
     "name": "Dice",
     "domain": "dice.com",
     "portal": true
-  },
-  {
-    "name": "Digital Realty Trust Reit Inc",
-    "domain": "digitalrealty.com",
-    "portal": false
   },
   {
     "name": "DigitalOcean",
@@ -1455,41 +715,6 @@
     "portal": false
   },
   {
-    "name": "Dollar General Corp",
-    "domain": "dollargeneral.com",
-    "portal": false
-  },
-  {
-    "name": "Dollar Tree Inc",
-    "domain": "dollartree.com",
-    "portal": false
-  },
-  {
-    "name": "Dominion Energy Inc",
-    "domain": "dominionenergy.com",
-    "portal": false
-  },
-  {
-    "name": "Dominos Pizza Inc",
-    "domain": "dominos.com",
-    "portal": false
-  },
-  {
-    "name": "DoorDash",
-    "domain": "doordash.com",
-    "portal": false
-  },
-  {
-    "name": "Dover Corp",
-    "domain": "dovercorporation.com",
-    "portal": false
-  },
-  {
-    "name": "Dow Inc",
-    "domain": "dow.com",
-    "portal": false
-  },
-  {
     "name": "Doximity",
     "domain": "doximity.com",
     "portal": false
@@ -1505,16 +730,6 @@
     "portal": false
   },
   {
-    "name": "Dte Energy",
-    "domain": "dteenergy.com",
-    "portal": false
-  },
-  {
-    "name": "Duke Energy Corp",
-    "domain": "duke-energy.com",
-    "portal": false
-  },
-  {
     "name": "Duo Security",
     "domain": "duo.com",
     "portal": false
@@ -1525,53 +740,13 @@
     "portal": false
   },
   {
-    "name": "Dupont De Nemours Inc",
-    "domain": "dupont.com",
-    "portal": false
-  },
-  {
     "name": "Earthly",
     "domain": "earthly.dev",
     "portal": false
   },
   {
-    "name": "Eastman Chemical",
-    "domain": "eastman.com",
-    "portal": false
-  },
-  {
-    "name": "Eaton Plc",
-    "domain": "eaton.com",
-    "portal": false
-  },
-  {
     "name": "eBay",
     "domain": "ebay.com",
-    "portal": false
-  },
-  {
-    "name": "Ebay Inc",
-    "domain": "ebay.com",
-    "portal": false
-  },
-  {
-    "name": "EchoStar",
-    "domain": "echostar.com",
-    "portal": false
-  },
-  {
-    "name": "Ecolab Inc",
-    "domain": "ecolab.com",
-    "portal": false
-  },
-  {
-    "name": "Edison International",
-    "domain": "edison.com",
-    "portal": false
-  },
-  {
-    "name": "Edwards Lifesciences Corp",
-    "domain": "edwardslifesciences.com",
     "portal": false
   },
   {
@@ -1595,43 +770,8 @@
     "portal": false
   },
   {
-    "name": "Electronic Arts Inc",
-    "domain": "ea.com",
-    "portal": false
-  },
-  {
-    "name": "Elevance Health Inc",
-    "domain": "elevancehealth.com",
-    "portal": false
-  },
-  {
-    "name": "Eli Lilly",
-    "domain": "lilly.com",
-    "portal": false
-  },
-  {
-    "name": "Emcor Group",
-    "domain": "emcorgroup.com",
-    "portal": false
-  },
-  {
-    "name": "Emerson Electric",
-    "domain": "emerson.com",
-    "portal": false
-  },
-  {
     "name": "Enphase Energy",
     "domain": "enphase.com",
-    "portal": false
-  },
-  {
-    "name": "Entergy Corp",
-    "domain": "entergy.com",
-    "portal": false
-  },
-  {
-    "name": "Eog Resources Inc",
-    "domain": "eogresources.com",
     "portal": false
   },
   {
@@ -1640,23 +780,8 @@
     "portal": false
   },
   {
-    "name": "Epam Systems Inc",
-    "domain": "epamsystems.com",
-    "portal": false
-  },
-  {
     "name": "Epic Games",
     "domain": "epicgames.com",
-    "portal": false
-  },
-  {
-    "name": "Eqt Corp",
-    "domain": "eqt.com",
-    "portal": false
-  },
-  {
-    "name": "Equifax Inc",
-    "domain": "equifax.com",
     "portal": false
   },
   {
@@ -1665,53 +790,13 @@
     "portal": false
   },
   {
-    "name": "Equinix Reit Inc",
-    "domain": "equinix.com",
-    "portal": false
-  },
-  {
-    "name": "Equity Residential Reit",
-    "domain": "equityapartments.com",
-    "portal": false
-  },
-  {
     "name": "Ericsson",
     "domain": "ericsson.com",
     "portal": false
   },
   {
-    "name": "Erie Indemnity Co",
-    "domain": "erieinsurance.com",
-    "portal": false
-  },
-  {
-    "name": "Essex Property Trust Reit Inc",
-    "domain": "essexpropertytrust.com",
-    "portal": false
-  },
-  {
-    "name": "Estee Lauder Inc Class A",
-    "domain": "esteelauder.com",
-    "portal": false
-  },
-  {
     "name": "Etsy",
     "domain": "etsy.com",
-    "portal": false
-  },
-  {
-    "name": "Everest Group Ltd",
-    "domain": "everestglobal.com",
-    "portal": false
-  },
-  {
-    "name": "Evergy Inc",
-    "domain": "evergy.com",
-    "portal": false
-  },
-  {
-    "name": "Eversource Energy",
-    "domain": "eversource.com",
     "portal": false
   },
   {
@@ -1725,53 +810,8 @@
     "portal": false
   },
   {
-    "name": "Exelon Corp",
-    "domain": "exeloncorp.com",
-    "portal": false
-  },
-  {
-    "name": "Expand Energy Corp",
-    "domain": "expandenergy.com",
-    "portal": false
-  },
-  {
-    "name": "Expedia Group Inc",
-    "domain": "expediagroup.com",
-    "portal": false
-  },
-  {
-    "name": "Expeditors International Of Washin",
-    "domain": "expeditors.com",
-    "portal": false
-  },
-  {
-    "name": "Extra Space Storage Reit Inc",
-    "domain": "extraspace.com",
-    "portal": false
-  },
-  {
-    "name": "Exxon Mobil Corp",
-    "domain": "exxonmobil.com",
-    "portal": false
-  },
-  {
     "name": "EY",
     "domain": "ey.com",
-    "portal": false
-  },
-  {
-    "name": "F5 Inc",
-    "domain": "f5.com",
-    "portal": false
-  },
-  {
-    "name": "Factset Research Systems Inc",
-    "domain": "factset.com",
-    "portal": false
-  },
-  {
-    "name": "Fair Isaac Corp",
-    "domain": "fairisaac.com",
     "portal": false
   },
   {
@@ -1780,53 +820,13 @@
     "portal": false
   },
   {
-    "name": "Fastenal",
-    "domain": "fastenal.com",
-    "portal": false
-  },
-  {
     "name": "Fastly",
     "domain": "fastly.com",
     "portal": false
   },
   {
-    "name": "Federal Realty Investment Trust Re",
-    "domain": "federalrealty.com",
-    "portal": false
-  },
-  {
-    "name": "Fedex Corp",
-    "domain": "fedex.com",
-    "portal": false
-  },
-  {
-    "name": "Fidelity National Information Serv",
-    "domain": "fisglobal.com",
-    "portal": false
-  },
-  {
-    "name": "Fifth Third Bancorp",
-    "domain": "53.com",
-    "portal": false
-  },
-  {
     "name": "Fireworks AI",
     "domain": "fireworks.ai",
-    "portal": false
-  },
-  {
-    "name": "First Solar Inc",
-    "domain": "firstsolar.com",
-    "portal": false
-  },
-  {
-    "name": "Firstenergy Corp",
-    "domain": "firstenergycorp.com",
-    "portal": false
-  },
-  {
-    "name": "Fiserv Inc",
-    "domain": "fiserv.com",
     "portal": false
   },
   {
@@ -1840,11 +840,6 @@
     "portal": false
   },
   {
-    "name": "Fleetcor Technologies Inc",
-    "domain": "fleetcor.com",
-    "portal": false
-  },
-  {
     "name": "FlexJobs",
     "domain": "flexjobs.com",
     "portal": true
@@ -1852,16 +847,6 @@
   {
     "name": "Fly.io",
     "domain": "fly.io",
-    "portal": false
-  },
-  {
-    "name": "FMC Corp",
-    "domain": "fmc.com",
-    "portal": false
-  },
-  {
-    "name": "Ford Motor Co",
-    "domain": "ford.com",
     "portal": false
   },
   {
@@ -1875,33 +860,8 @@
     "portal": false
   },
   {
-    "name": "Fortinet Inc",
-    "domain": "fortinet.com",
-    "portal": false
-  },
-  {
-    "name": "Fortive Corp",
-    "domain": "fortive.com",
-    "portal": false
-  },
-  {
-    "name": "Fox Corp Class A",
-    "domain": "foxcorp.com",
-    "portal": false
-  },
-  {
-    "name": "Fox Corp Class B",
-    "domain": "foxcorp.com",
-    "portal": false
-  },
-  {
     "name": "Framer",
     "domain": "framer.com",
-    "portal": false
-  },
-  {
-    "name": "Franklin Resources Inc",
-    "domain": "franklintempleton.com",
     "portal": false
   },
   {
@@ -1910,78 +870,13 @@
     "portal": true
   },
   {
-    "name": "Freeport Mcmoran Inc",
-    "domain": "fcx.com",
-    "portal": false
-  },
-  {
     "name": "Freshworks",
     "domain": "freshworks.com",
     "portal": false
   },
   {
-    "name": "Garmin Ltd",
-    "domain": "garmin.com",
-    "portal": false
-  },
-  {
-    "name": "Gartner Inc",
-    "domain": "gartner.com",
-    "portal": false
-  },
-  {
-    "name": "Ge Healthcare Technologies Inc",
-    "domain": "gehealthcaretechnologies.com",
-    "portal": false
-  },
-  {
-    "name": "GE Vernova Inc",
-    "domain": "gevernova.com",
-    "portal": false
-  },
-  {
-    "name": "Gen Digital Inc",
-    "domain": "gendigital.com",
-    "portal": false
-  },
-  {
-    "name": "Generac Holdings Inc",
-    "domain": "generacholdings.com",
-    "portal": false
-  },
-  {
-    "name": "General Dynamics Corp",
-    "domain": "gd.com",
-    "portal": false
-  },
-  {
-    "name": "General Electric",
-    "domain": "ge.com",
-    "portal": false
-  },
-  {
-    "name": "General Mills Inc",
-    "domain": "generalmills.com",
-    "portal": false
-  },
-  {
-    "name": "General Motors",
-    "domain": "gm.com",
-    "portal": false
-  },
-  {
-    "name": "Genuine Parts",
-    "domain": "genpt.com",
-    "portal": false
-  },
-  {
     "name": "Ghost",
     "domain": "ghost.org",
-    "portal": false
-  },
-  {
-    "name": "Gilead Sciences Inc",
-    "domain": "gilead.com",
     "portal": false
   },
   {
@@ -2005,33 +900,13 @@
     "portal": false
   },
   {
-    "name": "Global Payments Inc",
-    "domain": "globalpayments.com",
-    "portal": false
-  },
-  {
     "name": "Globant",
     "domain": "globant.com",
     "portal": false
   },
   {
-    "name": "Globe Life Inc",
-    "domain": "globelife.com",
-    "portal": false
-  },
-  {
     "name": "GOAT",
     "domain": "goat.com",
-    "portal": false
-  },
-  {
-    "name": "GoDaddy Inc",
-    "domain": "godaddy.com",
-    "portal": false
-  },
-  {
-    "name": "Goldman Sachs Group Inc",
-    "domain": "goldmansachs.com",
     "portal": false
   },
   {
@@ -2095,23 +970,8 @@
     "portal": true
   },
   {
-    "name": "Halliburton",
-    "domain": "halliburton.com",
-    "portal": false
-  },
-  {
-    "name": "Hartford Financial Services Group",
-    "domain": "thehartford.com",
-    "portal": false
-  },
-  {
     "name": "Harvey AI",
     "domain": "harvey.ai",
-    "portal": false
-  },
-  {
-    "name": "Hasbro Inc",
-    "domain": "hasbro.com",
     "portal": false
   },
   {
@@ -2125,11 +985,6 @@
     "portal": false
   },
   {
-    "name": "Hca Healthcare Inc",
-    "domain": "hcahealthcare.com",
-    "portal": false
-  },
-  {
     "name": "HCLTech",
     "domain": "hcltech.com",
     "portal": false
@@ -2137,11 +992,6 @@
   {
     "name": "Headspace",
     "domain": "headspace.com",
-    "portal": false
-  },
-  {
-    "name": "Healthpeak Properties Inc",
-    "domain": "healthpeak.com",
     "portal": false
   },
   {
@@ -2155,28 +1005,8 @@
     "portal": false
   },
   {
-    "name": "Henry Schein Inc",
-    "domain": "henryschein.com",
-    "portal": false
-  },
-  {
-    "name": "Hershey Foods",
-    "domain": "thehersheycompany.com",
-    "portal": false
-  },
-  {
     "name": "Hetzner",
     "domain": "hetzner.com",
-    "portal": false
-  },
-  {
-    "name": "Hewlett Packard Enterprise",
-    "domain": "hewlettpackardenterprise.com",
-    "portal": false
-  },
-  {
-    "name": "Hilton Worldwide Holdings Inc",
-    "domain": "hilton.com",
     "portal": false
   },
   {
@@ -2195,16 +1025,6 @@
     "portal": true
   },
   {
-    "name": "Hologic Inc",
-    "domain": "hologic.com",
-    "portal": false
-  },
-  {
-    "name": "Home Depot Inc",
-    "domain": "homedepot.com",
-    "portal": false
-  },
-  {
     "name": "Homer Learning",
     "domain": "homer.com",
     "portal": false
@@ -2215,43 +1035,13 @@
     "portal": false
   },
   {
-    "name": "Honeywell International Inc",
-    "domain": "honeywell.com",
-    "portal": false
-  },
-  {
-    "name": "Hormel Foods Corp",
-    "domain": "hormelfoods.com",
-    "portal": false
-  },
-  {
-    "name": "Host Hotels & Resorts Reit Inc",
-    "domain": "hosthotels.com",
-    "portal": false
-  },
-  {
-    "name": "Howmet Aerospace Inc",
-    "domain": "howmet.com",
-    "portal": false
-  },
-  {
     "name": "HP",
-    "domain": "hp.com",
-    "portal": false
-  },
-  {
-    "name": "Hp Inc",
     "domain": "hp.com",
     "portal": false
   },
   {
     "name": "Huawei",
     "domain": "huawei.com",
-    "portal": false
-  },
-  {
-    "name": "Hubbell Incorporated",
-    "domain": "hubbell.com",
     "portal": false
   },
   {
@@ -2265,43 +1055,13 @@
     "portal": false
   },
   {
-    "name": "Humana Inc",
-    "domain": "humana.com",
-    "portal": false
-  },
-  {
     "name": "Hume AI",
     "domain": "hume.ai",
     "portal": false
   },
   {
-    "name": "Huntington Bancshares Inc",
-    "domain": "huntington.com",
-    "portal": false
-  },
-  {
-    "name": "Huntington Ingalls Industries Inc",
-    "domain": "huntingtoningalls.com",
-    "portal": false
-  },
-  {
     "name": "IBM",
     "domain": "ibm.com",
-    "portal": false
-  },
-  {
-    "name": "Idex Corp",
-    "domain": "idexcorp.com",
-    "portal": false
-  },
-  {
-    "name": "Idexx Laboratories Inc",
-    "domain": "idexxlaboratories.com",
-    "portal": false
-  },
-  {
-    "name": "Illinois Tool Inc",
-    "domain": "illinoistool.com",
     "portal": false
   },
   {
@@ -2317,11 +1077,6 @@
   {
     "name": "Immutable",
     "domain": "immutable.com",
-    "portal": false
-  },
-  {
-    "name": "Incyte Corp",
-    "domain": "incyte.com",
     "portal": false
   },
   {
@@ -2345,11 +1100,6 @@
     "portal": false
   },
   {
-    "name": "Ingersoll Rand Inc",
-    "domain": "ingersollrand.com",
-    "portal": false
-  },
-  {
     "name": "Insitro",
     "domain": "insitro.com",
     "portal": false
@@ -2360,83 +1110,8 @@
     "portal": false
   },
   {
-    "name": "Insulet Corp",
-    "domain": "insulet.com",
-    "portal": false
-  },
-  {
     "name": "Intel",
     "domain": "intel.com",
-    "portal": false
-  },
-  {
-    "name": "Intel Corporation Corp",
-    "domain": "intelcorporation.com",
-    "portal": false
-  },
-  {
-    "name": "Interactive Brokers Group",
-    "domain": "interactivebrokers.com",
-    "portal": false
-  },
-  {
-    "name": "Intercontinental Exchange Inc",
-    "domain": "ice.com",
-    "portal": false
-  },
-  {
-    "name": "International Business Machines Co",
-    "domain": "ibm.com",
-    "portal": false
-  },
-  {
-    "name": "International Flavors & Fragrances",
-    "domain": "iff.com",
-    "portal": false
-  },
-  {
-    "name": "International Paper",
-    "domain": "internationalpaper.com",
-    "portal": false
-  },
-  {
-    "name": "Intuit Inc",
-    "domain": "intuit.com",
-    "portal": false
-  },
-  {
-    "name": "Intuitive Surgical Inc",
-    "domain": "intuitivesurgical.com",
-    "portal": false
-  },
-  {
-    "name": "Invesco Ltd",
-    "domain": "invesco.com",
-    "portal": false
-  },
-  {
-    "name": "Invitation Homes Inc",
-    "domain": "invitationhomes.com",
-    "portal": false
-  },
-  {
-    "name": "Iqvia Holdings Inc",
-    "domain": "iqviaholdings.com",
-    "portal": false
-  },
-  {
-    "name": "Iron Mountain Inc",
-    "domain": "ironmountain.com",
-    "portal": false
-  },
-  {
-    "name": "Jabil Inc",
-    "domain": "jabil.com",
-    "portal": false
-  },
-  {
-    "name": "Jack Henry And Associates Inc",
-    "domain": "jackhenry.com",
     "portal": false
   },
   {
@@ -2445,18 +1120,8 @@
     "portal": false
   },
   {
-    "name": "Jb Hunt Transport Services Inc",
-    "domain": "jbhunt.com",
-    "portal": false
-  },
-  {
     "name": "JFrog",
     "domain": "jfrog.com",
-    "portal": false
-  },
-  {
-    "name": "Jm Smucker",
-    "domain": "jmsmucker.com",
     "portal": false
   },
   {
@@ -2470,24 +1135,9 @@
     "portal": false
   },
   {
-    "name": "Johnson & Johnson",
-    "domain": "jnj.com",
-    "portal": false
-  },
-  {
-    "name": "Johnson Controls International Plc",
-    "domain": "johnsoncontrols.com",
-    "portal": false
-  },
-  {
     "name": "Jopwell",
     "domain": "jopwell.com",
     "portal": true
-  },
-  {
-    "name": "JPMorgan Chase & Co",
-    "domain": "jpmorganchase.com",
-    "portal": false
   },
   {
     "name": "Juniper Networks",
@@ -2505,63 +1155,13 @@
     "portal": false
   },
   {
-    "name": "Kellogg",
-    "domain": "kelloggs.com",
-    "portal": false
-  },
-  {
-    "name": "Kenvue Inc",
-    "domain": "kenvue.com",
-    "portal": false
-  },
-  {
-    "name": "Keurig Dr Pepper Inc",
-    "domain": "keurigdrpepper.com",
-    "portal": false
-  },
-  {
-    "name": "Keycorp",
-    "domain": "key.com",
-    "portal": false
-  },
-  {
-    "name": "Keysight Technologies Inc",
-    "domain": "keysighttechnologies.com",
-    "portal": false
-  },
-  {
     "name": "Khan Academy",
     "domain": "khanacademy.org",
     "portal": false
   },
   {
-    "name": "Kimberly Clark Corp",
-    "domain": "kimberly-clark.com",
-    "portal": false
-  },
-  {
-    "name": "Kimco Realty Reit Corp",
-    "domain": "kimcorealty.com",
-    "portal": false
-  },
-  {
-    "name": "Kinder Morgan Inc",
-    "domain": "kindermorgan.com",
-    "portal": false
-  },
-  {
     "name": "King",
     "domain": "king.com",
-    "portal": false
-  },
-  {
-    "name": "KKR & Co Inc",
-    "domain": "kkr.com",
-    "portal": false
-  },
-  {
-    "name": "Kla Corp",
-    "domain": "kla.com",
     "portal": false
   },
   {
@@ -2575,18 +1175,8 @@
     "portal": false
   },
   {
-    "name": "Kraft Heinz",
-    "domain": "kraftheinzcompany.com",
-    "portal": false
-  },
-  {
     "name": "Kraken",
     "domain": "kraken.ci",
-    "portal": false
-  },
-  {
-    "name": "Kroger",
-    "domain": "thekrogerco.com",
     "portal": false
   },
   {
@@ -2595,28 +1185,13 @@
     "portal": false
   },
   {
-    "name": "L3Harris Technologies Inc",
-    "domain": "l3harris.com",
-    "portal": false
-  },
-  {
     "name": "Labelbox",
     "domain": "labelbox.com",
     "portal": false
   },
   {
-    "name": "Laboratory Corporation Of America",
-    "domain": "laboratorycorporationofamerica.com",
-    "portal": false
-  },
-  {
     "name": "Lacework",
     "domain": "lacework.com",
-    "portal": false
-  },
-  {
-    "name": "Lam Research Corp",
-    "domain": "lamresearch.com",
     "portal": false
   },
   {
@@ -2630,26 +1205,6 @@
     "portal": false
   },
   {
-    "name": "Las Vegas Sands Corp",
-    "domain": "sands.com",
-    "portal": false
-  },
-  {
-    "name": "Leidos Holdings Inc",
-    "domain": "leidos.com",
-    "portal": false
-  },
-  {
-    "name": "Lennar A Corp",
-    "domain": "lennar.com",
-    "portal": false
-  },
-  {
-    "name": "Lennox International Inc",
-    "domain": "lennoxinternational.com",
-    "portal": false
-  },
-  {
     "name": "Levels.fyi",
     "domain": "levels.fyi",
     "portal": true
@@ -2657,11 +1212,6 @@
   {
     "name": "Lightstep",
     "domain": "lightstep.com",
-    "portal": false
-  },
-  {
-    "name": "Linde Plc",
-    "domain": "linde.com",
     "portal": false
   },
   {
@@ -2680,38 +1230,8 @@
     "portal": false
   },
   {
-    "name": "Live Nation Entertainment Inc",
-    "domain": "livenationentertainment.com",
-    "portal": false
-  },
-  {
-    "name": "Lockheed Martin Corp",
-    "domain": "lockheedmartin.com",
-    "portal": false
-  },
-  {
-    "name": "Loews Corp",
-    "domain": "loews.com",
-    "portal": false
-  },
-  {
-    "name": "Lowes Companies Inc",
-    "domain": "lowes.com",
-    "portal": false
-  },
-  {
     "name": "Lucid Motors",
     "domain": "lucidmotors.com",
-    "portal": false
-  },
-  {
-    "name": "Lululemon Athletica Inc",
-    "domain": "lululemon.com",
-    "portal": false
-  },
-  {
-    "name": "Lumentum Holdings",
-    "domain": "lumentumholdings.com",
     "portal": false
   },
   {
@@ -2720,18 +1240,8 @@
     "portal": false
   },
   {
-    "name": "Lyondellbasell Industries Nv Class",
-    "domain": "lyondellbasell.com",
-    "portal": false
-  },
-  {
     "name": "Lyra Health",
     "domain": "lyrahealth.com",
-    "portal": false
-  },
-  {
-    "name": "M&T Bank Corp",
-    "domain": "mtb.com",
     "portal": false
   },
   {
@@ -2745,38 +1255,8 @@
     "portal": false
   },
   {
-    "name": "Marathon Petroleum Corp",
-    "domain": "marathonpetroleum.com",
-    "portal": false
-  },
-  {
     "name": "Marqeta",
     "domain": "marqeta.com",
-    "portal": false
-  },
-  {
-    "name": "Marriott International Inc Class A",
-    "domain": "marriott.com",
-    "portal": false
-  },
-  {
-    "name": "Marsh & Mclennan Inc",
-    "domain": "mmc.com",
-    "portal": false
-  },
-  {
-    "name": "Martin Marietta Materials Inc",
-    "domain": "martinmarietta.com",
-    "portal": false
-  },
-  {
-    "name": "Masco Corp",
-    "domain": "masco.com",
-    "portal": false
-  },
-  {
-    "name": "Mastercard Inc Class A",
-    "domain": "mastercard.com",
     "portal": false
   },
   {
@@ -2787,21 +1267,6 @@
   {
     "name": "Mastodon",
     "domain": "joinmastodon.org",
-    "portal": false
-  },
-  {
-    "name": "Mccormick & Co Non-Voting Inc",
-    "domain": "mccormickconon-voting.com",
-    "portal": false
-  },
-  {
-    "name": "Mcdonalds Corp",
-    "domain": "mcdonalds.com",
-    "portal": false
-  },
-  {
-    "name": "Mckesson Corp",
-    "domain": "mckesson.com",
     "portal": false
   },
   {
@@ -2825,11 +1290,6 @@
     "portal": false
   },
   {
-    "name": "Medtronic Plc",
-    "domain": "medtronic.com",
-    "portal": false
-  },
-  {
     "name": "Meetup",
     "domain": "meetup.com",
     "portal": false
@@ -2837,11 +1297,6 @@
   {
     "name": "Mercado Libre",
     "domain": "mercadolibre.com",
-    "portal": false
-  },
-  {
-    "name": "Merck & Co Inc",
-    "domain": "merck.com",
     "portal": false
   },
   {
@@ -2855,38 +1310,8 @@
     "portal": false
   },
   {
-    "name": "Meta Platforms Inc Class A",
-    "domain": "meta.com",
-    "portal": false
-  },
-  {
-    "name": "Metlife Inc",
-    "domain": "metlife.com",
-    "portal": false
-  },
-  {
-    "name": "Mettler Toledo Inc",
-    "domain": "mettlertoledo.com",
-    "portal": false
-  },
-  {
-    "name": "Mgm Resorts International",
-    "domain": "mgmresorts.com",
-    "portal": false
-  },
-  {
-    "name": "Microchip Technology Inc",
-    "domain": "microchiptechnology.com",
-    "portal": false
-  },
-  {
     "name": "Micron",
     "domain": "micron.com",
-    "portal": false
-  },
-  {
-    "name": "Micron Technology Inc",
-    "domain": "microntechnology.com",
     "portal": false
   },
   {
@@ -2897,16 +1322,6 @@
   {
     "name": "Microsoft Azure",
     "domain": "azure.microsoft.com",
-    "portal": false
-  },
-  {
-    "name": "Microsoft Corp",
-    "domain": "microsoft.com",
-    "portal": false
-  },
-  {
-    "name": "Mid America Apartment Communities",
-    "domain": "maac.com",
     "portal": false
   },
   {
@@ -2930,23 +1345,8 @@
     "portal": false
   },
   {
-    "name": "Moderna Inc",
-    "domain": "moderna.com",
-    "portal": false
-  },
-  {
-    "name": "Molson Coors Brewing Class B",
-    "domain": "molsoncoors.com",
-    "portal": false
-  },
-  {
     "name": "Monday.com",
     "domain": "monday.com",
-    "portal": false
-  },
-  {
-    "name": "Mondelez International Inc Class A",
-    "domain": "mondelezinternational.com",
     "portal": false
   },
   {
@@ -2955,19 +1355,9 @@
     "portal": false
   },
   {
-    "name": "Monolithic Power Systems Inc",
-    "domain": "monolithicpowersystems.com",
-    "portal": false
-  },
-  {
     "name": "Monster",
     "domain": "monster.com",
     "portal": true
-  },
-  {
-    "name": "Monster Beverage Corp",
-    "domain": "monsterbevcorp.com",
-    "portal": false
   },
   {
     "name": "Monzo",
@@ -2975,33 +1365,8 @@
     "portal": false
   },
   {
-    "name": "Moodys Corp",
-    "domain": "moodys.com",
-    "portal": false
-  },
-  {
     "name": "Moon Active",
     "domain": "moonactive.com",
-    "portal": false
-  },
-  {
-    "name": "Morgan Stanley",
-    "domain": "morganstanley.com",
-    "portal": false
-  },
-  {
-    "name": "Mosaic",
-    "domain": "mosaicco.com",
-    "portal": false
-  },
-  {
-    "name": "Motorola Solutions Inc",
-    "domain": "motorolasolutions.com",
-    "portal": false
-  },
-  {
-    "name": "Msci Inc",
-    "domain": "msci.com",
     "portal": false
   },
   {
@@ -3017,11 +1382,6 @@
   {
     "name": "Mythical Games",
     "domain": "mythicalgames.com",
-    "portal": false
-  },
-  {
-    "name": "Nasdaq Inc",
-    "domain": "nasdaq.com",
     "portal": false
   },
   {
@@ -3055,17 +1415,7 @@
     "portal": false
   },
   {
-    "name": "Netapp Inc",
-    "domain": "netapp.com",
-    "portal": false
-  },
-  {
     "name": "Netflix",
-    "domain": "netflix.com",
-    "portal": false
-  },
-  {
-    "name": "Netflix Inc",
     "domain": "netflix.com",
     "portal": false
   },
@@ -3085,21 +1435,6 @@
     "portal": false
   },
   {
-    "name": "Newmont",
-    "domain": "newmont.com",
-    "portal": false
-  },
-  {
-    "name": "News Corp Class A",
-    "domain": "newscorp.com",
-    "portal": false
-  },
-  {
-    "name": "News Corp Class B",
-    "domain": "newscorp.com",
-    "portal": false
-  },
-  {
     "name": "Nextdoor",
     "domain": "nextdoor.com",
     "portal": false
@@ -3110,28 +1445,13 @@
     "portal": false
   },
   {
-    "name": "Nextera Energy Inc",
-    "domain": "nexteraenergy.com",
-    "portal": false
-  },
-  {
     "name": "Niantic",
     "domain": "nianticlabs.com",
     "portal": false
   },
   {
-    "name": "Nike Inc Class B",
-    "domain": "nike.com",
-    "portal": false
-  },
-  {
     "name": "Nintendo",
     "domain": "nintendo.com",
-    "portal": false
-  },
-  {
-    "name": "Nisource Inc",
-    "domain": "nisource.com",
     "portal": false
   },
   {
@@ -3150,38 +1470,13 @@
     "portal": false
   },
   {
-    "name": "Nordson Corp",
-    "domain": "nordson.com",
-    "portal": false
-  },
-  {
-    "name": "Norfolk Southern Corp",
-    "domain": "nscorp.com",
-    "portal": false
-  },
-  {
     "name": "Normal Computing",
     "domain": "normalcomputing.ai",
     "portal": false
   },
   {
-    "name": "Northern Trust Corp",
-    "domain": "northerntrust.com",
-    "portal": false
-  },
-  {
-    "name": "Northrop Grumman Corp",
-    "domain": "northropgrumman.com",
-    "portal": false
-  },
-  {
     "name": "Northvolt",
     "domain": "northvolt.com",
-    "portal": false
-  },
-  {
-    "name": "Norwegian Cruise Line Holdings Ltd",
-    "domain": "ncl.com",
     "portal": false
   },
   {
@@ -3195,11 +1490,6 @@
     "portal": false
   },
   {
-    "name": "Nrg Energy Inc",
-    "domain": "nrg.com",
-    "portal": false
-  },
-  {
     "name": "NTT Data",
     "domain": "nttdata.com",
     "portal": false
@@ -3207,11 +1497,6 @@
   {
     "name": "Nubank",
     "domain": "nubank.com.br",
-    "portal": false
-  },
-  {
-    "name": "Nucor Corp",
-    "domain": "nucor.com",
     "portal": false
   },
   {
@@ -3225,33 +1510,13 @@
     "portal": false
   },
   {
-    "name": "Nvidia Corp",
-    "domain": "nvidia.com",
-    "portal": false
-  },
-  {
-    "name": "Nvr Inc",
-    "domain": "nvrinc.com",
-    "portal": false
-  },
-  {
     "name": "Nx",
     "domain": "nx.dev",
     "portal": false
   },
   {
-    "name": "Nxp Semiconductors Nv",
-    "domain": "nxpsemiconductors.com",
-    "portal": false
-  },
-  {
     "name": "Oak Street Health",
     "domain": "oakstreethealth.com",
-    "portal": false
-  },
-  {
-    "name": "Occidental Petroleum Corp",
-    "domain": "oxy.com",
     "portal": false
   },
   {
@@ -3265,33 +1530,13 @@
     "portal": false
   },
   {
-    "name": "Old Dominion Freight Line Inc",
-    "domain": "odfl.com",
-    "portal": false
-  },
-  {
     "name": "Omada Health",
     "domain": "omadahealth.com",
     "portal": false
   },
   {
-    "name": "Omnicom Group Inc",
-    "domain": "omnicomgroup.com",
-    "portal": false
-  },
-  {
-    "name": "On Semiconductor Corp",
-    "domain": "onsemiconductor.com",
-    "portal": false
-  },
-  {
     "name": "One Medical",
     "domain": "onemedical.com",
-    "portal": false
-  },
-  {
-    "name": "Oneok Inc",
-    "domain": "oneok.com",
     "portal": false
   },
   {
@@ -3310,11 +1555,6 @@
     "portal": false
   },
   {
-    "name": "Oracle Corp",
-    "domain": "oracle.com",
-    "portal": false
-  },
-  {
     "name": "Orange",
     "domain": "orange.com",
     "portal": false
@@ -3322,16 +1562,6 @@
   {
     "name": "Orca Security",
     "domain": "orca.security",
-    "portal": false
-  },
-  {
-    "name": "Oreilly Automotive Inc",
-    "domain": "oreillyauto.com",
-    "portal": false
-  },
-  {
-    "name": "Otis Worldwide Corp",
-    "domain": "otis.com",
     "portal": false
   },
   {
@@ -3365,11 +1595,6 @@
     "portal": false
   },
   {
-    "name": "Paccar Inc",
-    "domain": "paccar.com",
-    "portal": false
-  },
-  {
     "name": "Pachama",
     "domain": "pachama.com",
     "portal": false
@@ -3380,27 +1605,12 @@
     "portal": false
   },
   {
-    "name": "Packaging Corp Of America",
-    "domain": "packagingcorp.com",
-    "portal": false
-  },
-  {
     "name": "Palantir",
     "domain": "palantir.com",
     "portal": false
   },
   {
-    "name": "Palantir Technologies Inc",
-    "domain": "palantirtechnologies.com",
-    "portal": false
-  },
-  {
     "name": "Palo Alto Networks",
-    "domain": "paloaltonetworks.com",
-    "portal": false
-  },
-  {
-    "name": "Palo Alto Networks Inc",
     "domain": "paloaltonetworks.com",
     "portal": false
   },
@@ -3415,32 +1625,12 @@
     "portal": false
   },
   {
-    "name": "Paramount Global Class B",
-    "domain": "paramount.com",
-    "portal": false
-  },
-  {
-    "name": "Parker-Hannifin Corp",
-    "domain": "parker.com",
-    "portal": false
-  },
-  {
     "name": "Patreon",
     "domain": "patreon.com",
     "portal": false
   },
   {
-    "name": "Paycom Software Inc",
-    "domain": "paycomsoftware.com",
-    "portal": false
-  },
-  {
     "name": "PayPal",
-    "domain": "paypal.com",
-    "portal": false
-  },
-  {
-    "name": "Paypal Holdings Inc",
     "domain": "paypal.com",
     "portal": false
   },
@@ -3450,19 +1640,9 @@
     "portal": false
   },
   {
-    "name": "Pentair",
-    "domain": "pentair.com",
-    "portal": false
-  },
-  {
     "name": "PeoplePerHour",
     "domain": "peopleperhour.com",
     "portal": true
-  },
-  {
-    "name": "Pepsico Inc",
-    "domain": "pepsico.com",
-    "portal": false
   },
   {
     "name": "Perficient",
@@ -3480,26 +1660,6 @@
     "portal": false
   },
   {
-    "name": "Pfizer Inc",
-    "domain": "pfizer.com",
-    "portal": false
-  },
-  {
-    "name": "Pg&E Corp",
-    "domain": "pge.com",
-    "portal": false
-  },
-  {
-    "name": "Philip Morris International Inc",
-    "domain": "pmi.com",
-    "portal": false
-  },
-  {
-    "name": "Phillips",
-    "domain": "phillips66.com",
-    "portal": false
-  },
-  {
     "name": "Photomath",
     "domain": "photomath.com",
     "portal": false
@@ -3510,18 +1670,8 @@
     "portal": false
   },
   {
-    "name": "Pinnacle West Corp",
-    "domain": "pinnaclewest.com",
-    "portal": false
-  },
-  {
     "name": "Pinterest",
     "domain": "pinterest.com",
-    "portal": false
-  },
-  {
-    "name": "Pioneer Natural Resource",
-    "domain": "pion.com",
     "portal": false
   },
   {
@@ -3560,16 +1710,6 @@
     "portal": false
   },
   {
-    "name": "Pnc Financial Services Group Inc",
-    "domain": "pnc.com",
-    "portal": false
-  },
-  {
-    "name": "Pool Corp",
-    "domain": "poolcorp.com",
-    "portal": false
-  },
-  {
     "name": "Poshmark",
     "domain": "poshmark.com",
     "portal": false
@@ -3585,28 +1725,8 @@
     "portal": true
   },
   {
-    "name": "Ppg Industries Inc",
-    "domain": "ppg.com",
-    "portal": false
-  },
-  {
-    "name": "Ppl Corp",
-    "domain": "pplweb.com",
-    "portal": false
-  },
-  {
-    "name": "Principal Financial Group Inc",
-    "domain": "principal.com",
-    "portal": false
-  },
-  {
     "name": "Prisma",
     "domain": "prisma.io",
-    "portal": false
-  },
-  {
-    "name": "Procter & Gamble",
-    "domain": "pg.com",
     "portal": false
   },
   {
@@ -3615,38 +1735,8 @@
     "portal": false
   },
   {
-    "name": "Progressive Corp",
-    "domain": "progressive.com",
-    "portal": false
-  },
-  {
-    "name": "Prologis Reit Inc",
-    "domain": "prologis.com",
-    "portal": false
-  },
-  {
     "name": "Proterra",
     "domain": "proterra.com",
-    "portal": false
-  },
-  {
-    "name": "Prudential Financial Inc",
-    "domain": "prudential.com",
-    "portal": false
-  },
-  {
-    "name": "Ptc Inc",
-    "domain": "ptc.com",
-    "portal": false
-  },
-  {
-    "name": "Public Service Enterprise Group In",
-    "domain": "pseg.com",
-    "portal": false
-  },
-  {
-    "name": "Public Storage Reit",
-    "domain": "publicstorage.com",
     "portal": false
   },
   {
@@ -3657,11 +1747,6 @@
   {
     "name": "Publicis Sapient",
     "domain": "publicissapient.com",
-    "portal": false
-  },
-  {
-    "name": "Pultegroup Inc",
-    "domain": "pultegroup.com",
     "portal": false
   },
   {
@@ -3685,23 +1770,8 @@
     "portal": false
   },
   {
-    "name": "Qualcomm Inc",
-    "domain": "qualcomm.com",
-    "portal": false
-  },
-  {
-    "name": "Quanta Services Inc",
-    "domain": "quantaservices.com",
-    "portal": false
-  },
-  {
     "name": "QuantumScape",
     "domain": "quantumscape.com",
-    "portal": false
-  },
-  {
-    "name": "Quest Diagnostics Inc",
-    "domain": "questdiagnostics.com",
     "portal": false
   },
   {
@@ -3720,11 +1790,6 @@
     "portal": false
   },
   {
-    "name": "Ralph Lauren Corp Class A",
-    "domain": "ralphlauren.com",
-    "portal": false
-  },
-  {
     "name": "Ramp",
     "domain": "ramp.com",
     "portal": false
@@ -3737,16 +1802,6 @@
   {
     "name": "Raycast",
     "domain": "raycast.com",
-    "portal": false
-  },
-  {
-    "name": "Raymond James Inc",
-    "domain": "raymondjames.com",
-    "portal": false
-  },
-  {
-    "name": "Realty Income Reit Corp",
-    "domain": "realtyincome.com",
     "portal": false
   },
   {
@@ -3772,21 +1827,6 @@
   {
     "name": "Redwood Materials",
     "domain": "redwoodmaterials.com",
-    "portal": false
-  },
-  {
-    "name": "Regency Centers Reit Corp",
-    "domain": "regencycenters.com",
-    "portal": false
-  },
-  {
-    "name": "Regeneron Pharmaceuticals Inc",
-    "domain": "regeneronpharmaceuticals.com",
-    "portal": false
-  },
-  {
-    "name": "Regions Financial Corp",
-    "domain": "regions.com",
     "portal": false
   },
   {
@@ -3825,16 +1865,6 @@
     "portal": false
   },
   {
-    "name": "Republic Services Inc",
-    "domain": "republicservices.com",
-    "portal": false
-  },
-  {
-    "name": "Resmed Inc",
-    "domain": "resmed.com",
-    "portal": false
-  },
-  {
     "name": "Respawn Entertainment",
     "domain": "respawn.com",
     "portal": false
@@ -3842,11 +1872,6 @@
   {
     "name": "Revolut",
     "domain": "revolut.com",
-    "portal": false
-  },
-  {
-    "name": "Revvity Inc",
-    "domain": "revvity.com",
     "portal": false
   },
   {
@@ -3875,43 +1900,8 @@
     "portal": false
   },
   {
-    "name": "Robinhood Markets",
-    "domain": "robinhood.com",
-    "portal": false
-  },
-  {
     "name": "Roblox",
     "domain": "roblox.com",
-    "portal": false
-  },
-  {
-    "name": "Rockwell Automation Inc",
-    "domain": "rockwellautomation.com",
-    "portal": false
-  },
-  {
-    "name": "Rollins Inc",
-    "domain": "rollins.com",
-    "portal": false
-  },
-  {
-    "name": "Roper Technologies Inc",
-    "domain": "ropertechnologies.com",
-    "portal": false
-  },
-  {
-    "name": "Ross Stores Inc",
-    "domain": "rossstores.com",
-    "portal": false
-  },
-  {
-    "name": "Royal Caribbean Group Ltd",
-    "domain": "royalcaribbean.com",
-    "portal": false
-  },
-  {
-    "name": "Rtx Corp",
-    "domain": "rtx.com",
     "portal": false
   },
   {
@@ -3920,17 +1910,7 @@
     "portal": false
   },
   {
-    "name": "S&P Global Inc",
-    "domain": "spglobal.com",
-    "portal": false
-  },
-  {
     "name": "Salesforce",
-    "domain": "salesforce.com",
-    "portal": false
-  },
-  {
-    "name": "Salesforce Inc",
     "domain": "salesforce.com",
     "portal": false
   },
@@ -3940,18 +1920,8 @@
     "portal": false
   },
   {
-    "name": "SanDisk Corp",
-    "domain": "sandisk.com",
-    "portal": false
-  },
-  {
     "name": "SAP",
     "domain": "sap.com",
-    "portal": false
-  },
-  {
-    "name": "Sba Communications Reit Corp Class",
-    "domain": "sbaservices.com",
     "portal": false
   },
   {
@@ -3960,23 +1930,8 @@
     "portal": false
   },
   {
-    "name": "Schlumberger Nv",
-    "domain": "slb.com",
-    "portal": false
-  },
-  {
     "name": "Schoology",
     "domain": "schoology.com",
-    "portal": false
-  },
-  {
-    "name": "Seagate Technology Holdings Plc",
-    "domain": "seagatetechnologyholdings.com",
-    "portal": false
-  },
-  {
-    "name": "Sempra",
-    "domain": "sempra.com",
     "portal": false
   },
   {
@@ -3995,16 +1950,6 @@
     "portal": false
   },
   {
-    "name": "Servicenow Inc",
-    "domain": "servicenow.com",
-    "portal": false
-  },
-  {
-    "name": "Sherwin Williams",
-    "domain": "sherwin-williams.com",
-    "portal": false
-  },
-  {
     "name": "Shield AI",
     "domain": "shield.ai",
     "portal": false
@@ -4017,11 +1962,6 @@
   {
     "name": "Signal",
     "domain": "signal.org",
-    "portal": false
-  },
-  {
-    "name": "Simon Property Group Reit Inc",
-    "domain": "simon.com",
     "portal": false
   },
   {
@@ -4050,11 +1990,6 @@
     "portal": false
   },
   {
-    "name": "Skyworks Solutions Inc",
-    "domain": "skyworkssolutions.com",
-    "portal": false
-  },
-  {
     "name": "Slack",
     "domain": "slack.com",
     "portal": false
@@ -4077,11 +2012,6 @@
   {
     "name": "Snap",
     "domain": "snap.com",
-    "portal": false
-  },
-  {
-    "name": "Snap On Inc",
-    "domain": "snapon.com",
     "portal": false
   },
   {
@@ -4110,11 +2040,6 @@
     "portal": false
   },
   {
-    "name": "Solventum Corp",
-    "domain": "solventum.com",
-    "portal": false
-  },
-  {
     "name": "Sonatype",
     "domain": "sonatype.com",
     "portal": false
@@ -4127,16 +2052,6 @@
   {
     "name": "Sony Music",
     "domain": "sonymusic.com",
-    "portal": false
-  },
-  {
-    "name": "Southern",
-    "domain": "southerncompany.com",
-    "portal": false
-  },
-  {
-    "name": "Southwest Airlines",
-    "domain": "southwestairlines.com",
     "portal": false
   },
   {
@@ -4175,33 +2090,8 @@
     "portal": false
   },
   {
-    "name": "Stanley Black & Decker Inc",
-    "domain": "stanleyblackanddecker.com",
-    "portal": false
-  },
-  {
-    "name": "Starbucks Corp",
-    "domain": "starbucks.com",
-    "portal": false
-  },
-  {
-    "name": "State Street Corp",
-    "domain": "statestreet.com",
-    "portal": false
-  },
-  {
-    "name": "Steel Dynamics Inc",
-    "domain": "steeldynamics.com",
-    "portal": false
-  },
-  {
     "name": "Step",
     "domain": "step.com",
-    "portal": false
-  },
-  {
-    "name": "Steris",
-    "domain": "steris.com",
     "portal": false
   },
   {
@@ -4217,11 +2107,6 @@
   {
     "name": "Stripe",
     "domain": "stripe.com",
-    "portal": false
-  },
-  {
-    "name": "Stryker Corp",
-    "domain": "stryker.com",
     "portal": false
   },
   {
@@ -4250,11 +2135,6 @@
     "portal": false
   },
   {
-    "name": "Super Micro Computer Inc",
-    "domain": "supermicrocomputer.com",
-    "portal": false
-  },
-  {
     "name": "Supercell",
     "domain": "supercell.com",
     "portal": false
@@ -4275,23 +2155,8 @@
     "portal": false
   },
   {
-    "name": "Synchrony Financial",
-    "domain": "synchrony.com",
-    "portal": false
-  },
-  {
-    "name": "Synopsys Inc",
-    "domain": "synopsys.com",
-    "portal": false
-  },
-  {
     "name": "Synthesia",
     "domain": "synthesia.io",
-    "portal": false
-  },
-  {
-    "name": "Sysco Corp",
-    "domain": "sysco.com",
     "portal": false
   },
   {
@@ -4300,23 +2165,8 @@
     "portal": false
   },
   {
-    "name": "T Mobile Us Inc",
-    "domain": "t-mobile.com",
-    "portal": false
-  },
-  {
-    "name": "T Rowe Price Group Inc",
-    "domain": "troweprice.com",
-    "portal": false
-  },
-  {
     "name": "T-Mobile",
     "domain": "t-mobile.com",
-    "portal": false
-  },
-  {
-    "name": "Take Two Interactive Software Inc",
-    "domain": "take2games.com",
     "portal": false
   },
   {
@@ -4335,28 +2185,8 @@
     "portal": false
   },
   {
-    "name": "Tapestry Inc",
-    "domain": "tapestry.com",
-    "portal": false
-  },
-  {
-    "name": "Targa Resources Corp",
-    "domain": "targaresources.com",
-    "portal": false
-  },
-  {
-    "name": "Target Corp",
-    "domain": "target.com",
-    "portal": false
-  },
-  {
     "name": "Tata Consultancy Services",
     "domain": "tcs.com",
-    "portal": false
-  },
-  {
-    "name": "Te Connectivity Ltd",
-    "domain": "teconnectivity.com",
     "portal": false
   },
   {
@@ -4372,11 +2202,6 @@
   {
     "name": "TED",
     "domain": "ted.com",
-    "portal": false
-  },
-  {
-    "name": "Teledyne Technologies Inc",
-    "domain": "teledynetechnologies.com",
     "portal": false
   },
   {
@@ -4405,11 +2230,6 @@
     "portal": false
   },
   {
-    "name": "Teradyne Inc",
-    "domain": "teradyne.com",
-    "portal": false
-  },
-  {
     "name": "Terraform",
     "domain": "hashicorp.com",
     "portal": false
@@ -4420,18 +2240,8 @@
     "portal": false
   },
   {
-    "name": "Tesla Inc",
-    "domain": "tesla.com",
-    "portal": false
-  },
-  {
     "name": "Testim",
     "domain": "testim.io",
-    "portal": false
-  },
-  {
-    "name": "Texas Instrument Inc",
-    "domain": "texasinstrument.com",
     "portal": false
   },
   {
@@ -4440,28 +2250,8 @@
     "portal": false
   },
   {
-    "name": "Texas Pacific Land",
-    "domain": "texaspacificland.com",
-    "portal": false
-  },
-  {
-    "name": "Textron Inc",
-    "domain": "textron.com",
-    "portal": false
-  },
-  {
     "name": "The RealReal",
     "domain": "therealreal.com",
-    "portal": false
-  },
-  {
-    "name": "The Trade Desk",
-    "domain": "thetradedesk.com",
-    "portal": false
-  },
-  {
-    "name": "Thermo Fisher Scientific Inc",
-    "domain": "thermofisher.com",
     "portal": false
   },
   {
@@ -4485,16 +2275,6 @@
     "portal": false
   },
   {
-    "name": "Tjx Inc",
-    "domain": "tjx.com",
-    "portal": false
-  },
-  {
-    "name": "TKO Group Holdings",
-    "domain": "tkogrp.com",
-    "portal": false
-  },
-  {
     "name": "Together AI",
     "domain": "together.ai",
     "portal": false
@@ -4505,43 +2285,13 @@
     "portal": true
   },
   {
-    "name": "Tractor Supply",
-    "domain": "tractorsupply.com",
-    "portal": false
-  },
-  {
-    "name": "Trane Technologies Plc",
-    "domain": "tranetechnologies.com",
-    "portal": false
-  },
-  {
-    "name": "Transdigm Group Inc",
-    "domain": "transdigm.com",
-    "portal": false
-  },
-  {
-    "name": "Travelers Companies Inc",
-    "domain": "travelers.com",
-    "portal": false
-  },
-  {
     "name": "Trellix",
     "domain": "trellix.com",
     "portal": false
   },
   {
-    "name": "Trimble Inc",
-    "domain": "trimble.com",
-    "portal": false
-  },
-  {
     "name": "Tripledot",
     "domain": "tripledotstudios.com",
-    "portal": false
-  },
-  {
-    "name": "Truist Financial Corp",
-    "domain": "truist.com",
     "portal": false
   },
   {
@@ -4570,27 +2320,12 @@
     "portal": false
   },
   {
-    "name": "Tyler Technologies Inc",
-    "domain": "tylertechnologies.com",
-    "portal": false
-  },
-  {
     "name": "Typeface",
     "domain": "typeface.ai",
     "portal": false
   },
   {
-    "name": "Tyson Foods Inc Class A",
-    "domain": "tysonfoods.com",
-    "portal": false
-  },
-  {
     "name": "Uber",
-    "domain": "uber.com",
-    "portal": false
-  },
-  {
-    "name": "Uber Technologies Inc",
     "domain": "uber.com",
     "portal": false
   },
@@ -4610,44 +2345,9 @@
     "portal": false
   },
   {
-    "name": "Udr Reit Inc",
-    "domain": "udr.com",
-    "portal": false
-  },
-  {
-    "name": "Ulta Beauty Inc",
-    "domain": "ulta.com",
-    "portal": false
-  },
-  {
     "name": "Underdog.io",
     "domain": "underdog.io",
     "portal": true
-  },
-  {
-    "name": "Union Pacific Corp",
-    "domain": "up.com",
-    "portal": false
-  },
-  {
-    "name": "United Airlines Holdings Inc",
-    "domain": "unitedairlinesholdings.com",
-    "portal": false
-  },
-  {
-    "name": "United Parcel Service Inc Class B",
-    "domain": "ups.com",
-    "portal": false
-  },
-  {
-    "name": "United Rentals Inc",
-    "domain": "unitedrentals.com",
-    "portal": false
-  },
-  {
-    "name": "Unitedhealth Group Inc",
-    "domain": "unitedhealthgroup.com",
-    "portal": false
   },
   {
     "name": "Unity",
@@ -4657,11 +2357,6 @@
   {
     "name": "Unity Technologies",
     "domain": "unity.com",
-    "portal": false
-  },
-  {
-    "name": "Universal Health Services Inc Clas",
-    "domain": "universalhealthservicesincclas.com",
     "portal": false
   },
   {
@@ -4675,16 +2370,6 @@
     "portal": true
   },
   {
-    "name": "Us Bancorp",
-    "domain": "usbank.com",
-    "portal": false
-  },
-  {
-    "name": "Valero Energy Corp",
-    "domain": "valero.com",
-    "portal": false
-  },
-  {
     "name": "Valve",
     "domain": "valvesoftware.com",
     "portal": false
@@ -4692,16 +2377,6 @@
   {
     "name": "Veem",
     "domain": "veem.com",
-    "portal": false
-  },
-  {
-    "name": "Ventas Reit Inc",
-    "domain": "ventasreit.com",
-    "portal": false
-  },
-  {
-    "name": "Veralto",
-    "domain": "veralto.com",
     "portal": false
   },
   {
@@ -4715,23 +2390,8 @@
     "portal": false
   },
   {
-    "name": "Verisign Inc",
-    "domain": "verisign.com",
-    "portal": false
-  },
-  {
-    "name": "Verisk Analytics Inc",
-    "domain": "verisk.com",
-    "portal": false
-  },
-  {
     "name": "Verizon",
     "domain": "verizon.com",
-    "portal": false
-  },
-  {
-    "name": "Verizon Communications Inc",
-    "domain": "verizoncommunications.com",
     "portal": false
   },
   {
@@ -4740,29 +2400,9 @@
     "portal": false
   },
   {
-    "name": "Vertex Pharmaceuticals Inc",
-    "domain": "vertexpharmaceuticals.com",
-    "portal": false
-  },
-  {
-    "name": "Vertiv Holdings",
-    "domain": "vertivholdings.com",
-    "portal": false
-  },
-  {
     "name": "Vettery",
     "domain": "vettery.com",
     "portal": true
-  },
-  {
-    "name": "Viatris Inc",
-    "domain": "viatris.com",
-    "portal": false
-  },
-  {
-    "name": "Vici Pptys Inc",
-    "domain": "viciproperties.com",
-    "portal": false
   },
   {
     "name": "Vimeo",
@@ -4780,11 +2420,6 @@
     "portal": false
   },
   {
-    "name": "Visa Inc Class A",
-    "domain": "visa.com",
-    "portal": false
-  },
-  {
     "name": "VMware",
     "domain": "vmware.com",
     "portal": false
@@ -4795,32 +2430,12 @@
     "portal": false
   },
   {
-    "name": "Vulcan Materials",
-    "domain": "vmc.com",
-    "portal": false
-  },
-  {
     "name": "Vultr",
     "domain": "vultr.com",
     "portal": false
   },
   {
-    "name": "Walmart Inc",
-    "domain": "walmart.com",
-    "portal": false
-  },
-  {
-    "name": "Walt Disney",
-    "domain": "disney.com",
-    "portal": false
-  },
-  {
     "name": "Warner Bros Discovery",
-    "domain": "wbd.com",
-    "portal": false
-  },
-  {
-    "name": "Warner Bros. Discovery Inc Series",
     "domain": "wbd.com",
     "portal": false
   },
@@ -4832,16 +2447,6 @@
   {
     "name": "Warp",
     "domain": "warp.dev",
-    "portal": false
-  },
-  {
-    "name": "Waste Management Inc",
-    "domain": "wm.com",
-    "portal": false
-  },
-  {
-    "name": "Waters Corp",
-    "domain": "waters.com",
     "portal": false
   },
   {
@@ -4865,11 +2470,6 @@
     "portal": false
   },
   {
-    "name": "Wec Energy Group Inc",
-    "domain": "wecenergygroup.com",
-    "portal": false
-  },
-  {
     "name": "Weights & Biases",
     "domain": "wandb.com",
     "portal": false
@@ -4880,58 +2480,8 @@
     "portal": true
   },
   {
-    "name": "Wells Fargo",
-    "domain": "wellsfargo.com",
-    "portal": false
-  },
-  {
-    "name": "Welltower Inc",
-    "domain": "welltower.com",
-    "portal": false
-  },
-  {
-    "name": "West Pharmaceutical Services Inc",
-    "domain": "westpharmaceuticalservices.com",
-    "portal": false
-  },
-  {
-    "name": "Western Digital Corp",
-    "domain": "westerndigital.com",
-    "portal": false
-  },
-  {
-    "name": "Westinghouse Air Brake Technologie",
-    "domain": "wabtecorp.com",
-    "portal": false
-  },
-  {
-    "name": "Westrock",
-    "domain": "westrock.com",
-    "portal": false
-  },
-  {
-    "name": "Weyerhaeuser Reit",
-    "domain": "weyerhaeuser.com",
-    "portal": false
-  },
-  {
     "name": "Whoop",
     "domain": "whoop.com",
-    "portal": false
-  },
-  {
-    "name": "Williams Inc",
-    "domain": "williams.com",
-    "portal": false
-  },
-  {
-    "name": "Williams-Sonoma",
-    "domain": "williams-sonoma.com",
-    "portal": false
-  },
-  {
-    "name": "Willis Towers Watson Plc",
-    "domain": "wtwco.com",
     "portal": false
   },
   {
@@ -4980,19 +2530,9 @@
     "portal": false
   },
   {
-    "name": "Workday Inc",
-    "domain": "workday.com",
-    "portal": false
-  },
-  {
     "name": "Working Nomads",
     "domain": "workingnomads.com",
     "portal": true
-  },
-  {
-    "name": "Wr Berkley Corp",
-    "domain": "berkley.com",
-    "portal": false
   },
   {
     "name": "Writer",
@@ -5000,28 +2540,8 @@
     "portal": false
   },
   {
-    "name": "Ww Grainger Inc",
-    "domain": "grainger.com",
-    "portal": false
-  },
-  {
-    "name": "Wynn Resorts Ltd",
-    "domain": "wynnresorts.com",
-    "portal": false
-  },
-  {
     "name": "X",
     "domain": "x.com",
-    "portal": false
-  },
-  {
-    "name": "Xcel Energy Inc",
-    "domain": "xcelenergy.com",
-    "portal": false
-  },
-  {
-    "name": "Xylem Inc",
-    "domain": "xylem.com",
     "portal": false
   },
   {
@@ -5035,18 +2555,8 @@
     "portal": false
   },
   {
-    "name": "Yum Brands Inc",
-    "domain": "yum.com",
-    "portal": false
-  },
-  {
     "name": "Zalando",
     "domain": "zalando.com",
-    "portal": false
-  },
-  {
-    "name": "Zebra Technologies Corp Class A",
-    "domain": "zebratechnologiescorp.com",
     "portal": false
   },
   {
@@ -5060,11 +2570,6 @@
     "portal": false
   },
   {
-    "name": "Zimmer Biomet Holdings Inc",
-    "domain": "zimmerbiometholdings.com",
-    "portal": false
-  },
-  {
     "name": "ZipRecruiter",
     "domain": "ziprecruiter.com",
     "portal": true
@@ -5072,11 +2577,6 @@
   {
     "name": "Zocdoc",
     "domain": "zocdoc.com",
-    "portal": false
-  },
-  {
-    "name": "Zoetis Inc Class A",
-    "domain": "zoetisinc.com",
     "portal": false
   },
   {
